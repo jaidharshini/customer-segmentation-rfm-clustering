@@ -133,14 +133,3 @@ streamlit run app/streamlit_app.py
 
 `Python` · `pandas` · `NumPy` · `scikit-learn` (K-Means, DBSCAN, silhouette score) · `matplotlib` / `seaborn` · `Plotly` · `Streamlit` · `Jupyter`
 
-## 9. Key Talking Points for Interviews
-
-- **Why log-transform before scaling?** RFM data is heavily right-skewed (a few customers spend far more than most); log-transform pulls in outliers so Euclidean-distance-based K-Means isn't dominated by a handful of extreme spenders.
-- **Why K-Means over DBSCAN here?** DBSCAN is better suited to data with well-separated, arbitrary-shaped, variable-density clusters. RFM segments tend to blend into each other along a continuum, which favors K-Means' centroid-based partitioning — confirmed empirically by comparing silhouette scores.
-- **How was *k* chosen?** Combined the Elbow Method (diminishing returns in inertia) with the Silhouette Score (cluster separation/cohesion) rather than picking an arbitrary number.
-- **How is this actually useful to a business?** Every cluster is translated into a named segment + a specific action + a quantified revenue opportunity — not left as an abstract "Cluster 3."
-- **What would you do differently in production?** Persist the trained scaler + model with `joblib`, refresh segments on a schedule as new transactions arrive, and A/B test the recommended actions to validate the win-back conversion assumption against real outcomes.
-
----
-
-*This project was built as part of a Data Scientist (ML) role portfolio.*
