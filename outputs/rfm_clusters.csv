@@ -1,0 +1,3995 @@
+Customer ID,Recency,Frequency,Monetary,KMeans_Cluster,Segment
+12001,15,1,39.55,3,New / Low-Engagement Customers
+12002,1,24,3294.0099999999998,2,High-Value Loyalists
+12003,13,6,94.02,3,New / Low-Engagement Customers
+12004,2,10,153.8,0,Potential Loyalists
+12005,151,15,657.52,4,At-Risk / Churning
+12006,154,6,284.49,4,At-Risk / Churning
+12007,14,10,193.36,0,Potential Loyalists
+12008,21,10,173.76000000000002,0,Potential Loyalists
+12009,312,1,33.62,1,Lapsed / Dormant
+12010,130,11,518.8100000000001,4,At-Risk / Churning
+12011,130,14,668.86,4,At-Risk / Churning
+12012,124,11,589.37,4,At-Risk / Churning
+12013,233,1,22.35,1,Lapsed / Dormant
+12014,13,7,122.8,0,Potential Loyalists
+12015,17,6,287.01,0,Potential Loyalists
+12016,1,13,702.6,0,Potential Loyalists
+12017,22,1,30.54,3,New / Low-Engagement Customers
+12018,191,1,45.68,1,Lapsed / Dormant
+12019,220,7,343.0,4,At-Risk / Churning
+12020,144,10,428.57,4,At-Risk / Churning
+12021,3,7,377.35,0,Potential Loyalists
+12022,8,14,813.64,0,Potential Loyalists
+12023,21,1,17.799999999999997,3,New / Low-Engagement Customers
+12024,297,1,28.869999999999997,1,Lapsed / Dormant
+12025,337,1,15.81,1,Lapsed / Dormant
+12026,10,3,168.03,3,New / Low-Engagement Customers
+12027,268,1,24.049999999999997,1,Lapsed / Dormant
+12028,1,24,3404.88,2,High-Value Loyalists
+12029,20,4,76.75999999999999,3,New / Low-Engagement Customers
+12030,2,30,3872.6800000000003,2,High-Value Loyalists
+12031,8,6,102.27,3,New / Low-Engagement Customers
+12032,5,14,757.94,0,Potential Loyalists
+12033,16,1,7.92,3,New / Low-Engagement Customers
+12034,21,9,150.94,0,Potential Loyalists
+12035,5,3,107.13,3,New / Low-Engagement Customers
+12036,224,1,29.04,1,Lapsed / Dormant
+12037,240,1,44.55,1,Lapsed / Dormant
+12038,140,6,266.75,4,At-Risk / Churning
+12039,207,5,282.77,4,At-Risk / Churning
+12040,292,1,23.43,1,Lapsed / Dormant
+12041,1,29,3767.8399999999997,2,High-Value Loyalists
+12042,1,30,4113.39,2,High-Value Loyalists
+12043,3,8,133.91,0,Potential Loyalists
+12044,1,20,2635.2,2,High-Value Loyalists
+12045,2,19,2584.68,2,High-Value Loyalists
+12046,344,1,15.309999999999999,1,Lapsed / Dormant
+12047,349,1,14.5,1,Lapsed / Dormant
+12048,221,1,45.3,1,Lapsed / Dormant
+12049,4,10,528.49,0,Potential Loyalists
+12050,138,13,515.88,4,At-Risk / Churning
+12051,2,8,125.96,0,Potential Loyalists
+12052,13,1,30.0,3,New / Low-Engagement Customers
+12053,1,1,28.93,3,New / Low-Engagement Customers
+12054,1,10,192.61,0,Potential Loyalists
+12055,2,13,772.36,0,Potential Loyalists
+12056,29,9,148.17,0,Potential Loyalists
+12057,135,5,305.3,4,At-Risk / Churning
+12058,2,8,330.99,0,Potential Loyalists
+12059,4,6,294.06,0,Potential Loyalists
+12060,21,2,122.02000000000001,3,New / Low-Engagement Customers
+12061,23,7,114.35,0,Potential Loyalists
+12062,5,7,357.32,0,Potential Loyalists
+12063,1,16,2002.97,2,High-Value Loyalists
+12064,52,4,51.31,3,New / Low-Engagement Customers
+12065,208,1,18.4,1,Lapsed / Dormant
+12066,265,1,26.4,1,Lapsed / Dormant
+12067,1,23,3351.3,2,High-Value Loyalists
+12068,133,11,479.43,4,At-Risk / Churning
+12069,21,2,91.34,3,New / Low-Engagement Customers
+12070,229,1,20.369999999999997,1,Lapsed / Dormant
+12071,140,14,754.69,4,At-Risk / Churning
+12072,149,9,470.13,4,At-Risk / Churning
+12073,324,1,19.79,1,Lapsed / Dormant
+12074,182,6,333.32,4,At-Risk / Churning
+12075,1,26,3453.62,2,High-Value Loyalists
+12076,127,14,695.63,4,At-Risk / Churning
+12077,169,8,486.69,4,At-Risk / Churning
+12078,2,14,753.18,0,Potential Loyalists
+12079,144,6,224.03,4,At-Risk / Churning
+12080,271,1,51.010000000000005,1,Lapsed / Dormant
+12081,1,9,122.08,0,Potential Loyalists
+12082,4,9,158.71,0,Potential Loyalists
+12083,140,5,203.33,4,At-Risk / Churning
+12084,3,10,607.78,0,Potential Loyalists
+12085,125,9,467.07,4,At-Risk / Churning
+12086,172,7,316.4,4,At-Risk / Churning
+12087,10,8,461.82,0,Potential Loyalists
+12088,23,8,129.83,0,Potential Loyalists
+12089,10,8,182.5,0,Potential Loyalists
+12090,17,10,549.2,0,Potential Loyalists
+12091,303,1,38.010000000000005,1,Lapsed / Dormant
+12092,4,24,3221.36,2,High-Value Loyalists
+12093,1,2,124.26,3,New / Low-Engagement Customers
+12094,11,3,138.96,3,New / Low-Engagement Customers
+12095,12,5,102.47,3,New / Low-Engagement Customers
+12096,22,8,156.08,0,Potential Loyalists
+12097,142,14,551.15,4,At-Risk / Churning
+12098,5,6,355.28000000000003,0,Potential Loyalists
+12099,126,10,454.36,4,At-Risk / Churning
+12100,1,26,3561.98,2,High-Value Loyalists
+12101,256,1,45.24,1,Lapsed / Dormant
+12102,154,11,455.57,4,At-Risk / Churning
+12103,24,2,114.88,3,New / Low-Engagement Customers
+12104,1,10,600.55,0,Potential Loyalists
+12105,3,7,400.53,0,Potential Loyalists
+12106,123,5,270.23,4,At-Risk / Churning
+12107,3,19,2589.76,2,High-Value Loyalists
+12108,3,6,91.69,3,New / Low-Engagement Customers
+12109,1,15,1907.8799999999999,2,High-Value Loyalists
+12110,6,11,682.29,0,Potential Loyalists
+12111,3,7,395.5,0,Potential Loyalists
+12112,30,7,103.53,3,New / Low-Engagement Customers
+12113,9,3,90.19,3,New / Low-Engagement Customers
+12114,1,16,2227.17,2,High-Value Loyalists
+12115,133,9,410.45,4,At-Risk / Churning
+12116,4,1,54.46,3,New / Low-Engagement Customers
+12117,12,6,108.99000000000001,3,New / Low-Engagement Customers
+12118,6,2,76.96,3,New / Low-Engagement Customers
+12119,142,7,345.98,4,At-Risk / Churning
+12120,18,3,98.5,3,New / Low-Engagement Customers
+12121,4,10,161.82999999999998,0,Potential Loyalists
+12122,1,27,3858.28,2,High-Value Loyalists
+12123,1,20,2847.76,2,High-Value Loyalists
+12124,11,8,134.58,0,Potential Loyalists
+12125,137,15,796.36,4,At-Risk / Churning
+12126,4,14,835.88,0,Potential Loyalists
+12127,1,14,772.79,0,Potential Loyalists
+12128,125,10,460.75,4,At-Risk / Churning
+12129,16,4,45.46,3,New / Low-Engagement Customers
+12130,33,8,132.82,0,Potential Loyalists
+12131,32,10,166.5,0,Potential Loyalists
+12132,9,5,85.3,3,New / Low-Engagement Customers
+12133,15,10,208.48999999999998,0,Potential Loyalists
+12134,147,9,404.08,4,At-Risk / Churning
+12135,4,10,555.67,0,Potential Loyalists
+12136,27,1,49.89,3,New / Low-Engagement Customers
+12137,363,1,41.57,1,Lapsed / Dormant
+12138,1,30,4298.7300000000005,2,High-Value Loyalists
+12139,1,23,3238.63,2,High-Value Loyalists
+12140,341,1,16.44,1,Lapsed / Dormant
+12141,8,1,21.990000000000002,3,New / Low-Engagement Customers
+12142,17,1,36.63,3,New / Low-Engagement Customers
+12143,269,1,22.25,1,Lapsed / Dormant
+12144,2,10,220.81,0,Potential Loyalists
+12145,125,13,533.29,4,At-Risk / Churning
+12146,1,13,726.26,0,Potential Loyalists
+12147,1,23,3394.88,2,High-Value Loyalists
+12148,174,9,393.88,4,At-Risk / Churning
+12149,4,11,591.65,0,Potential Loyalists
+12150,2,12,609.94,0,Potential Loyalists
+12151,166,8,431.07,4,At-Risk / Churning
+12152,197,1,39.78,1,Lapsed / Dormant
+12153,129,13,629.11,4,At-Risk / Churning
+12154,3,3,114.86,3,New / Low-Engagement Customers
+12155,13,13,705.14,0,Potential Loyalists
+12156,123,12,652.69,4,At-Risk / Churning
+12157,186,8,367.48,4,At-Risk / Churning
+12158,2,13,684.6,0,Potential Loyalists
+12159,157,5,258.4,4,At-Risk / Churning
+12160,145,14,752.54,4,At-Risk / Churning
+12161,15,3,126.11,3,New / Low-Engagement Customers
+12162,128,7,270.15,4,At-Risk / Churning
+12163,4,28,4008.5099999999998,2,High-Value Loyalists
+12164,130,7,348.58,4,At-Risk / Churning
+12165,17,2,80.78,3,New / Low-Engagement Customers
+12166,308,1,27.009999999999998,1,Lapsed / Dormant
+12167,297,1,17.770000000000003,1,Lapsed / Dormant
+12168,121,10,423.87,4,At-Risk / Churning
+12169,11,9,484.91,0,Potential Loyalists
+12170,7,6,93.0,3,New / Low-Engagement Customers
+12171,6,3,138.88,3,New / Low-Engagement Customers
+12172,1,11,535.08,0,Potential Loyalists
+12173,289,1,50.760000000000005,1,Lapsed / Dormant
+12174,144,10,434.99,4,At-Risk / Churning
+12175,1,28,3950.7,2,High-Value Loyalists
+12176,1,9,165.62,0,Potential Loyalists
+12177,1,7,120.72,0,Potential Loyalists
+12178,3,12,777.24,0,Potential Loyalists
+12179,2,9,151.92,0,Potential Loyalists
+12180,7,6,98.09,3,New / Low-Engagement Customers
+12181,182,8,381.46000000000004,4,At-Risk / Churning
+12182,4,4,54.44,3,New / Low-Engagement Customers
+12183,193,6,297.93,4,At-Risk / Churning
+12184,146,7,377.45,4,At-Risk / Churning
+12185,138,5,170.74,4,At-Risk / Churning
+12186,23,2,64.46000000000001,3,New / Low-Engagement Customers
+12187,10,8,408.58,0,Potential Loyalists
+12188,3,6,327.86,0,Potential Loyalists
+12189,15,1,27.31,3,New / Low-Engagement Customers
+12190,16,2,67.44,3,New / Low-Engagement Customers
+12191,10,3,129.03,3,New / Low-Engagement Customers
+12192,18,2,88.48,3,New / Low-Engagement Customers
+12193,5,12,743.99,0,Potential Loyalists
+12194,28,5,98.81,3,New / Low-Engagement Customers
+12195,13,10,125.34,0,Potential Loyalists
+12196,140,10,430.51,4,At-Risk / Churning
+12197,26,2,100.25,3,New / Low-Engagement Customers
+12198,7,9,540.44,0,Potential Loyalists
+12199,1,24,3633.33,2,High-Value Loyalists
+12200,4,3,113.53,3,New / Low-Engagement Customers
+12201,175,5,258.59000000000003,4,At-Risk / Churning
+12202,136,13,644.89,4,At-Risk / Churning
+12203,136,14,650.66,4,At-Risk / Churning
+12204,14,1,53.22,3,New / Low-Engagement Customers
+12205,4,6,373.08,0,Potential Loyalists
+12206,4,3,136.81,3,New / Low-Engagement Customers
+12207,27,6,112.02,3,New / Low-Engagement Customers
+12208,19,7,356.83,0,Potential Loyalists
+12209,2,9,177.58,0,Potential Loyalists
+12210,134,11,505.47,4,At-Risk / Churning
+12211,3,6,114.95,0,Potential Loyalists
+12212,1,26,3863.14,2,High-Value Loyalists
+12213,356,1,16.4,1,Lapsed / Dormant
+12214,146,10,479.5,4,At-Risk / Churning
+12215,1,28,4095.99,2,High-Value Loyalists
+12216,230,1,13.370000000000001,1,Lapsed / Dormant
+12217,279,1,40.38,1,Lapsed / Dormant
+12218,20,2,100.10000000000001,3,New / Low-Engagement Customers
+12219,5,10,145.8,0,Potential Loyalists
+12220,3,2,70.69,3,New / Low-Engagement Customers
+12221,3,16,1883.68,2,High-Value Loyalists
+12222,1,7,106.63,0,Potential Loyalists
+12223,1,22,3134.32,2,High-Value Loyalists
+12224,14,6,328.34000000000003,0,Potential Loyalists
+12225,180,6,344.03,4,At-Risk / Churning
+12226,18,2,119.56,3,New / Low-Engagement Customers
+12227,19,1,33.74,3,New / Low-Engagement Customers
+12228,21,10,166.52,0,Potential Loyalists
+12229,121,9,414.62,4,At-Risk / Churning
+12230,2,23,3137.73,2,High-Value Loyalists
+12231,6,6,369.24,0,Potential Loyalists
+12232,2,3,142.23,3,New / Low-Engagement Customers
+12233,303,1,50.49,1,Lapsed / Dormant
+12234,1,19,2418.38,2,High-Value Loyalists
+12235,230,7,273.47,4,At-Risk / Churning
+12236,5,10,515.87,0,Potential Loyalists
+12237,17,7,129.86,0,Potential Loyalists
+12238,9,10,147.15,0,Potential Loyalists
+12239,2,2,81.38,3,New / Low-Engagement Customers
+12240,2,3,87.1,3,New / Low-Engagement Customers
+12241,16,13,811.53,0,Potential Loyalists
+12242,143,5,232.53,4,At-Risk / Churning
+12243,2,29,4519.24,2,High-Value Loyalists
+12244,226,1,28.47,1,Lapsed / Dormant
+12245,8,13,704.67,0,Potential Loyalists
+12246,14,7,98.73,0,Potential Loyalists
+12247,11,1,44.629999999999995,3,New / Low-Engagement Customers
+12248,25,6,389.96,0,Potential Loyalists
+12249,15,10,148.88,0,Potential Loyalists
+12250,200,1,31.6,1,Lapsed / Dormant
+12251,3,6,289.65,0,Potential Loyalists
+12252,1,15,2022.9,2,High-Value Loyalists
+12253,128,14,641.63,4,At-Risk / Churning
+12254,5,7,406.67,0,Potential Loyalists
+12255,16,9,578.9,0,Potential Loyalists
+12256,29,7,141.47,0,Potential Loyalists
+12257,18,1,63.25,3,New / Low-Engagement Customers
+12258,127,13,634.29,4,At-Risk / Churning
+12259,3,10,137.11,0,Potential Loyalists
+12260,209,1,45.739999999999995,1,Lapsed / Dormant
+12261,12,7,441.38,0,Potential Loyalists
+12262,2,9,526.26,0,Potential Loyalists
+12263,153,11,464.2,4,At-Risk / Churning
+12264,9,5,104.98,3,New / Low-Engagement Customers
+12265,8,7,107.04,0,Potential Loyalists
+12266,1,12,717.32,0,Potential Loyalists
+12267,123,13,600.61,4,At-Risk / Churning
+12268,8,8,136.25,0,Potential Loyalists
+12269,11,3,124.56,3,New / Low-Engagement Customers
+12270,2,21,3045.27,2,High-Value Loyalists
+12271,7,1,51.66,3,New / Low-Engagement Customers
+12272,3,2,76.89,3,New / Low-Engagement Customers
+12273,1,11,639.08,0,Potential Loyalists
+12274,8,1,63.5,3,New / Low-Engagement Customers
+12275,177,5,232.5,4,At-Risk / Churning
+12276,222,1,31.36,1,Lapsed / Dormant
+12277,149,8,371.78000000000003,4,At-Risk / Churning
+12278,4,4,85.29,3,New / Low-Engagement Customers
+12279,2,1,40.73,3,New / Low-Engagement Customers
+12280,1,29,3581.58,2,High-Value Loyalists
+12281,142,9,393.88,4,At-Risk / Churning
+12282,126,7,363.51,4,At-Risk / Churning
+12283,1,10,553.89,0,Potential Loyalists
+12284,2,6,99.43,0,Potential Loyalists
+12285,2,29,3563.1,2,High-Value Loyalists
+12286,130,12,679.81,4,At-Risk / Churning
+12287,6,11,623.03,0,Potential Loyalists
+12288,2,18,2485.53,2,High-Value Loyalists
+12289,128,6,314.27,4,At-Risk / Churning
+12290,329,1,42.57,1,Lapsed / Dormant
+12291,2,16,1922.71,2,High-Value Loyalists
+12292,1,15,2097.69,2,High-Value Loyalists
+12293,125,14,697.01,4,At-Risk / Churning
+12294,16,8,506.89,0,Potential Loyalists
+12295,1,7,403.14,0,Potential Loyalists
+12296,17,3,117.1,3,New / Low-Engagement Customers
+12297,11,3,90.67,3,New / Low-Engagement Customers
+12298,234,5,344.68,4,At-Risk / Churning
+12299,16,2,93.51,3,New / Low-Engagement Customers
+12300,5,10,173.09,0,Potential Loyalists
+12301,17,3,96.72,3,New / Low-Engagement Customers
+12302,4,6,361.71999999999997,0,Potential Loyalists
+12303,1,8,432.34000000000003,0,Potential Loyalists
+12304,2,17,2245.91,2,High-Value Loyalists
+12305,122,15,716.6800000000001,4,At-Risk / Churning
+12306,4,2,88.63000000000001,3,New / Low-Engagement Customers
+12307,2,2,78.26,3,New / Low-Engagement Customers
+12308,149,5,274.78,4,At-Risk / Churning
+12309,13,10,654.36,0,Potential Loyalists
+12310,16,1,46.31,3,New / Low-Engagement Customers
+12311,22,2,92.01,3,New / Low-Engagement Customers
+12312,315,1,39.37,1,Lapsed / Dormant
+12313,8,3,128.58,3,New / Low-Engagement Customers
+12314,152,8,382.40999999999997,4,At-Risk / Churning
+12315,127,15,663.36,4,At-Risk / Churning
+12316,1,10,594.59,0,Potential Loyalists
+12317,6,5,88.34,3,New / Low-Engagement Customers
+12318,41,5,86.4,3,New / Low-Engagement Customers
+12319,1,11,578.94,0,Potential Loyalists
+12320,123,11,585.55,4,At-Risk / Churning
+12321,233,1,16.43,1,Lapsed / Dormant
+12322,178,5,248.65,4,At-Risk / Churning
+12323,19,1,14.59,3,New / Low-Engagement Customers
+12324,4,10,168.77,0,Potential Loyalists
+12325,21,4,67.78,3,New / Low-Engagement Customers
+12326,22,1,46.2,3,New / Low-Engagement Customers
+12327,3,10,566.71,0,Potential Loyalists
+12328,5,7,457.73,0,Potential Loyalists
+12329,1,14,930.06,2,High-Value Loyalists
+12330,140,14,662.52,4,At-Risk / Churning
+12331,1,15,2088.26,2,High-Value Loyalists
+12332,3,3,139.68,3,New / Low-Engagement Customers
+12333,32,6,288.12,4,At-Risk / Churning
+12334,217,10,433.73,4,At-Risk / Churning
+12335,4,2,86.72,3,New / Low-Engagement Customers
+12336,3,16,2489.79,2,High-Value Loyalists
+12337,9,1,64.37,3,New / Low-Engagement Customers
+12338,19,1,33.29,3,New / Low-Engagement Customers
+12339,189,13,623.04,4,At-Risk / Churning
+12340,14,12,702.21,0,Potential Loyalists
+12341,11,11,676.52,0,Potential Loyalists
+12342,1,26,3679.86,2,High-Value Loyalists
+12343,10,11,629.8100000000001,0,Potential Loyalists
+12344,3,11,633.89,0,Potential Loyalists
+12345,121,12,439.33,4,At-Risk / Churning
+12346,11,8,140.51,0,Potential Loyalists
+12347,307,1,41.78,1,Lapsed / Dormant
+12348,338,1,28.4,1,Lapsed / Dormant
+12349,3,7,321.73,0,Potential Loyalists
+12350,15,9,165.85,0,Potential Loyalists
+12351,5,1,60.66,3,New / Low-Engagement Customers
+12352,22,4,63.66,3,New / Low-Engagement Customers
+12353,293,1,13.620000000000001,1,Lapsed / Dormant
+12354,4,11,706.65,0,Potential Loyalists
+12355,14,9,138.38,0,Potential Loyalists
+12356,3,9,455.3,0,Potential Loyalists
+12357,15,2,79.32,3,New / Low-Engagement Customers
+12358,1,9,517.5699999999999,0,Potential Loyalists
+12359,266,1,28.76,1,Lapsed / Dormant
+12360,5,9,136.34,0,Potential Loyalists
+12361,10,10,192.53,0,Potential Loyalists
+12362,19,2,60.8,3,New / Low-Engagement Customers
+12363,305,1,42.96,1,Lapsed / Dormant
+12364,135,6,334.18,4,At-Risk / Churning
+12365,134,12,643.49,4,At-Risk / Churning
+12366,3,3,135.23,3,New / Low-Engagement Customers
+12367,1,18,2686.5,2,High-Value Loyalists
+12368,123,14,752.97,4,At-Risk / Churning
+12369,1,6,100.11,0,Potential Loyalists
+12370,7,3,114.19,3,New / Low-Engagement Customers
+12371,122,11,527.4399999999999,4,At-Risk / Churning
+12372,6,19,2410.97,2,High-Value Loyalists
+12373,4,12,705.12,0,Potential Loyalists
+12374,1,23,3252.63,2,High-Value Loyalists
+12375,27,5,90.83,3,New / Low-Engagement Customers
+12376,3,3,132.74,3,New / Low-Engagement Customers
+12377,137,9,346.35,4,At-Risk / Churning
+12378,4,2,97.59,3,New / Low-Engagement Customers
+12379,2,9,141.28,0,Potential Loyalists
+12380,313,1,39.760000000000005,1,Lapsed / Dormant
+12381,166,13,533.92,4,At-Risk / Churning
+12382,135,8,355.31,4,At-Risk / Churning
+12383,1,10,178.71,0,Potential Loyalists
+12384,20,1,46.97,3,New / Low-Engagement Customers
+12385,1,24,2763.04,2,High-Value Loyalists
+12386,10,10,181.97,0,Potential Loyalists
+12387,10,12,545.14,0,Potential Loyalists
+12388,235,1,40.17,1,Lapsed / Dormant
+12389,122,15,720.25,4,At-Risk / Churning
+12390,11,8,502.3,0,Potential Loyalists
+12391,4,10,556.59,0,Potential Loyalists
+12392,246,1,43.11,1,Lapsed / Dormant
+12393,6,6,296.5,0,Potential Loyalists
+12394,216,1,22.939999999999998,1,Lapsed / Dormant
+12395,27,4,77.29,3,New / Low-Engagement Customers
+12396,12,1,67.93,3,New / Low-Engagement Customers
+12397,236,1,19.880000000000003,1,Lapsed / Dormant
+12398,5,6,104.08,0,Potential Loyalists
+12399,174,5,252.67,4,At-Risk / Churning
+12400,1,15,2106.6,2,High-Value Loyalists
+12401,4,3,163.59,3,New / Low-Engagement Customers
+12402,6,8,471.96999999999997,0,Potential Loyalists
+12403,3,17,2190.07,2,High-Value Loyalists
+12404,4,8,147.25,0,Potential Loyalists
+12405,10,4,50.650000000000006,3,New / Low-Engagement Customers
+12406,149,11,485.7,4,At-Risk / Churning
+12407,3,10,549.46,0,Potential Loyalists
+12408,358,1,24.91,1,Lapsed / Dormant
+12409,5,5,92.47,3,New / Low-Engagement Customers
+12410,2,20,2725.9,2,High-Value Loyalists
+12411,2,9,541.95,0,Potential Loyalists
+12412,3,7,350.13,0,Potential Loyalists
+12413,13,5,76.52,3,New / Low-Engagement Customers
+12414,27,1,55.56,3,New / Low-Engagement Customers
+12415,125,6,313.82,4,At-Risk / Churning
+12416,4,7,309.2,0,Potential Loyalists
+12417,4,7,404.46999999999997,0,Potential Loyalists
+12418,10,6,396.73,0,Potential Loyalists
+12419,3,11,609.47,0,Potential Loyalists
+12420,1,25,3080.99,2,High-Value Loyalists
+12421,10,8,473.98,0,Potential Loyalists
+12422,148,14,624.15,4,At-Risk / Churning
+12423,1,3,166.36,3,New / Low-Engagement Customers
+12424,135,6,303.56,4,At-Risk / Churning
+12425,5,14,705.74,0,Potential Loyalists
+12426,1,29,3759.3900000000003,2,High-Value Loyalists
+12427,6,3,98.21000000000001,3,New / Low-Engagement Customers
+12428,298,1,25.34,1,Lapsed / Dormant
+12429,3,18,2609.0,2,High-Value Loyalists
+12430,26,8,123.67999999999999,0,Potential Loyalists
+12431,4,13,778.88,0,Potential Loyalists
+12432,133,15,663.23,4,At-Risk / Churning
+12433,125,9,498.1,4,At-Risk / Churning
+12434,134,9,468.8,4,At-Risk / Churning
+12435,7,11,532.21,0,Potential Loyalists
+12436,143,8,453.59,4,At-Risk / Churning
+12437,9,3,125.34,3,New / Low-Engagement Customers
+12438,11,3,97.83,3,New / Low-Engagement Customers
+12439,218,1,31.6,1,Lapsed / Dormant
+12440,14,10,167.8,0,Potential Loyalists
+12441,27,7,135.68,0,Potential Loyalists
+12442,7,8,430.8,0,Potential Loyalists
+12443,150,14,675.2,4,At-Risk / Churning
+12444,1,11,590.5600000000001,0,Potential Loyalists
+12445,3,2,50.99,3,New / Low-Engagement Customers
+12446,32,4,82.58,3,New / Low-Engagement Customers
+12447,11,9,149.73,0,Potential Loyalists
+12448,2,7,99.51,0,Potential Loyalists
+12449,197,7,418.29,4,At-Risk / Churning
+12450,1,9,501.76,0,Potential Loyalists
+12451,11,2,97.8,3,New / Low-Engagement Customers
+12452,2,20,2315.19,2,High-Value Loyalists
+12453,121,7,430.06,4,At-Risk / Churning
+12454,1,21,2555.6,2,High-Value Loyalists
+12455,5,19,2556.01,2,High-Value Loyalists
+12456,195,1,32.1,1,Lapsed / Dormant
+12457,200,1,62.88,1,Lapsed / Dormant
+12458,20,8,412.39,0,Potential Loyalists
+12459,5,1,58.39,3,New / Low-Engagement Customers
+12460,10,9,465.65,0,Potential Loyalists
+12461,133,13,713.01,4,At-Risk / Churning
+12462,144,10,521.02,4,At-Risk / Churning
+12463,359,1,22.78,1,Lapsed / Dormant
+12464,10,2,84.30000000000001,3,New / Low-Engagement Customers
+12465,182,1,56.8,1,Lapsed / Dormant
+12466,3,12,721.92,0,Potential Loyalists
+12467,7,1,30.46,3,New / Low-Engagement Customers
+12468,5,8,409.31,0,Potential Loyalists
+12469,155,7,280.98,4,At-Risk / Churning
+12470,3,9,642.84,0,Potential Loyalists
+12471,14,7,106.54,0,Potential Loyalists
+12472,14,6,309.36,0,Potential Loyalists
+12473,3,10,578.78,0,Potential Loyalists
+12474,309,1,39.95,1,Lapsed / Dormant
+12475,17,2,81.24,3,New / Low-Engagement Customers
+12476,7,6,291.92,0,Potential Loyalists
+12477,3,17,2361.0,2,High-Value Loyalists
+12478,142,14,791.57,4,At-Risk / Churning
+12479,199,15,687.53,4,At-Risk / Churning
+12480,8,3,102.86000000000001,3,New / Low-Engagement Customers
+12481,3,13,769.24,0,Potential Loyalists
+12482,134,6,249.04,4,At-Risk / Churning
+12483,40,6,82.74,3,New / Low-Engagement Customers
+12484,1,30,4141.07,2,High-Value Loyalists
+12485,2,9,153.44,0,Potential Loyalists
+12486,350,1,56.95,1,Lapsed / Dormant
+12487,133,15,581.54,4,At-Risk / Churning
+12488,10,6,287.48,0,Potential Loyalists
+12489,251,1,58.27,1,Lapsed / Dormant
+12490,344,1,28.18,1,Lapsed / Dormant
+12491,363,1,45.839999999999996,1,Lapsed / Dormant
+12492,30,1,33.5,3,New / Low-Engagement Customers
+12493,40,5,76.64,3,New / Low-Engagement Customers
+12494,1,14,783.53,0,Potential Loyalists
+12495,2,2,71.06,3,New / Low-Engagement Customers
+12496,1,23,3223.79,2,High-Value Loyalists
+12497,188,6,314.49,4,At-Risk / Churning
+12498,164,5,172.85999999999999,4,At-Risk / Churning
+12499,1,9,165.15,0,Potential Loyalists
+12500,8,7,100.5,0,Potential Loyalists
+12501,1,27,3524.73,2,High-Value Loyalists
+12502,1,27,4150.27,2,High-Value Loyalists
+12503,295,1,14.07,1,Lapsed / Dormant
+12504,1,25,3499.06,2,High-Value Loyalists
+12505,4,13,746.04,0,Potential Loyalists
+12506,6,9,431.82,0,Potential Loyalists
+12507,138,14,675.9,4,At-Risk / Churning
+12508,145,6,221.82,4,At-Risk / Churning
+12509,4,4,76.31,3,New / Low-Engagement Customers
+12510,126,14,702.78,4,At-Risk / Churning
+12511,10,6,120.04,0,Potential Loyalists
+12512,12,1,66.05,3,New / Low-Engagement Customers
+12513,296,1,29.67,1,Lapsed / Dormant
+12514,9,8,478.1,0,Potential Loyalists
+12515,21,1,29.520000000000003,3,New / Low-Engagement Customers
+12516,7,14,839.1,0,Potential Loyalists
+12517,178,6,349.35,4,At-Risk / Churning
+12518,294,1,24.03,1,Lapsed / Dormant
+12519,12,6,364.21999999999997,0,Potential Loyalists
+12520,18,9,163.0,0,Potential Loyalists
+12521,2,9,155.2,0,Potential Loyalists
+12522,3,9,364.64,0,Potential Loyalists
+12523,156,10,451.39,4,At-Risk / Churning
+12524,1,26,3899.07,2,High-Value Loyalists
+12525,4,8,475.06,0,Potential Loyalists
+12526,130,15,737.71,4,At-Risk / Churning
+12527,128,11,600.21,4,At-Risk / Churning
+12528,1,25,3705.04,2,High-Value Loyalists
+12529,64,4,66.62,3,New / Low-Engagement Customers
+12530,6,6,323.41999999999996,0,Potential Loyalists
+12531,290,1,37.6,1,Lapsed / Dormant
+12532,5,10,158.89,0,Potential Loyalists
+12533,2,9,558.03,0,Potential Loyalists
+12534,353,1,20.94,1,Lapsed / Dormant
+12535,1,11,633.42,0,Potential Loyalists
+12536,14,3,118.02000000000001,3,New / Low-Engagement Customers
+12537,5,10,169.39,0,Potential Loyalists
+12538,5,8,324.47,0,Potential Loyalists
+12539,12,7,117.5,0,Potential Loyalists
+12540,4,8,505.82,0,Potential Loyalists
+12541,1,22,2894.17,2,High-Value Loyalists
+12542,10,10,620.93,0,Potential Loyalists
+12543,9,8,403.3,0,Potential Loyalists
+12544,2,3,173.1,3,New / Low-Engagement Customers
+12545,121,10,555.83,4,At-Risk / Churning
+12546,1,18,2616.41,2,High-Value Loyalists
+12547,1,7,456.04,0,Potential Loyalists
+12548,361,1,36.92,1,Lapsed / Dormant
+12549,3,20,3141.11,2,High-Value Loyalists
+12550,5,9,152.28,0,Potential Loyalists
+12551,130,12,499.03,4,At-Risk / Churning
+12552,1,24,3320.2,2,High-Value Loyalists
+12553,1,3,138.66,3,New / Low-Engagement Customers
+12554,141,15,719.35,4,At-Risk / Churning
+12555,212,1,27.28,1,Lapsed / Dormant
+12556,1,18,2478.06,2,High-Value Loyalists
+12557,14,6,73.04,3,New / Low-Engagement Customers
+12558,129,9,372.01,4,At-Risk / Churning
+12559,1,10,170.64,0,Potential Loyalists
+12560,21,1,22.34,3,New / Low-Engagement Customers
+12561,3,14,674.63,0,Potential Loyalists
+12562,141,13,644.73,4,At-Risk / Churning
+12563,23,6,352.46000000000004,0,Potential Loyalists
+12564,1,18,2443.66,2,High-Value Loyalists
+12565,148,9,555.0,4,At-Risk / Churning
+12566,6,9,523.75,0,Potential Loyalists
+12567,1,26,3534.21,2,High-Value Loyalists
+12568,7,12,635.1,0,Potential Loyalists
+12569,2,8,425.32,0,Potential Loyalists
+12570,34,6,92.25,3,New / Low-Engagement Customers
+12571,14,6,355.67,0,Potential Loyalists
+12572,233,1,29.519999999999996,1,Lapsed / Dormant
+12573,18,7,470.76,0,Potential Loyalists
+12574,2,6,110.26,0,Potential Loyalists
+12575,21,3,119.45,3,New / Low-Engagement Customers
+12576,251,1,40.56,1,Lapsed / Dormant
+12577,24,9,153.15,0,Potential Loyalists
+12578,7,3,151.33,3,New / Low-Engagement Customers
+12579,218,1,32.4,1,Lapsed / Dormant
+12580,327,1,14.280000000000001,1,Lapsed / Dormant
+12581,5,8,434.7,0,Potential Loyalists
+12582,2,3,114.05,3,New / Low-Engagement Customers
+12583,21,8,167.01,0,Potential Loyalists
+12584,7,3,162.72,3,New / Low-Engagement Customers
+12585,364,1,26.48,1,Lapsed / Dormant
+12586,1,8,134.04,0,Potential Loyalists
+12587,222,1,9.67,1,Lapsed / Dormant
+12588,19,1,56.5,3,New / Low-Engagement Customers
+12589,324,1,21.6,1,Lapsed / Dormant
+12590,345,1,19.619999999999997,1,Lapsed / Dormant
+12591,2,6,252.36,0,Potential Loyalists
+12592,16,5,97.3,3,New / Low-Engagement Customers
+12593,207,1,25.76,1,Lapsed / Dormant
+12594,15,11,617.29,0,Potential Loyalists
+12595,2,22,2836.32,2,High-Value Loyalists
+12596,35,7,138.57,4,At-Risk / Churning
+12597,123,5,210.41000000000003,4,At-Risk / Churning
+12598,176,7,314.81,4,At-Risk / Churning
+12599,10,5,80.03999999999999,3,New / Low-Engagement Customers
+12600,1,12,748.79,0,Potential Loyalists
+12601,175,5,245.72,4,At-Risk / Churning
+12602,3,7,419.46000000000004,0,Potential Loyalists
+12603,1,9,462.41,0,Potential Loyalists
+12604,2,5,75.71000000000001,3,New / Low-Engagement Customers
+12605,2,2,45.3,3,New / Low-Engagement Customers
+12606,5,8,124.14,0,Potential Loyalists
+12607,4,5,91.91,3,New / Low-Engagement Customers
+12608,265,1,59.18,1,Lapsed / Dormant
+12609,18,4,68.7,3,New / Low-Engagement Customers
+12610,1,16,2338.74,2,High-Value Loyalists
+12611,8,10,172.15,0,Potential Loyalists
+12612,198,1,50.400000000000006,1,Lapsed / Dormant
+12613,129,12,524.83,4,At-Risk / Churning
+12614,60,5,95.04,3,New / Low-Engagement Customers
+12615,6,8,380.33,0,Potential Loyalists
+12616,356,1,41.03,1,Lapsed / Dormant
+12617,221,1,26.82,1,Lapsed / Dormant
+12618,1,4,81.08,3,New / Low-Engagement Customers
+12619,1,15,2305.77,2,High-Value Loyalists
+12620,2,17,2537.44,2,High-Value Loyalists
+12621,29,1,47.46,3,New / Low-Engagement Customers
+12622,2,22,3261.85,2,High-Value Loyalists
+12623,9,7,111.31,0,Potential Loyalists
+12624,191,8,376.29,4,At-Risk / Churning
+12625,1,23,3296.15,2,High-Value Loyalists
+12626,15,5,87.99000000000001,3,New / Low-Engagement Customers
+12627,134,12,530.61,4,At-Risk / Churning
+12628,21,9,606.01,0,Potential Loyalists
+12629,214,8,399.34,4,At-Risk / Churning
+12630,190,8,296.95,4,At-Risk / Churning
+12631,262,1,34.209999999999994,1,Lapsed / Dormant
+12632,1,14,719.03,0,Potential Loyalists
+12633,2,13,742.36,0,Potential Loyalists
+12634,4,4,79.77,3,New / Low-Engagement Customers
+12635,3,19,2505.7,2,High-Value Loyalists
+12636,162,8,296.84,4,At-Risk / Churning
+12637,14,6,94.37,3,New / Low-Engagement Customers
+12638,2,28,4062.7,2,High-Value Loyalists
+12639,1,7,401.36,0,Potential Loyalists
+12640,18,3,112.05,3,New / Low-Engagement Customers
+12641,3,2,98.78,3,New / Low-Engagement Customers
+12642,32,7,463.46,4,At-Risk / Churning
+12643,8,9,483.24,0,Potential Loyalists
+12644,5,1,36.980000000000004,3,New / Low-Engagement Customers
+12645,300,1,40.53,1,Lapsed / Dormant
+12646,248,1,21.650000000000002,1,Lapsed / Dormant
+12647,8,9,595.72,0,Potential Loyalists
+12648,325,1,11.879999999999999,1,Lapsed / Dormant
+12649,8,3,148.73000000000002,3,New / Low-Engagement Customers
+12650,7,12,761.63,0,Potential Loyalists
+12651,223,5,268.19,4,At-Risk / Churning
+12652,274,1,20.59,1,Lapsed / Dormant
+12653,2,20,2631.32,2,High-Value Loyalists
+12654,11,3,133.12,3,New / Low-Engagement Customers
+12655,2,18,2390.92,2,High-Value Loyalists
+12656,2,30,4195.900000000001,2,High-Value Loyalists
+12657,130,15,629.02,4,At-Risk / Churning
+12658,28,9,155.42000000000002,0,Potential Loyalists
+12659,13,3,69.64,3,New / Low-Engagement Customers
+12660,294,1,22.98,1,Lapsed / Dormant
+12661,184,14,774.08,4,At-Risk / Churning
+12662,345,1,10.84,1,Lapsed / Dormant
+12663,9,14,703.98,0,Potential Loyalists
+12664,1,30,3843.42,2,High-Value Loyalists
+12665,287,1,58.870000000000005,1,Lapsed / Dormant
+12666,150,11,575.77,4,At-Risk / Churning
+12667,6,2,76.27,3,New / Low-Engagement Customers
+12668,187,6,239.01999999999998,4,At-Risk / Churning
+12669,1,25,3333.35,2,High-Value Loyalists
+12670,29,1,21.71,3,New / Low-Engagement Customers
+12671,11,3,100.24000000000001,3,New / Low-Engagement Customers
+12672,19,8,151.45,0,Potential Loyalists
+12673,26,5,86.67,3,New / Low-Engagement Customers
+12674,12,11,666.28,0,Potential Loyalists
+12675,149,8,389.88,4,At-Risk / Churning
+12676,1,11,620.45,0,Potential Loyalists
+12677,363,1,21.119999999999997,1,Lapsed / Dormant
+12678,212,1,34.27,1,Lapsed / Dormant
+12679,177,13,615.29,4,At-Risk / Churning
+12680,1,28,3808.35,2,High-Value Loyalists
+12681,11,9,150.62,0,Potential Loyalists
+12682,16,3,130.29,3,New / Low-Engagement Customers
+12683,6,9,527.49,0,Potential Loyalists
+12684,131,11,447.63,4,At-Risk / Churning
+12685,3,2,95.0,3,New / Low-Engagement Customers
+12686,8,4,70.62,3,New / Low-Engagement Customers
+12687,4,3,119.09,3,New / Low-Engagement Customers
+12688,4,11,629.91,0,Potential Loyalists
+12689,122,15,780.02,4,At-Risk / Churning
+12690,1,6,118.83,0,Potential Loyalists
+12691,1,18,2865.5299999999997,2,High-Value Loyalists
+12692,124,5,175.86,4,At-Risk / Churning
+12693,259,1,59.26,1,Lapsed / Dormant
+12694,2,13,743.03,0,Potential Loyalists
+12695,40,5,74.42999999999999,3,New / Low-Engagement Customers
+12696,1,17,2361.13,2,High-Value Loyalists
+12697,3,5,78.12,3,New / Low-Engagement Customers
+12698,1,16,1773.69,2,High-Value Loyalists
+12699,128,15,718.29,4,At-Risk / Churning
+12700,3,1,46.9,3,New / Low-Engagement Customers
+12701,2,9,525.33,0,Potential Loyalists
+12702,17,2,92.98,3,New / Low-Engagement Customers
+12703,127,11,482.06,4,At-Risk / Churning
+12704,9,6,114.72999999999999,3,New / Low-Engagement Customers
+12705,4,2,107.92999999999999,3,New / Low-Engagement Customers
+12706,5,11,590.62,0,Potential Loyalists
+12707,133,6,283.43,4,At-Risk / Churning
+12708,17,2,85.01,3,New / Low-Engagement Customers
+12709,160,13,512.2,4,At-Risk / Churning
+12711,14,10,148.03,0,Potential Loyalists
+12712,2,16,2415.31,2,High-Value Loyalists
+12713,15,1,45.989999999999995,3,New / Low-Engagement Customers
+12714,2,13,697.97,0,Potential Loyalists
+12715,25,4,58.81999999999999,3,New / Low-Engagement Customers
+12716,150,14,702.3,4,At-Risk / Churning
+12717,124,14,668.24,4,At-Risk / Churning
+12718,19,13,671.69,0,Potential Loyalists
+12719,3,16,2185.86,2,High-Value Loyalists
+12720,129,14,572.29,4,At-Risk / Churning
+12721,308,1,33.55,1,Lapsed / Dormant
+12722,5,3,126.32,3,New / Low-Engagement Customers
+12723,3,29,4000.24,2,High-Value Loyalists
+12724,201,5,219.99,4,At-Risk / Churning
+12725,9,3,85.19,3,New / Low-Engagement Customers
+12726,3,1,53.79,3,New / Low-Engagement Customers
+12727,278,1,46.269999999999996,1,Lapsed / Dormant
+12728,1,20,2516.5,2,High-Value Loyalists
+12729,5,7,113.83,0,Potential Loyalists
+12730,9,2,60.5,3,New / Low-Engagement Customers
+12731,1,9,131.63,0,Potential Loyalists
+12732,5,9,163.89,0,Potential Loyalists
+12733,2,12,675.76,0,Potential Loyalists
+12734,4,9,165.93,0,Potential Loyalists
+12735,132,6,317.44,4,At-Risk / Churning
+12736,24,1,33.480000000000004,3,New / Low-Engagement Customers
+12737,173,14,753.65,4,At-Risk / Churning
+12738,7,2,109.94,3,New / Low-Engagement Customers
+12739,325,1,39.45,1,Lapsed / Dormant
+12740,21,3,94.39999999999999,3,New / Low-Engagement Customers
+12741,11,9,153.37,0,Potential Loyalists
+12742,1,30,4304.24,2,High-Value Loyalists
+12743,3,1,41.61,3,New / Low-Engagement Customers
+12744,129,8,264.99,4,At-Risk / Churning
+12745,1,8,145.28,0,Potential Loyalists
+12746,21,9,138.61,0,Potential Loyalists
+12747,139,11,555.15,4,At-Risk / Churning
+12748,6,9,119.02,0,Potential Loyalists
+12749,1,24,3274.4,2,High-Value Loyalists
+12750,267,1,30.62,1,Lapsed / Dormant
+12751,165,6,326.18,4,At-Risk / Churning
+12752,8,13,791.98,0,Potential Loyalists
+12753,8,1,63.44,3,New / Low-Engagement Customers
+12754,1,1,36.34,3,New / Low-Engagement Customers
+12755,9,8,157.84,0,Potential Loyalists
+12756,1,15,2190.82,2,High-Value Loyalists
+12757,1,21,3173.94,2,High-Value Loyalists
+12758,2,14,852.33,0,Potential Loyalists
+12759,14,10,195.62,0,Potential Loyalists
+12760,3,1,64.8,3,New / Low-Engagement Customers
+12761,151,7,316.21,4,At-Risk / Churning
+12762,24,2,101.21000000000001,3,New / Low-Engagement Customers
+12763,19,3,155.04,3,New / Low-Engagement Customers
+12764,8,1,20.52,3,New / Low-Engagement Customers
+12765,143,9,403.1,4,At-Risk / Churning
+12766,211,5,222.9,4,At-Risk / Churning
+12767,277,1,38.09,1,Lapsed / Dormant
+12768,161,5,247.25,4,At-Risk / Churning
+12769,140,15,629.7,4,At-Risk / Churning
+12770,159,7,316.9,4,At-Risk / Churning
+12771,124,13,688.9399999999999,4,At-Risk / Churning
+12772,163,8,516.08,4,At-Risk / Churning
+12773,6,8,155.6,0,Potential Loyalists
+12774,124,9,483.14,4,At-Risk / Churning
+12775,135,7,399.07,4,At-Risk / Churning
+12776,5,5,99.8,3,New / Low-Engagement Customers
+12777,5,13,706.34,0,Potential Loyalists
+12778,13,14,791.34,0,Potential Loyalists
+12779,1,18,2319.0,2,High-Value Loyalists
+12780,218,1,38.78,1,Lapsed / Dormant
+12781,6,13,740.51,0,Potential Loyalists
+12782,18,1,54.339999999999996,3,New / Low-Engagement Customers
+12783,22,1,62.16,3,New / Low-Engagement Customers
+12784,5,11,560.5600000000001,0,Potential Loyalists
+12785,259,1,40.050000000000004,1,Lapsed / Dormant
+12786,22,3,119.98,3,New / Low-Engagement Customers
+12787,189,7,386.09,4,At-Risk / Churning
+12788,122,14,704.5,4,At-Risk / Churning
+12789,8,2,115.87,3,New / Low-Engagement Customers
+12790,1,28,3766.08,2,High-Value Loyalists
+12791,9,2,69.28999999999999,3,New / Low-Engagement Customers
+12792,213,1,31.029999999999998,1,Lapsed / Dormant
+12793,12,6,313.48,0,Potential Loyalists
+12794,362,1,34.169999999999995,1,Lapsed / Dormant
+12795,4,20,2566.16,2,High-Value Loyalists
+12796,22,1,47.65,3,New / Low-Engagement Customers
+12797,2,23,3300.12,2,High-Value Loyalists
+12798,161,8,355.43,4,At-Risk / Churning
+12799,13,2,96.98,3,New / Low-Engagement Customers
+12800,3,2,94.5,3,New / Low-Engagement Customers
+12801,1,17,2461.7200000000003,2,High-Value Loyalists
+12802,1,9,462.37,0,Potential Loyalists
+12803,11,9,477.57,0,Potential Loyalists
+12804,208,1,34.97,1,Lapsed / Dormant
+12805,1,3,145.73,3,New / Low-Engagement Customers
+12806,7,3,95.22,3,New / Low-Engagement Customers
+12807,6,10,558.03,0,Potential Loyalists
+12808,1,12,685.36,0,Potential Loyalists
+12809,2,3,102.32,3,New / Low-Engagement Customers
+12810,11,1,51.36,3,New / Low-Engagement Customers
+12811,268,1,27.38,1,Lapsed / Dormant
+12812,253,1,55.64,1,Lapsed / Dormant
+12813,6,6,413.37,0,Potential Loyalists
+12814,1,16,1973.2,2,High-Value Loyalists
+12815,20,2,110.33,3,New / Low-Engagement Customers
+12816,6,3,117.5,3,New / Low-Engagement Customers
+12817,4,13,699.48,0,Potential Loyalists
+12818,341,1,28.48,1,Lapsed / Dormant
+12819,2,8,421.88,0,Potential Loyalists
+12820,11,2,95.16,3,New / Low-Engagement Customers
+12821,134,14,680.51,4,At-Risk / Churning
+12822,130,15,656.87,4,At-Risk / Churning
+12823,1,16,2159.87,2,High-Value Loyalists
+12824,194,1,7.79,1,Lapsed / Dormant
+12825,1,24,3403.81,2,High-Value Loyalists
+12826,26,1,48.03,3,New / Low-Engagement Customers
+12827,1,22,2938.81,2,High-Value Loyalists
+12828,137,9,455.37,4,At-Risk / Churning
+12829,1,14,807.53,0,Potential Loyalists
+12830,8,6,301.37,0,Potential Loyalists
+12831,10,11,649.96,0,Potential Loyalists
+12832,132,11,438.90999999999997,4,At-Risk / Churning
+12833,13,2,84.83,3,New / Low-Engagement Customers
+12834,1,23,3298.27,2,High-Value Loyalists
+12835,143,6,274.59000000000003,4,At-Risk / Churning
+12836,9,8,161.07,0,Potential Loyalists
+12837,19,1,39.28,3,New / Low-Engagement Customers
+12838,3,9,139.34,0,Potential Loyalists
+12839,2,3,146.69,3,New / Low-Engagement Customers
+12840,229,1,20.340000000000003,1,Lapsed / Dormant
+12841,5,13,718.97,0,Potential Loyalists
+12842,2,5,79.28999999999999,3,New / Low-Engagement Customers
+12843,2,15,2160.97,2,High-Value Loyalists
+12844,203,1,30.21,1,Lapsed / Dormant
+12845,1,2,89.66,3,New / Low-Engagement Customers
+12846,3,8,138.49,0,Potential Loyalists
+12847,8,1,61.14,3,New / Low-Engagement Customers
+12848,134,13,654.2,4,At-Risk / Churning
+12849,6,12,630.8,0,Potential Loyalists
+12850,12,8,481.71,0,Potential Loyalists
+12851,2,3,151.34,3,New / Low-Engagement Customers
+12852,206,1,19.2,1,Lapsed / Dormant
+12853,1,3,148.23000000000002,3,New / Low-Engagement Customers
+12854,15,8,419.61,0,Potential Loyalists
+12855,1,13,724.81,0,Potential Loyalists
+12856,4,14,790.5600000000001,0,Potential Loyalists
+12857,2,6,312.09000000000003,0,Potential Loyalists
+12858,12,3,136.91,3,New / Low-Engagement Customers
+12859,4,12,535.42,0,Potential Loyalists
+12860,2,10,495.38,0,Potential Loyalists
+12861,17,2,80.85,3,New / Low-Engagement Customers
+12862,6,3,124.66,3,New / Low-Engagement Customers
+12863,7,8,460.54,0,Potential Loyalists
+12864,199,1,35.51,1,Lapsed / Dormant
+12865,207,1,20.41,1,Lapsed / Dormant
+12866,3,8,436.41,0,Potential Loyalists
+12867,352,1,24.73,1,Lapsed / Dormant
+12868,2,3,86.87,3,New / Low-Engagement Customers
+12869,14,2,69.98,3,New / Low-Engagement Customers
+12870,26,4,78.49,3,New / Low-Engagement Customers
+12871,13,10,182.43,0,Potential Loyalists
+12872,3,14,881.78,0,Potential Loyalists
+12873,270,1,34.82000000000001,1,Lapsed / Dormant
+12874,3,12,642.66,0,Potential Loyalists
+12875,134,11,419.28999999999996,4,At-Risk / Churning
+12876,9,3,129.17,3,New / Low-Engagement Customers
+12877,17,3,135.0,3,New / Low-Engagement Customers
+12878,27,1,61.1,3,New / Low-Engagement Customers
+12879,4,2,99.43,3,New / Low-Engagement Customers
+12880,292,1,59.489999999999995,1,Lapsed / Dormant
+12881,235,1,30.36,1,Lapsed / Dormant
+12882,16,3,136.22,3,New / Low-Engagement Customers
+12883,210,1,54.19,1,Lapsed / Dormant
+12884,3,14,878.14,0,Potential Loyalists
+12885,138,11,530.31,4,At-Risk / Churning
+12886,11,9,550.43,0,Potential Loyalists
+12887,47,4,55.37,3,New / Low-Engagement Customers
+12888,20,4,65.3,3,New / Low-Engagement Customers
+12889,231,1,57.6,1,Lapsed / Dormant
+12890,56,4,67.87,3,New / Low-Engagement Customers
+12891,351,1,17.31,1,Lapsed / Dormant
+12892,28,6,285.34,0,Potential Loyalists
+12893,10,3,112.78,3,New / Low-Engagement Customers
+12894,6,9,537.73,0,Potential Loyalists
+12895,2,17,2401.83,2,High-Value Loyalists
+12896,1,20,2866.91,2,High-Value Loyalists
+12897,1,26,3440.07,2,High-Value Loyalists
+12898,6,11,483.07,0,Potential Loyalists
+12899,130,7,416.5,4,At-Risk / Churning
+12900,18,4,61.129999999999995,3,New / Low-Engagement Customers
+12901,6,8,130.23,0,Potential Loyalists
+12902,1,16,1969.45,2,High-Value Loyalists
+12903,2,10,431.02,0,Potential Loyalists
+12904,129,6,326.8,4,At-Risk / Churning
+12905,11,2,57.7,3,New / Low-Engagement Customers
+12906,3,8,127.74,0,Potential Loyalists
+12907,29,1,27.45,3,New / Low-Engagement Customers
+12908,257,1,38.25,1,Lapsed / Dormant
+12909,15,2,74.38,3,New / Low-Engagement Customers
+12910,331,1,24.36,1,Lapsed / Dormant
+12911,7,12,673.26,0,Potential Loyalists
+12912,2,10,575.58,0,Potential Loyalists
+12913,7,3,96.76,3,New / Low-Engagement Customers
+12914,1,11,598.61,0,Potential Loyalists
+12915,3,7,410.01,0,Potential Loyalists
+12916,28,7,434.57,0,Potential Loyalists
+12917,9,3,130.16,3,New / Low-Engagement Customers
+12918,8,11,638.06,0,Potential Loyalists
+12919,1,25,3072.9,2,High-Value Loyalists
+12920,152,13,586.8,4,At-Risk / Churning
+12921,15,8,403.07,0,Potential Loyalists
+12922,17,2,50.93,3,New / Low-Engagement Customers
+12923,7,12,832.18,0,Potential Loyalists
+12924,354,1,41.4,1,Lapsed / Dormant
+12925,3,2,75.06,3,New / Low-Engagement Customers
+12926,318,1,56.42,1,Lapsed / Dormant
+12927,217,1,64.77,1,Lapsed / Dormant
+12928,320,1,13.56,1,Lapsed / Dormant
+12929,122,15,657.99,4,At-Risk / Churning
+12930,340,1,42.82,1,Lapsed / Dormant
+12931,137,14,682.73,4,At-Risk / Churning
+12932,125,10,415.53999999999996,4,At-Risk / Churning
+12933,9,11,615.43,0,Potential Loyalists
+12934,10,9,571.27,0,Potential Loyalists
+12935,3,21,3021.67,2,High-Value Loyalists
+12936,10,1,41.44,3,New / Low-Engagement Customers
+12937,3,14,915.08,0,Potential Loyalists
+12938,178,8,267.37,4,At-Risk / Churning
+12939,1,3,170.44,3,New / Low-Engagement Customers
+12940,153,14,692.83,4,At-Risk / Churning
+12941,1,26,3571.15,2,High-Value Loyalists
+12942,1,10,609.45,0,Potential Loyalists
+12943,124,14,656.55,4,At-Risk / Churning
+12944,155,6,277.35,4,At-Risk / Churning
+12945,136,15,604.56,4,At-Risk / Churning
+12946,3,16,2122.69,2,High-Value Loyalists
+12947,154,6,230.54,4,At-Risk / Churning
+12948,11,5,70.34,3,New / Low-Engagement Customers
+12949,5,12,600.65,0,Potential Loyalists
+12950,1,27,3670.28,2,High-Value Loyalists
+12951,6,9,503.33,0,Potential Loyalists
+12952,9,2,52.51,3,New / Low-Engagement Customers
+12954,1,9,469.46,0,Potential Loyalists
+12955,24,1,44.39,3,New / Low-Engagement Customers
+12956,26,1,16.86,3,New / Low-Engagement Customers
+12957,340,1,38.81,1,Lapsed / Dormant
+12958,18,2,88.69,3,New / Low-Engagement Customers
+12959,1,13,767.87,0,Potential Loyalists
+12960,6,11,560.4200000000001,0,Potential Loyalists
+12961,15,6,306.3,0,Potential Loyalists
+12962,319,1,29.98,1,Lapsed / Dormant
+12963,1,12,703.41,0,Potential Loyalists
+12964,9,7,438.19,0,Potential Loyalists
+12965,12,5,76.97,3,New / Low-Engagement Customers
+12966,199,1,15.6,1,Lapsed / Dormant
+12967,1,17,2271.58,2,High-Value Loyalists
+12968,3,27,3661.42,2,High-Value Loyalists
+12969,186,1,22.73,1,Lapsed / Dormant
+12970,342,1,24.900000000000002,1,Lapsed / Dormant
+12971,7,7,395.21999999999997,0,Potential Loyalists
+12972,134,7,354.97,4,At-Risk / Churning
+12973,306,1,32.17,1,Lapsed / Dormant
+12974,1,9,507.25,0,Potential Loyalists
+12975,31,8,125.51,0,Potential Loyalists
+12976,292,1,35.730000000000004,1,Lapsed / Dormant
+12977,2,10,670.99,0,Potential Loyalists
+12978,122,11,568.31,4,At-Risk / Churning
+12979,1,3,117.98,3,New / Low-Engagement Customers
+12980,2,1,40.09,3,New / Low-Engagement Customers
+12981,128,9,490.02,4,At-Risk / Churning
+12982,128,9,452.67,4,At-Risk / Churning
+12983,1,29,3720.65,2,High-Value Loyalists
+12984,258,1,46.730000000000004,1,Lapsed / Dormant
+12985,7,3,117.83,3,New / Low-Engagement Customers
+12986,132,8,336.96999999999997,4,At-Risk / Churning
+12987,13,3,158.88,3,New / Low-Engagement Customers
+12988,2,26,3130.0499999999997,2,High-Value Loyalists
+12989,197,6,335.24,4,At-Risk / Churning
+12990,8,7,447.07,0,Potential Loyalists
+12991,1,19,2697.33,2,High-Value Loyalists
+12992,1,23,3134.2,2,High-Value Loyalists
+12993,6,14,759.31,0,Potential Loyalists
+12994,315,1,31.08,1,Lapsed / Dormant
+12995,2,16,2113.04,2,High-Value Loyalists
+12996,18,5,82.97,3,New / Low-Engagement Customers
+12997,3,11,675.88,0,Potential Loyalists
+12998,55,5,110.16,3,New / Low-Engagement Customers
+12999,1,19,2520.93,2,High-Value Loyalists
+13000,1,10,607.76,0,Potential Loyalists
+13001,5,3,166.7,3,New / Low-Engagement Customers
+13002,192,1,31.64,1,Lapsed / Dormant
+13003,4,8,107.98,0,Potential Loyalists
+13004,8,1,30.26,3,New / Low-Engagement Customers
+13005,2,3,82.73,3,New / Low-Engagement Customers
+13006,15,2,98.25,3,New / Low-Engagement Customers
+13007,19,2,74.11,3,New / Low-Engagement Customers
+13008,198,7,326.93,4,At-Risk / Churning
+13009,4,8,398.42,0,Potential Loyalists
+13010,47,4,60.44,3,New / Low-Engagement Customers
+13011,150,15,785.01,4,At-Risk / Churning
+13012,5,7,446.2,0,Potential Loyalists
+13013,203,1,11.64,1,Lapsed / Dormant
+13014,175,8,418.51,4,At-Risk / Churning
+13015,153,6,269.12,4,At-Risk / Churning
+13016,272,1,56.42,1,Lapsed / Dormant
+13017,2,6,96.73,0,Potential Loyalists
+13018,1,25,3300.57,2,High-Value Loyalists
+13019,139,11,462.64,4,At-Risk / Churning
+13020,1,10,676.56,0,Potential Loyalists
+13021,213,1,35.4,1,Lapsed / Dormant
+13022,41,10,157.65,4,At-Risk / Churning
+13023,1,21,3141.07,2,High-Value Loyalists
+13024,1,7,412.14,0,Potential Loyalists
+13025,2,14,843.29,0,Potential Loyalists
+13026,223,4,169.70000000000002,4,At-Risk / Churning
+13027,3,6,369.42,0,Potential Loyalists
+13028,21,3,110.61,3,New / Low-Engagement Customers
+13029,128,12,561.2,4,At-Risk / Churning
+13030,10,13,615.23,0,Potential Loyalists
+13031,5,3,73.8,3,New / Low-Engagement Customers
+13032,28,4,41.24,3,New / Low-Engagement Customers
+13033,149,14,545.38,4,At-Risk / Churning
+13034,281,1,17.6,1,Lapsed / Dormant
+13035,213,6,304.09,4,At-Risk / Churning
+13036,35,9,155.16,4,At-Risk / Churning
+13037,11,5,86.51,3,New / Low-Engagement Customers
+13038,17,3,135.16,3,New / Low-Engagement Customers
+13039,14,3,113.2,3,New / Low-Engagement Customers
+13040,11,4,61.8,3,New / Low-Engagement Customers
+13041,3,16,1946.9,2,High-Value Loyalists
+13042,11,3,176.1,3,New / Low-Engagement Customers
+13043,29,4,58.01,3,New / Low-Engagement Customers
+13044,132,14,741.87,4,At-Risk / Churning
+13045,1,7,419.92,0,Potential Loyalists
+13046,123,14,670.46,4,At-Risk / Churning
+13047,207,1,19.43,1,Lapsed / Dormant
+13048,149,8,297.57,4,At-Risk / Churning
+13049,1,22,2830.21,2,High-Value Loyalists
+13050,2,11,678.3,0,Potential Loyalists
+13051,20,1,40.410000000000004,3,New / Low-Engagement Customers
+13052,10,3,106.09,3,New / Low-Engagement Customers
+13053,2,2,46.75,3,New / Low-Engagement Customers
+13054,3,6,90.82,3,New / Low-Engagement Customers
+13055,125,12,585.89,4,At-Risk / Churning
+13056,1,13,746.95,0,Potential Loyalists
+13057,306,1,37.78,1,Lapsed / Dormant
+13058,352,1,22.919999999999998,1,Lapsed / Dormant
+13059,143,12,566.13,4,At-Risk / Churning
+13060,131,14,775.55,4,At-Risk / Churning
+13061,25,1,61.75,3,New / Low-Engagement Customers
+13062,8,9,128.05,0,Potential Loyalists
+13063,295,1,32.05,1,Lapsed / Dormant
+13064,138,6,329.81,4,At-Risk / Churning
+13065,6,2,87.11,3,New / Low-Engagement Customers
+13066,20,1,24.330000000000002,3,New / Low-Engagement Customers
+13067,192,5,227.14000000000001,4,At-Risk / Churning
+13068,124,12,517.7,4,At-Risk / Churning
+13069,123,8,411.92,4,At-Risk / Churning
+13070,1,2,109.73,3,New / Low-Engagement Customers
+13071,122,12,469.42,4,At-Risk / Churning
+13072,3,30,3623.91,2,High-Value Loyalists
+13073,3,1,32.28,3,New / Low-Engagement Customers
+13074,322,1,65.72,1,Lapsed / Dormant
+13075,1,23,3020.2599999999998,2,High-Value Loyalists
+13076,7,10,531.0,0,Potential Loyalists
+13077,2,6,103.2,0,Potential Loyalists
+13078,141,15,774.61,4,At-Risk / Churning
+13079,11,6,311.29,0,Potential Loyalists
+13080,285,1,46.36,1,Lapsed / Dormant
+13081,131,13,572.1,4,At-Risk / Churning
+13082,28,4,75.29,3,New / Low-Engagement Customers
+13083,15,3,97.57000000000001,3,New / Low-Engagement Customers
+13084,3,3,185.67,3,New / Low-Engagement Customers
+13085,9,9,153.05,0,Potential Loyalists
+13086,140,9,418.79,4,At-Risk / Churning
+13087,1,14,1958.68,2,High-Value Loyalists
+13088,2,5,99.7,3,New / Low-Engagement Customers
+13089,123,13,606.96,4,At-Risk / Churning
+13090,7,9,166.3,0,Potential Loyalists
+13091,9,8,440.04999999999995,0,Potential Loyalists
+13092,188,10,472.26,4,At-Risk / Churning
+13093,18,3,165.2,3,New / Low-Engagement Customers
+13094,247,5,284.86,4,At-Risk / Churning
+13095,3,14,795.2,0,Potential Loyalists
+13096,133,11,435.71,4,At-Risk / Churning
+13097,17,2,107.50999999999999,3,New / Low-Engagement Customers
+13098,12,4,43.3,3,New / Low-Engagement Customers
+13099,124,11,616.67,4,At-Risk / Churning
+13100,145,10,397.68,4,At-Risk / Churning
+13101,15,1,11.53,3,New / Low-Engagement Customers
+13102,2,17,2208.56,2,High-Value Loyalists
+13103,6,8,442.25,0,Potential Loyalists
+13104,146,5,282.0,4,At-Risk / Churning
+13105,9,6,79.44,3,New / Low-Engagement Customers
+13106,274,1,17.259999999999998,1,Lapsed / Dormant
+13107,3,8,518.21,0,Potential Loyalists
+13108,210,1,54.510000000000005,1,Lapsed / Dormant
+13109,6,11,530.54,0,Potential Loyalists
+13110,152,9,450.67,4,At-Risk / Churning
+13111,5,7,101.13,0,Potential Loyalists
+13112,6,9,167.1,0,Potential Loyalists
+13113,215,1,57.92,1,Lapsed / Dormant
+13114,8,14,706.15,0,Potential Loyalists
+13115,330,1,56.14,1,Lapsed / Dormant
+13116,1,14,1961.89,2,High-Value Loyalists
+13117,127,12,651.86,4,At-Risk / Churning
+13118,189,5,261.66,4,At-Risk / Churning
+13119,1,13,818.46,0,Potential Loyalists
+13120,7,2,57.949999999999996,3,New / Low-Engagement Customers
+13121,3,6,356.33,0,Potential Loyalists
+13122,1,30,4382.33,2,High-Value Loyalists
+13123,121,10,533.98,4,At-Risk / Churning
+13124,9,9,161.26,0,Potential Loyalists
+13125,11,3,119.61,3,New / Low-Engagement Customers
+13126,20,1,54.94,3,New / Low-Engagement Customers
+13127,157,12,707.93,4,At-Risk / Churning
+13128,146,14,733.52,4,At-Risk / Churning
+13129,4,9,480.6,0,Potential Loyalists
+13130,3,10,159.05,0,Potential Loyalists
+13131,1,23,3067.64,2,High-Value Loyalists
+13132,3,6,93.64,0,Potential Loyalists
+13133,228,1,16.58,1,Lapsed / Dormant
+13134,2,28,3831.7400000000002,2,High-Value Loyalists
+13135,2,6,113.15,0,Potential Loyalists
+13136,357,1,25.87,1,Lapsed / Dormant
+13137,12,3,151.13,3,New / Low-Engagement Customers
+13138,31,1,19.97,1,Lapsed / Dormant
+13139,12,10,210.59,0,Potential Loyalists
+13140,196,12,561.85,4,At-Risk / Churning
+13141,4,21,2762.1,2,High-Value Loyalists
+13142,2,30,4688.0,2,High-Value Loyalists
+13143,6,1,35.64,3,New / Low-Engagement Customers
+13144,2,28,3670.7799999999997,2,High-Value Loyalists
+13145,121,9,397.22,4,At-Risk / Churning
+13146,1,4,58.98,3,New / Low-Engagement Customers
+13147,341,1,48.44,1,Lapsed / Dormant
+13148,1,25,3358.32,2,High-Value Loyalists
+13149,1,25,3203.53,2,High-Value Loyalists
+13150,245,1,29.84,1,Lapsed / Dormant
+13151,12,9,530.93,0,Potential Loyalists
+13152,17,10,159.64000000000001,0,Potential Loyalists
+13153,18,2,54.739999999999995,3,New / Low-Engagement Customers
+13154,19,12,600.3199999999999,0,Potential Loyalists
+13155,359,1,41.68,1,Lapsed / Dormant
+13156,131,13,752.76,4,At-Risk / Churning
+13157,4,13,658.75,0,Potential Loyalists
+13158,5,10,444.13,0,Potential Loyalists
+13159,178,7,355.46,4,At-Risk / Churning
+13160,126,11,478.25,4,At-Risk / Churning
+13161,249,1,46.849999999999994,1,Lapsed / Dormant
+13162,319,1,15.700000000000001,1,Lapsed / Dormant
+13163,1,30,4109.2,2,High-Value Loyalists
+13164,3,27,3508.51,2,High-Value Loyalists
+13165,284,1,23.01,1,Lapsed / Dormant
+13166,183,6,329.41999999999996,4,At-Risk / Churning
+13167,161,8,266.65,4,At-Risk / Churning
+13168,10,3,85.72999999999999,3,New / Low-Engagement Customers
+13169,14,6,109.96,3,New / Low-Engagement Customers
+13170,1,21,3006.7200000000003,2,High-Value Loyalists
+13171,1,10,175.93,0,Potential Loyalists
+13172,8,5,91.43,3,New / Low-Engagement Customers
+13173,1,18,2332.9900000000002,2,High-Value Loyalists
+13174,5,6,330.82,0,Potential Loyalists
+13175,211,7,351.34,4,At-Risk / Churning
+13176,5,8,383.88,0,Potential Loyalists
+13177,1,11,614.96,0,Potential Loyalists
+13178,18,9,127.36,0,Potential Loyalists
+13179,1,14,692.6,0,Potential Loyalists
+13180,2,7,436.43,0,Potential Loyalists
+13181,289,1,48.989999999999995,1,Lapsed / Dormant
+13182,139,9,436.70000000000005,4,At-Risk / Churning
+13183,1,26,3320.1,2,High-Value Loyalists
+13184,328,1,45.36,1,Lapsed / Dormant
+13185,196,5,264.19,4,At-Risk / Churning
+13186,26,1,57.95,3,New / Low-Engagement Customers
+13187,24,7,421.24,0,Potential Loyalists
+13188,3,16,2140.29,2,High-Value Loyalists
+13189,1,28,4067.14,2,High-Value Loyalists
+13190,6,9,531.55,0,Potential Loyalists
+13191,204,1,36.2,1,Lapsed / Dormant
+13192,25,1,40.04,3,New / Low-Engagement Customers
+13193,303,1,16.919999999999998,1,Lapsed / Dormant
+13194,26,1,45.48,3,New / Low-Engagement Customers
+13195,29,1,32.2,3,New / Low-Engagement Customers
+13196,17,1,20.55,3,New / Low-Engagement Customers
+13197,2,8,157.68,0,Potential Loyalists
+13198,2,8,127.35,0,Potential Loyalists
+13199,6,7,95.92999999999999,0,Potential Loyalists
+13200,126,14,753.62,4,At-Risk / Churning
+13201,1,17,2336.2,2,High-Value Loyalists
+13202,327,1,8.370000000000001,1,Lapsed / Dormant
+13203,4,6,380.39,0,Potential Loyalists
+13204,21,6,285.65,0,Potential Loyalists
+13205,184,15,691.0699999999999,4,At-Risk / Churning
+13206,228,1,55.18,1,Lapsed / Dormant
+13207,46,4,76.65,3,New / Low-Engagement Customers
+13208,4,13,672.51,0,Potential Loyalists
+13209,2,8,607.08,0,Potential Loyalists
+13210,2,24,2952.76,2,High-Value Loyalists
+13211,7,3,115.86,3,New / Low-Engagement Customers
+13212,3,3,117.66,3,New / Low-Engagement Customers
+13213,2,8,343.71000000000004,0,Potential Loyalists
+13214,134,12,531.69,4,At-Risk / Churning
+13215,127,12,650.37,4,At-Risk / Churning
+13216,121,15,763.23,4,At-Risk / Churning
+13217,4,3,108.62,3,New / Low-Engagement Customers
+13218,229,1,28.32,1,Lapsed / Dormant
+13219,1,27,3613.76,2,High-Value Loyalists
+13220,5,6,329.19,0,Potential Loyalists
+13221,9,3,55.3,3,New / Low-Engagement Customers
+13222,31,1,51.83,3,New / Low-Engagement Customers
+13223,1,28,3788.66,2,High-Value Loyalists
+13224,6,1,40.95,3,New / Low-Engagement Customers
+13225,133,12,623.3,4,At-Risk / Churning
+13226,141,7,316.68,4,At-Risk / Churning
+13227,132,12,464.03,4,At-Risk / Churning
+13228,10,9,142.57,0,Potential Loyalists
+13229,7,11,612.83,0,Potential Loyalists
+13230,1,17,2486.68,2,High-Value Loyalists
+13231,208,1,44.2,1,Lapsed / Dormant
+13232,4,10,546.19,0,Potential Loyalists
+13233,1,18,2449.3,2,High-Value Loyalists
+13234,365,1,39.68,1,Lapsed / Dormant
+13235,5,9,130.88,0,Potential Loyalists
+13236,10,13,849.59,0,Potential Loyalists
+13237,241,1,15.06,1,Lapsed / Dormant
+13238,1,28,4008.7,2,High-Value Loyalists
+13239,8,10,516.75,0,Potential Loyalists
+13240,158,9,382.36,4,At-Risk / Churning
+13241,303,1,10.86,1,Lapsed / Dormant
+13242,1,10,624.35,0,Potential Loyalists
+13243,6,11,646.22,0,Potential Loyalists
+13244,122,14,631.79,4,At-Risk / Churning
+13245,1,2,101.19,3,New / Low-Engagement Customers
+13246,1,11,716.05,0,Potential Loyalists
+13247,130,8,418.42,4,At-Risk / Churning
+13248,196,1,34.33,1,Lapsed / Dormant
+13249,29,1,56.42,3,New / Low-Engagement Customers
+13250,15,1,36.739999999999995,3,New / Low-Engagement Customers
+13251,129,12,534.19,4,At-Risk / Churning
+13252,1,28,4066.89,2,High-Value Loyalists
+13253,1,23,3484.47,2,High-Value Loyalists
+13254,9,2,97.9,3,New / Low-Engagement Customers
+13255,30,1,50.540000000000006,3,New / Low-Engagement Customers
+13256,247,1,11.58,1,Lapsed / Dormant
+13257,13,8,142.19,0,Potential Loyalists
+13258,207,8,308.14,4,At-Risk / Churning
+13259,3,8,365.4,0,Potential Loyalists
+13260,20,6,90.1,3,New / Low-Engagement Customers
+13261,14,8,361.56,0,Potential Loyalists
+13262,215,1,10.44,1,Lapsed / Dormant
+13263,1,23,2546.55,2,High-Value Loyalists
+13264,29,1,70.59,3,New / Low-Engagement Customers
+13265,15,1,38.400000000000006,3,New / Low-Engagement Customers
+13266,1,8,486.96999999999997,0,Potential Loyalists
+13267,355,1,54.83,1,Lapsed / Dormant
+13268,1,20,2615.64,2,High-Value Loyalists
+13269,6,12,556.41,0,Potential Loyalists
+13270,10,7,91.23,0,Potential Loyalists
+13271,134,14,662.43,4,At-Risk / Churning
+13272,7,9,517.89,0,Potential Loyalists
+13273,171,8,444.63,4,At-Risk / Churning
+13274,252,1,43.31999999999999,1,Lapsed / Dormant
+13275,3,14,758.25,0,Potential Loyalists
+13276,18,5,79.37,3,New / Low-Engagement Customers
+13277,3,9,568.28,0,Potential Loyalists
+13278,198,1,26.019999999999996,1,Lapsed / Dormant
+13279,194,1,23.759999999999998,1,Lapsed / Dormant
+13280,1,11,631.01,0,Potential Loyalists
+13281,18,5,91.98,3,New / Low-Engagement Customers
+13282,1,19,2829.11,2,High-Value Loyalists
+13283,11,7,125.71,0,Potential Loyalists
+13284,1,29,3590.05,2,High-Value Loyalists
+13285,4,2,68.46,3,New / Low-Engagement Customers
+13286,124,13,668.0600000000001,4,At-Risk / Churning
+13287,353,1,42.33,1,Lapsed / Dormant
+13288,125,9,460.58,4,At-Risk / Churning
+13289,13,8,139.38,0,Potential Loyalists
+13290,6,8,449.44,0,Potential Loyalists
+13291,238,1,57.66,1,Lapsed / Dormant
+13292,2,22,2745.44,2,High-Value Loyalists
+13293,223,5,303.78999999999996,4,At-Risk / Churning
+13294,7,4,40.89,3,New / Low-Engagement Customers
+13295,124,13,659.95,4,At-Risk / Churning
+13296,8,6,352.2,0,Potential Loyalists
+13297,4,16,2347.34,2,High-Value Loyalists
+13298,121,11,595.9699999999999,4,At-Risk / Churning
+13299,1,7,430.56,0,Potential Loyalists
+13300,4,13,725.26,0,Potential Loyalists
+13301,137,8,407.03000000000003,4,At-Risk / Churning
+13302,4,7,309.67,0,Potential Loyalists
+13303,5,9,126.71000000000001,0,Potential Loyalists
+13304,1,25,3609.64,2,High-Value Loyalists
+13305,6,12,713.14,0,Potential Loyalists
+13306,185,14,773.8100000000001,4,At-Risk / Churning
+13307,270,1,57.84,1,Lapsed / Dormant
+13308,25,2,100.29,3,New / Low-Engagement Customers
+13309,354,1,57.39,1,Lapsed / Dormant
+13310,31,1,40.12,3,New / Low-Engagement Customers
+13311,2,9,174.14,0,Potential Loyalists
+13312,2,11,566.16,0,Potential Loyalists
+13313,131,7,406.8,4,At-Risk / Churning
+13314,23,1,29.14,3,New / Low-Engagement Customers
+13315,20,7,115.34,0,Potential Loyalists
+13316,149,8,377.46999999999997,4,At-Risk / Churning
+13317,121,8,346.32,4,At-Risk / Churning
+13318,1,3,159.17000000000002,3,New / Low-Engagement Customers
+13319,1,16,1781.29,2,High-Value Loyalists
+13320,123,14,625.3,4,At-Risk / Churning
+13321,126,6,280.77,4,At-Risk / Churning
+13322,14,1,53.06,3,New / Low-Engagement Customers
+13323,137,9,558.21,4,At-Risk / Churning
+13324,8,14,881.9,0,Potential Loyalists
+13325,23,1,67.69,3,New / Low-Engagement Customers
+13326,127,15,677.36,4,At-Risk / Churning
+13327,4,12,637.03,0,Potential Loyalists
+13328,13,5,94.31,3,New / Low-Engagement Customers
+13329,149,6,274.65999999999997,4,At-Risk / Churning
+13330,154,9,393.41,4,At-Risk / Churning
+13331,122,9,537.39,4,At-Risk / Churning
+13332,17,1,66.75,3,New / Low-Engagement Customers
+13333,1,28,3973.22,2,High-Value Loyalists
+13334,2,23,3039.92,2,High-Value Loyalists
+13335,8,9,583.21,0,Potential Loyalists
+13336,9,7,109.72,0,Potential Loyalists
+13337,3,3,111.87,3,New / Low-Engagement Customers
+13338,9,7,367.03,0,Potential Loyalists
+13339,26,2,94.97999999999999,3,New / Low-Engagement Customers
+13340,5,10,515.78,0,Potential Loyalists
+13341,5,9,155.28,0,Potential Loyalists
+13342,2,5,79.26,3,New / Low-Engagement Customers
+13343,6,12,645.68,0,Potential Loyalists
+13344,138,5,269.37,4,At-Risk / Churning
+13345,10,1,62.72,3,New / Low-Engagement Customers
+13346,10,13,842.62,0,Potential Loyalists
+13347,201,6,264.24,4,At-Risk / Churning
+13348,128,14,710.97,4,At-Risk / Churning
+13349,10,8,118.57000000000001,0,Potential Loyalists
+13350,28,1,67.62,3,New / Low-Engagement Customers
+13351,3,6,91.74,3,New / Low-Engagement Customers
+13352,3,9,518.15,0,Potential Loyalists
+13353,340,1,26.3,1,Lapsed / Dormant
+13354,132,5,316.65,4,At-Risk / Churning
+13355,1,16,2058.4,2,High-Value Loyalists
+13356,140,10,479.67,4,At-Risk / Churning
+13357,1,30,4255.55,2,High-Value Loyalists
+13358,20,4,65.48,3,New / Low-Engagement Customers
+13359,15,1,47.45,3,New / Low-Engagement Customers
+13360,159,9,465.36,4,At-Risk / Churning
+13361,2,13,623.37,0,Potential Loyalists
+13362,143,5,232.44,4,At-Risk / Churning
+13363,9,2,30.08,3,New / Low-Engagement Customers
+13364,16,6,106.61,3,New / Low-Engagement Customers
+13365,20,3,92.71,3,New / Low-Engagement Customers
+13366,23,6,375.51,0,Potential Loyalists
+13367,3,14,649.73,0,Potential Loyalists
+13368,14,7,144.2,0,Potential Loyalists
+13369,146,10,412.99,4,At-Risk / Churning
+13370,309,1,12.66,1,Lapsed / Dormant
+13371,52,5,79.53,3,New / Low-Engagement Customers
+13372,3,14,753.86,0,Potential Loyalists
+13373,252,1,19.91,1,Lapsed / Dormant
+13374,138,9,484.96,4,At-Risk / Churning
+13375,13,7,357.37,0,Potential Loyalists
+13376,4,8,400.94,0,Potential Loyalists
+13377,295,1,38.849999999999994,1,Lapsed / Dormant
+13378,163,8,444.24,4,At-Risk / Churning
+13379,243,1,16.02,1,Lapsed / Dormant
+13380,12,4,52.519999999999996,3,New / Low-Engagement Customers
+13381,20,8,152.69,0,Potential Loyalists
+13382,1,3,135.23000000000002,3,New / Low-Engagement Customers
+13383,21,6,76.38,3,New / Low-Engagement Customers
+13384,2,6,90.94,0,Potential Loyalists
+13385,5,2,94.08,3,New / Low-Engagement Customers
+13386,2,9,504.56,0,Potential Loyalists
+13387,18,3,127.97999999999999,3,New / Low-Engagement Customers
+13388,1,9,492.44,0,Potential Loyalists
+13389,155,5,213.70000000000002,4,At-Risk / Churning
+13390,4,14,720.75,0,Potential Loyalists
+13391,140,15,757.62,4,At-Risk / Churning
+13392,164,9,467.01,4,At-Risk / Churning
+13393,7,3,91.02,3,New / Low-Engagement Customers
+13394,8,11,544.59,0,Potential Loyalists
+13395,14,5,84.96,3,New / Low-Engagement Customers
+13396,10,3,150.36,3,New / Low-Engagement Customers
+13397,124,11,588.61,4,At-Risk / Churning
+13398,2,19,2646.27,2,High-Value Loyalists
+13399,20,8,167.38,0,Potential Loyalists
+13400,122,5,219.24,4,At-Risk / Churning
+13401,317,1,54.36,1,Lapsed / Dormant
+13402,9,11,682.44,0,Potential Loyalists
+13403,1,17,2063.59,2,High-Value Loyalists
+13404,16,2,89.88,3,New / Low-Engagement Customers
+13405,14,12,596.68,0,Potential Loyalists
+13406,9,2,50.25,3,New / Low-Engagement Customers
+13407,11,10,567.77,0,Potential Loyalists
+13408,15,2,86.91,3,New / Low-Engagement Customers
+13409,329,1,42.800000000000004,1,Lapsed / Dormant
+13410,123,13,717.85,4,At-Risk / Churning
+13411,129,6,334.56,4,At-Risk / Churning
+13412,1,10,666.92,0,Potential Loyalists
+13413,11,6,284.93,0,Potential Loyalists
+13414,1,6,413.5,0,Potential Loyalists
+13415,1,9,157.99,0,Potential Loyalists
+13416,8,3,159.8,3,New / Low-Engagement Customers
+13417,134,13,693.95,4,At-Risk / Churning
+13418,1,2,128.27,3,New / Low-Engagement Customers
+13419,201,1,29.189999999999998,1,Lapsed / Dormant
+13420,17,10,143.11,0,Potential Loyalists
+13421,31,7,74.62,3,New / Low-Engagement Customers
+13422,8,11,558.86,0,Potential Loyalists
+13423,339,1,28.12,1,Lapsed / Dormant
+13424,133,7,326.48,4,At-Risk / Churning
+13425,27,6,77.76,3,New / Low-Engagement Customers
+13426,160,10,425.89,4,At-Risk / Churning
+13427,17,1,41.4,3,New / Low-Engagement Customers
+13428,1,6,249.72,0,Potential Loyalists
+13429,10,13,800.26,0,Potential Loyalists
+13430,133,9,434.6,4,At-Risk / Churning
+13431,5,1,19.38,3,New / Low-Engagement Customers
+13432,10,2,43.86,3,New / Low-Engagement Customers
+13433,8,13,801.5,0,Potential Loyalists
+13434,1,16,2249.72,2,High-Value Loyalists
+13435,6,10,462.64,0,Potential Loyalists
+13436,9,9,425.13,0,Potential Loyalists
+13437,198,7,402.09,4,At-Risk / Churning
+13438,3,3,118.62,3,New / Low-Engagement Customers
+13439,1,25,3419.33,2,High-Value Loyalists
+13440,1,28,3856.57,2,High-Value Loyalists
+13441,131,7,331.51,4,At-Risk / Churning
+13442,15,8,146.32,0,Potential Loyalists
+13443,130,9,431.59000000000003,4,At-Risk / Churning
+13444,5,7,470.42,0,Potential Loyalists
+13445,26,7,106.23,3,New / Low-Engagement Customers
+13446,162,7,419.47,4,At-Risk / Churning
+13447,136,10,497.37,4,At-Risk / Churning
+13448,5,7,455.55,0,Potential Loyalists
+13449,18,1,54.87,3,New / Low-Engagement Customers
+13450,157,12,691.74,4,At-Risk / Churning
+13451,19,4,81.82,3,New / Low-Engagement Customers
+13452,18,8,381.58,0,Potential Loyalists
+13453,62,5,84.33,3,New / Low-Engagement Customers
+13454,173,14,709.34,4,At-Risk / Churning
+13455,266,1,34.580000000000005,1,Lapsed / Dormant
+13456,134,7,310.25,4,At-Risk / Churning
+13457,2,12,654.33,0,Potential Loyalists
+13458,8,2,91.45000000000002,3,New / Low-Engagement Customers
+13459,7,12,819.71,0,Potential Loyalists
+13460,147,12,636.06,4,At-Risk / Churning
+13461,308,1,37.260000000000005,1,Lapsed / Dormant
+13462,1,17,2396.09,2,High-Value Loyalists
+13463,121,14,756.6899999999999,4,At-Risk / Churning
+13464,22,1,65.87,3,New / Low-Engagement Customers
+13465,17,6,111.92999999999999,3,New / Low-Engagement Customers
+13466,195,7,356.52,4,At-Risk / Churning
+13467,121,15,633.43,4,At-Risk / Churning
+13468,133,15,842.04,4,At-Risk / Churning
+13469,134,12,606.04,4,At-Risk / Churning
+13470,155,14,756.83,4,At-Risk / Churning
+13471,4,11,680.3,0,Potential Loyalists
+13472,1,17,2142.84,2,High-Value Loyalists
+13473,184,7,330.26,4,At-Risk / Churning
+13474,1,12,656.8,0,Potential Loyalists
+13475,5,6,268.88,0,Potential Loyalists
+13476,304,1,32.6,1,Lapsed / Dormant
+13477,236,1,27.04,1,Lapsed / Dormant
+13478,12,9,522.88,0,Potential Loyalists
+13479,19,8,109.3,0,Potential Loyalists
+13480,7,8,379.49,0,Potential Loyalists
+13481,129,11,566.17,4,At-Risk / Churning
+13482,245,1,38.96,1,Lapsed / Dormant
+13483,2,10,585.82,0,Potential Loyalists
+13484,31,5,86.63,3,New / Low-Engagement Customers
+13485,36,7,411.37,4,At-Risk / Churning
+13486,1,8,107.84,0,Potential Loyalists
+13487,5,3,140.94,3,New / Low-Engagement Customers
+13488,3,9,175.37,0,Potential Loyalists
+13489,3,3,158.48,3,New / Low-Engagement Customers
+13490,11,10,155.16,0,Potential Loyalists
+13491,23,10,219.35,0,Potential Loyalists
+13492,1,11,555.47,0,Potential Loyalists
+13493,1,29,4024.67,2,High-Value Loyalists
+13494,2,8,140.11,0,Potential Loyalists
+13496,1,7,438.38,0,Potential Loyalists
+13497,7,13,676.78,0,Potential Loyalists
+13498,22,2,84.21000000000001,3,New / Low-Engagement Customers
+13499,151,12,597.62,4,At-Risk / Churning
+13500,31,7,107.65,3,New / Low-Engagement Customers
+13501,131,8,342.36,4,At-Risk / Churning
+13502,1,17,2372.04,2,High-Value Loyalists
+13503,1,2,103.84,3,New / Low-Engagement Customers
+13504,132,9,478.38,4,At-Risk / Churning
+13505,24,12,645.17,0,Potential Loyalists
+13506,126,12,579.26,4,At-Risk / Churning
+13507,1,29,3808.0,2,High-Value Loyalists
+13508,203,9,465.46999999999997,4,At-Risk / Churning
+13509,1,12,690.85,0,Potential Loyalists
+13510,6,6,74.35,3,New / Low-Engagement Customers
+13511,12,1,49.44,3,New / Low-Engagement Customers
+13512,4,2,88.85,3,New / Low-Engagement Customers
+13513,4,9,420.47,0,Potential Loyalists
+13514,3,2,103.03999999999999,3,New / Low-Engagement Customers
+13515,1,7,77.99,0,Potential Loyalists
+13516,3,26,3364.79,2,High-Value Loyalists
+13517,5,8,466.25,0,Potential Loyalists
+13518,208,1,47.04,1,Lapsed / Dormant
+13519,260,1,32.42,1,Lapsed / Dormant
+13520,340,1,18.71,1,Lapsed / Dormant
+13521,5,2,83.55,3,New / Low-Engagement Customers
+13522,2,14,739.83,0,Potential Loyalists
+13523,6,10,154.96,0,Potential Loyalists
+13524,12,2,64.50999999999999,3,New / Low-Engagement Customers
+13525,343,1,32.5,1,Lapsed / Dormant
+13526,4,14,924.08,0,Potential Loyalists
+13527,273,1,34.0,1,Lapsed / Dormant
+13528,13,6,353.14,0,Potential Loyalists
+13529,140,9,393.43,4,At-Risk / Churning
+13530,38,7,116.94,4,At-Risk / Churning
+13531,14,7,117.3,0,Potential Loyalists
+13532,1,20,2485.13,2,High-Value Loyalists
+13533,5,10,590.4399999999999,0,Potential Loyalists
+13534,1,22,2642.5299999999997,2,High-Value Loyalists
+13535,11,1,52.25,3,New / Low-Engagement Customers
+13536,6,10,696.42,0,Potential Loyalists
+13537,4,10,636.0,0,Potential Loyalists
+13538,128,13,660.32,4,At-Risk / Churning
+13539,152,15,679.48,4,At-Risk / Churning
+13540,123,5,229.51000000000002,4,At-Risk / Churning
+13541,3,6,87.97,3,New / Low-Engagement Customers
+13542,1,25,3465.14,2,High-Value Loyalists
+13543,1,21,2337.93,2,High-Value Loyalists
+13544,13,10,165.19,0,Potential Loyalists
+13545,10,7,155.33,0,Potential Loyalists
+13546,186,1,16.23,1,Lapsed / Dormant
+13547,9,6,141.93,0,Potential Loyalists
+13548,16,9,366.46,0,Potential Loyalists
+13549,279,1,56.09,1,Lapsed / Dormant
+13550,4,8,403.43,0,Potential Loyalists
+13551,136,7,302.66,4,At-Risk / Churning
+13552,237,1,49.47,1,Lapsed / Dormant
+13553,1,17,2117.09,2,High-Value Loyalists
+13554,1,3,97.09,3,New / Low-Engagement Customers
+13555,1,12,588.61,0,Potential Loyalists
+13556,1,20,2485.03,2,High-Value Loyalists
+13557,2,10,149.56,0,Potential Loyalists
+13558,5,2,67.65,3,New / Low-Engagement Customers
+13559,4,7,373.47,0,Potential Loyalists
+13560,8,8,470.86,0,Potential Loyalists
+13561,1,23,3083.49,2,High-Value Loyalists
+13562,345,1,26.14,1,Lapsed / Dormant
+13563,5,5,84.51,3,New / Low-Engagement Customers
+13564,156,8,493.56,4,At-Risk / Churning
+13565,4,12,669.46,0,Potential Loyalists
+13566,358,1,55.44,1,Lapsed / Dormant
+13567,14,2,71.22,3,New / Low-Engagement Customers
+13568,1,6,136.57,0,Potential Loyalists
+13569,279,1,34.66,1,Lapsed / Dormant
+13570,127,8,434.79,4,At-Risk / Churning
+13571,2,18,2530.23,2,High-Value Loyalists
+13572,17,3,97.1,3,New / Low-Engagement Customers
+13573,19,1,21.25,3,New / Low-Engagement Customers
+13574,2,7,390.65,0,Potential Loyalists
+13575,3,8,120.2,0,Potential Loyalists
+13576,13,2,116.38,3,New / Low-Engagement Customers
+13577,10,7,455.34,0,Potential Loyalists
+13578,9,12,735.03,0,Potential Loyalists
+13579,241,1,20.18,1,Lapsed / Dormant
+13580,122,12,545.81,4,At-Risk / Churning
+13581,223,1,57.68,1,Lapsed / Dormant
+13582,1,29,4054.8,2,High-Value Loyalists
+13583,1,18,2641.33,2,High-Value Loyalists
+13584,5,20,2795.72,2,High-Value Loyalists
+13585,4,12,646.79,0,Potential Loyalists
+13586,136,5,276.14,4,At-Risk / Churning
+13587,1,7,383.12,0,Potential Loyalists
+13588,1,30,3590.3199999999997,2,High-Value Loyalists
+13589,8,8,409.22,0,Potential Loyalists
+13590,1,8,127.76,0,Potential Loyalists
+13591,3,5,84.49,3,New / Low-Engagement Customers
+13592,3,26,3538.16,2,High-Value Loyalists
+13593,23,1,51.66,3,New / Low-Engagement Customers
+13594,1,8,484.95,0,Potential Loyalists
+13595,5,8,116.46,0,Potential Loyalists
+13596,142,11,513.52,4,At-Risk / Churning
+13597,27,5,81.03999999999999,3,New / Low-Engagement Customers
+13598,9,10,172.79,0,Potential Loyalists
+13599,12,11,654.4200000000001,0,Potential Loyalists
+13600,8,3,141.13,3,New / Low-Engagement Customers
+13601,238,1,55.31,1,Lapsed / Dormant
+13602,127,6,257.68,4,At-Risk / Churning
+13603,7,10,628.8199999999999,0,Potential Loyalists
+13604,26,2,39.46,3,New / Low-Engagement Customers
+13605,1,8,470.94,0,Potential Loyalists
+13606,141,9,499.91,4,At-Risk / Churning
+13607,33,7,125.47,0,Potential Loyalists
+13608,139,11,538.18,4,At-Risk / Churning
+13609,1,12,657.98,0,Potential Loyalists
+13610,121,8,376.21,4,At-Risk / Churning
+13611,177,12,604.01,4,At-Risk / Churning
+13612,205,10,550.0,4,At-Risk / Churning
+13613,291,1,28.41,1,Lapsed / Dormant
+13614,16,2,92.05,3,New / Low-Engagement Customers
+13615,2,17,2404.93,2,High-Value Loyalists
+13616,10,12,736.2,0,Potential Loyalists
+13617,1,14,717.69,0,Potential Loyalists
+13618,17,1,50.0,3,New / Low-Engagement Customers
+13619,286,1,43.870000000000005,1,Lapsed / Dormant
+13620,6,8,373.82,0,Potential Loyalists
+13621,15,14,738.39,0,Potential Loyalists
+13622,4,7,149.76,0,Potential Loyalists
+13623,1,9,573.85,0,Potential Loyalists
+13624,7,12,635.68,0,Potential Loyalists
+13625,193,1,25.06,1,Lapsed / Dormant
+13626,30,5,62.84,3,New / Low-Engagement Customers
+13627,12,7,420.88,0,Potential Loyalists
+13628,146,11,603.06,4,At-Risk / Churning
+13629,9,6,93.32,3,New / Low-Engagement Customers
+13630,147,6,352.03999999999996,4,At-Risk / Churning
+13631,20,2,75.67,3,New / Low-Engagement Customers
+13632,7,13,602.75,0,Potential Loyalists
+13633,7,2,74.8,3,New / Low-Engagement Customers
+13634,2,25,3785.2,2,High-Value Loyalists
+13635,3,12,628.41,0,Potential Loyalists
+13636,298,1,20.44,1,Lapsed / Dormant
+13637,17,10,481.73,0,Potential Loyalists
+13638,3,3,115.06,3,New / Low-Engagement Customers
+13639,4,8,580.17,0,Potential Loyalists
+13640,1,25,3520.73,2,High-Value Loyalists
+13641,2,28,3850.21,2,High-Value Loyalists
+13642,4,17,2155.24,2,High-Value Loyalists
+13643,239,1,36.03,1,Lapsed / Dormant
+13644,325,1,12.97,1,Lapsed / Dormant
+13645,4,14,895.2,0,Potential Loyalists
+13646,21,8,117.27,0,Potential Loyalists
+13647,17,2,95.82,3,New / Low-Engagement Customers
+13648,3,12,697.96,0,Potential Loyalists
+13649,2,9,509.47,0,Potential Loyalists
+13650,1,7,107.22,0,Potential Loyalists
+13651,1,17,2287.52,2,High-Value Loyalists
+13652,1,13,712.91,0,Potential Loyalists
+13653,4,7,398.24,0,Potential Loyalists
+13654,123,10,441.11,4,At-Risk / Churning
+13655,1,10,603.78,0,Potential Loyalists
+13656,2,2,79.3,3,New / Low-Engagement Customers
+13657,2,25,3404.32,2,High-Value Loyalists
+13658,2,9,127.31,0,Potential Loyalists
+13659,4,6,326.53000000000003,0,Potential Loyalists
+13660,1,10,595.77,0,Potential Loyalists
+13661,329,1,37.260000000000005,1,Lapsed / Dormant
+13662,20,2,72.28999999999999,3,New / Low-Engagement Customers
+13663,27,3,132.82,3,New / Low-Engagement Customers
+13664,3,14,784.77,0,Potential Loyalists
+13665,11,11,642.75,0,Potential Loyalists
+13666,1,22,3052.27,2,High-Value Loyalists
+13667,7,13,650.1800000000001,0,Potential Loyalists
+13668,22,1,51.84,3,New / Low-Engagement Customers
+13669,125,15,682.69,4,At-Risk / Churning
+13670,7,11,576.88,0,Potential Loyalists
+13671,1,13,556.82,0,Potential Loyalists
+13672,1,28,3947.48,2,High-Value Loyalists
+13673,3,1,35.120000000000005,3,New / Low-Engagement Customers
+13674,2,10,501.34999999999997,0,Potential Loyalists
+13675,1,18,2360.27,2,High-Value Loyalists
+13676,1,26,3942.91,2,High-Value Loyalists
+13677,9,14,845.26,0,Potential Loyalists
+13678,1,24,3316.64,2,High-Value Loyalists
+13679,8,10,136.14,0,Potential Loyalists
+13680,124,5,282.71,4,At-Risk / Churning
+13681,2,9,164.37,0,Potential Loyalists
+13682,6,10,165.69,0,Potential Loyalists
+13683,5,7,112.33,0,Potential Loyalists
+13684,1,17,2444.6,2,High-Value Loyalists
+13685,1,10,165.7,0,Potential Loyalists
+13686,249,1,15.68,1,Lapsed / Dormant
+13687,1,12,595.31,0,Potential Loyalists
+13688,1,8,433.34,0,Potential Loyalists
+13689,26,4,67.89,3,New / Low-Engagement Customers
+13690,13,5,84.34,3,New / Low-Engagement Customers
+13691,260,1,55.52,1,Lapsed / Dormant
+13692,13,10,497.29,0,Potential Loyalists
+13693,15,7,378.32,0,Potential Loyalists
+13694,140,14,758.76,4,At-Risk / Churning
+13695,20,4,81.0,3,New / Low-Engagement Customers
+13696,7,2,111.84,3,New / Low-Engagement Customers
+13697,45,8,129.85999999999999,4,At-Risk / Churning
+13698,140,12,527.38,4,At-Risk / Churning
+13699,3,8,423.08000000000004,0,Potential Loyalists
+13700,2,28,3451.3,2,High-Value Loyalists
+13701,124,11,530.07,4,At-Risk / Churning
+13702,155,10,483.55,4,At-Risk / Churning
+13703,121,12,538.3,4,At-Risk / Churning
+13704,3,8,459.65,0,Potential Loyalists
+13705,14,8,116.77,0,Potential Loyalists
+13706,1,13,700.56,0,Potential Loyalists
+13707,291,1,47.07,1,Lapsed / Dormant
+13708,161,11,532.01,4,At-Risk / Churning
+13709,6,1,69.23,3,New / Low-Engagement Customers
+13710,273,1,34.06,1,Lapsed / Dormant
+13711,127,11,494.35,4,At-Risk / Churning
+13712,130,15,794.61,4,At-Risk / Churning
+13713,142,13,641.43,4,At-Risk / Churning
+13714,1,26,3578.16,2,High-Value Loyalists
+13715,196,1,22.29,1,Lapsed / Dormant
+13716,1,20,2905.49,2,High-Value Loyalists
+13717,7,14,749.8,0,Potential Loyalists
+13718,163,6,296.15,4,At-Risk / Churning
+13719,122,13,640.6899999999999,4,At-Risk / Churning
+13720,8,7,114.67,0,Potential Loyalists
+13721,138,11,473.75,4,At-Risk / Churning
+13722,1,7,125.89999999999999,0,Potential Loyalists
+13723,7,7,343.74,0,Potential Loyalists
+13724,244,1,41.69,1,Lapsed / Dormant
+13725,1,12,633.56,0,Potential Loyalists
+13726,235,1,35.38,1,Lapsed / Dormant
+13727,7,12,743.04,0,Potential Loyalists
+13728,139,5,267.72,4,At-Risk / Churning
+13729,8,3,144.58,3,New / Low-Engagement Customers
+13730,138,7,323.08,4,At-Risk / Churning
+13731,156,7,438.11,4,At-Risk / Churning
+13732,1,17,2331.11,2,High-Value Loyalists
+13733,4,14,773.6,0,Potential Loyalists
+13734,15,7,140.03,0,Potential Loyalists
+13735,128,5,217.14,4,At-Risk / Churning
+13736,320,1,26.83,1,Lapsed / Dormant
+13737,3,11,522.64,0,Potential Loyalists
+13738,333,1,22.25,1,Lapsed / Dormant
+13739,11,1,39.97,3,New / Low-Engagement Customers
+13740,8,2,124.64,3,New / Low-Engagement Customers
+13741,157,5,271.05,4,At-Risk / Churning
+13742,2,9,485.29,0,Potential Loyalists
+13743,1,13,765.13,0,Potential Loyalists
+13744,1,13,573.16,0,Potential Loyalists
+13745,122,12,644.3,4,At-Risk / Churning
+13746,1,26,3594.56,2,High-Value Loyalists
+13747,22,8,147.1,0,Potential Loyalists
+13748,149,9,574.63,4,At-Risk / Churning
+13749,11,1,27.3,3,New / Low-Engagement Customers
+13750,4,6,298.9,0,Potential Loyalists
+13751,365,1,52.19,1,Lapsed / Dormant
+13752,172,7,366.47,4,At-Risk / Churning
+13753,124,5,236.04000000000002,4,At-Risk / Churning
+13754,2,18,2473.31,2,High-Value Loyalists
+13755,18,6,95.78,3,New / Low-Engagement Customers
+13756,18,1,26.18,3,New / Low-Engagement Customers
+13757,2,21,2923.41,2,High-Value Loyalists
+13758,4,11,558.03,0,Potential Loyalists
+13759,137,8,393.53,4,At-Risk / Churning
+13760,127,9,432.06,4,At-Risk / Churning
+13761,2,26,3722.65,2,High-Value Loyalists
+13762,2,15,2257.09,2,High-Value Loyalists
+13763,288,1,32.510000000000005,1,Lapsed / Dormant
+13764,23,6,71.63,3,New / Low-Engagement Customers
+13765,6,1,55.41,3,New / Low-Engagement Customers
+13766,1,11,588.52,0,Potential Loyalists
+13767,12,8,340.3,0,Potential Loyalists
+13768,2,29,3621.12,2,High-Value Loyalists
+13769,10,9,171.81,0,Potential Loyalists
+13770,175,6,249.26,4,At-Risk / Churning
+13771,1,14,938.4,2,High-Value Loyalists
+13772,8,3,137.5,3,New / Low-Engagement Customers
+13773,39,6,122.9,3,New / Low-Engagement Customers
+13774,250,1,37.74,1,Lapsed / Dormant
+13775,6,9,451.51,0,Potential Loyalists
+13776,18,10,155.86,0,Potential Loyalists
+13777,12,10,743.8,0,Potential Loyalists
+13778,7,9,135.23,0,Potential Loyalists
+13779,218,7,345.73,4,At-Risk / Churning
+13780,157,8,366.76,4,At-Risk / Churning
+13781,2,16,2391.1,2,High-Value Loyalists
+13782,218,1,40.26,1,Lapsed / Dormant
+13783,218,1,21.02,1,Lapsed / Dormant
+13784,7,8,420.66,0,Potential Loyalists
+13785,126,10,584.6800000000001,4,At-Risk / Churning
+13786,142,10,526.28,4,At-Risk / Churning
+13787,22,4,61.93,3,New / Low-Engagement Customers
+13788,330,1,17.93,1,Lapsed / Dormant
+13789,185,1,30.4,1,Lapsed / Dormant
+13790,2,2,92.25,3,New / Low-Engagement Customers
+13791,195,7,441.0,4,At-Risk / Churning
+13792,1,26,3568.51,2,High-Value Loyalists
+13793,131,9,387.93,4,At-Risk / Churning
+13794,126,14,700.78,4,At-Risk / Churning
+13795,240,1,39.61,1,Lapsed / Dormant
+13796,10,12,800.04,0,Potential Loyalists
+13797,1,12,761.34,0,Potential Loyalists
+13798,243,12,572.96,4,At-Risk / Churning
+13799,133,14,715.3,4,At-Risk / Churning
+13800,21,6,97.52,3,New / Low-Engagement Customers
+13801,1,28,4274.25,2,High-Value Loyalists
+13802,5,9,475.5,0,Potential Loyalists
+13803,11,9,169.11,0,Potential Loyalists
+13804,18,9,543.28,0,Potential Loyalists
+13805,1,7,431.74,0,Potential Loyalists
+13806,10,9,630.96,0,Potential Loyalists
+13807,10,2,50.7,3,New / Low-Engagement Customers
+13808,2,12,620.5,0,Potential Loyalists
+13809,1,30,4786.25,2,High-Value Loyalists
+13810,122,15,808.03,4,At-Risk / Churning
+13811,3,30,3897.41,2,High-Value Loyalists
+13812,140,11,578.83,4,At-Risk / Churning
+13813,15,2,121.43,3,New / Low-Engagement Customers
+13814,338,1,22.04,1,Lapsed / Dormant
+13815,234,1,23.73,1,Lapsed / Dormant
+13816,13,1,62.82,3,New / Low-Engagement Customers
+13817,1,10,189.57,0,Potential Loyalists
+13818,1,25,3338.91,2,High-Value Loyalists
+13819,2,26,3720.97,2,High-Value Loyalists
+13820,130,6,274.46999999999997,4,At-Risk / Churning
+13821,1,3,164.23000000000002,3,New / Low-Engagement Customers
+13822,5,1,45.78,3,New / Low-Engagement Customers
+13823,1,13,604.71,0,Potential Loyalists
+13824,13,9,132.94,0,Potential Loyalists
+13825,8,14,750.22,0,Potential Loyalists
+13826,7,13,664.92,0,Potential Loyalists
+13827,19,1,31.86,3,New / Low-Engagement Customers
+13828,2,21,3227.08,2,High-Value Loyalists
+13829,17,5,71.77,3,New / Low-Engagement Customers
+13830,12,7,105.05000000000001,0,Potential Loyalists
+13831,2,9,169.0,0,Potential Loyalists
+13832,133,15,668.99,4,At-Risk / Churning
+13833,3,12,729.99,0,Potential Loyalists
+13834,17,1,61.760000000000005,3,New / Low-Engagement Customers
+13835,5,2,63.72,3,New / Low-Engagement Customers
+13836,11,3,80.65,3,New / Low-Engagement Customers
+13837,8,2,86.83,3,New / Low-Engagement Customers
+13838,313,1,15.92,1,Lapsed / Dormant
+13839,9,8,372.59,0,Potential Loyalists
+13840,125,9,432.16,4,At-Risk / Churning
+13841,22,5,88.81,3,New / Low-Engagement Customers
+13842,24,2,94.55,3,New / Low-Engagement Customers
+13843,1,21,2546.57,2,High-Value Loyalists
+13844,3,14,721.0,0,Potential Loyalists
+13845,136,12,652.55,4,At-Risk / Churning
+13846,15,4,92.04,3,New / Low-Engagement Customers
+13847,5,9,158.76,0,Potential Loyalists
+13848,3,11,691.27,0,Potential Loyalists
+13849,4,14,690.97,0,Potential Loyalists
+13850,329,1,16.580000000000002,1,Lapsed / Dormant
+13851,9,9,554.97,0,Potential Loyalists
+13852,132,10,554.71,4,At-Risk / Churning
+13853,144,9,412.63,4,At-Risk / Churning
+13854,14,5,274.15,0,Potential Loyalists
+13855,5,10,570.77,0,Potential Loyalists
+13856,8,1,43.55,3,New / Low-Engagement Customers
+13857,134,12,579.27,4,At-Risk / Churning
+13858,30,1,59.0,3,New / Low-Engagement Customers
+13859,2,9,508.14,0,Potential Loyalists
+13860,24,5,93.99,3,New / Low-Engagement Customers
+13861,124,13,683.0,4,At-Risk / Churning
+13862,7,11,643.29,0,Potential Loyalists
+13863,18,1,28.48,3,New / Low-Engagement Customers
+13864,1,29,3474.59,2,High-Value Loyalists
+13865,191,5,244.32,4,At-Risk / Churning
+13866,8,9,164.51,0,Potential Loyalists
+13867,4,12,608.46,0,Potential Loyalists
+13868,16,6,109.79,3,New / Low-Engagement Customers
+13869,4,11,680.06,0,Potential Loyalists
+13870,336,1,36.31,1,Lapsed / Dormant
+13871,8,2,67.85,3,New / Low-Engagement Customers
+13872,14,6,88.69,3,New / Low-Engagement Customers
+13873,212,1,39.5,1,Lapsed / Dormant
+13874,2,6,314.8,0,Potential Loyalists
+13875,2,7,119.04,0,Potential Loyalists
+13876,4,2,127.45,3,New / Low-Engagement Customers
+13877,5,14,837.9399999999999,0,Potential Loyalists
+13878,8,2,36.42,3,New / Low-Engagement Customers
+13879,10,7,360.65,0,Potential Loyalists
+13880,133,5,340.62,4,At-Risk / Churning
+13881,7,9,576.35,0,Potential Loyalists
+13882,1,11,540.21,0,Potential Loyalists
+13883,4,5,76.33,3,New / Low-Engagement Customers
+13884,2,26,3151.79,2,High-Value Loyalists
+13885,172,7,356.46000000000004,4,At-Risk / Churning
+13886,20,5,75.50999999999999,3,New / Low-Engagement Customers
+13887,9,12,624.4,0,Potential Loyalists
+13888,26,2,89.22,3,New / Low-Engagement Customers
+13889,22,2,91.92,3,New / Low-Engagement Customers
+13890,309,1,16.82,1,Lapsed / Dormant
+13891,239,1,13.02,1,Lapsed / Dormant
+13892,267,1,32.34,1,Lapsed / Dormant
+13893,309,1,25.14,1,Lapsed / Dormant
+13894,1,29,4127.66,2,High-Value Loyalists
+13895,152,5,257.8,4,At-Risk / Churning
+13896,153,14,609.48,4,At-Risk / Churning
+13897,348,1,32.69,1,Lapsed / Dormant
+13898,4,7,105.78999999999999,0,Potential Loyalists
+13899,6,9,154.77,0,Potential Loyalists
+13900,9,10,171.13,0,Potential Loyalists
+13901,337,1,27.0,1,Lapsed / Dormant
+13902,121,10,504.36,4,At-Risk / Churning
+13903,15,2,83.66,3,New / Low-Engagement Customers
+13904,2,13,803.61,0,Potential Loyalists
+13905,12,8,120.42,0,Potential Loyalists
+13906,4,7,119.10000000000001,0,Potential Loyalists
+13907,1,6,99.89,0,Potential Loyalists
+13908,126,8,422.64,4,At-Risk / Churning
+13909,325,1,33.24,1,Lapsed / Dormant
+13910,24,1,53.58,3,New / Low-Engagement Customers
+13911,3,26,3352.87,2,High-Value Loyalists
+13912,20,11,582.74,0,Potential Loyalists
+13913,1,29,3773.37,2,High-Value Loyalists
+13914,127,11,584.61,4,At-Risk / Churning
+13915,17,8,141.62,0,Potential Loyalists
+13916,2,1,57.44,3,New / Low-Engagement Customers
+13917,1,21,2840.85,2,High-Value Loyalists
+13918,293,1,33.84,1,Lapsed / Dormant
+13919,2,3,160.82999999999998,3,New / Low-Engagement Customers
+13920,1,9,123.36,0,Potential Loyalists
+13921,1,12,712.3100000000001,0,Potential Loyalists
+13922,148,13,755.3,4,At-Risk / Churning
+13923,26,1,43.62,3,New / Low-Engagement Customers
+13924,165,8,465.82,4,At-Risk / Churning
+13925,5,3,109.42999999999999,3,New / Low-Engagement Customers
+13926,6,6,115.27,0,Potential Loyalists
+13927,6,3,137.26,3,New / Low-Engagement Customers
+13928,1,21,2865.39,2,High-Value Loyalists
+13929,131,6,259.55,4,At-Risk / Churning
+13930,11,3,79.68,3,New / Low-Engagement Customers
+13931,5,8,511.29,0,Potential Loyalists
+13932,138,9,491.03,4,At-Risk / Churning
+13933,14,10,172.81,0,Potential Loyalists
+13934,1,29,3645.96,2,High-Value Loyalists
+13935,1,18,2399.05,2,High-Value Loyalists
+13936,14,7,370.42,0,Potential Loyalists
+13937,17,2,47.519999999999996,3,New / Low-Engagement Customers
+13938,132,13,529.4,4,At-Risk / Churning
+13939,7,8,393.28000000000003,0,Potential Loyalists
+13940,30,1,57.65,3,New / Low-Engagement Customers
+13941,2,29,3771.1,2,High-Value Loyalists
+13942,227,1,55.870000000000005,1,Lapsed / Dormant
+13943,259,1,28.43,1,Lapsed / Dormant
+13944,7,1,64.09,3,New / Low-Engagement Customers
+13945,9,10,609.6800000000001,0,Potential Loyalists
+13946,125,7,264.71,4,At-Risk / Churning
+13947,9,3,140.66,3,New / Low-Engagement Customers
+13948,7,2,81.72999999999999,3,New / Low-Engagement Customers
+13949,17,3,45.519999999999996,3,New / Low-Engagement Customers
+13950,185,1,18.98,1,Lapsed / Dormant
+13951,7,3,108.91,3,New / Low-Engagement Customers
+13952,136,15,673.95,4,At-Risk / Churning
+13953,6,10,609.63,0,Potential Loyalists
+13954,1,14,839.82,0,Potential Loyalists
+13955,15,8,479.46999999999997,0,Potential Loyalists
+13956,335,1,23.8,1,Lapsed / Dormant
+13957,222,1,25.48,1,Lapsed / Dormant
+13958,122,14,686.87,4,At-Risk / Churning
+13959,1,12,582.37,0,Potential Loyalists
+13960,10,9,160.39000000000001,0,Potential Loyalists
+13961,6,12,783.63,0,Potential Loyalists
+13962,17,2,40.9,3,New / Low-Engagement Customers
+13963,9,3,151.05,3,New / Low-Engagement Customers
+13964,4,13,802.47,0,Potential Loyalists
+13965,129,10,563.89,4,At-Risk / Churning
+13966,15,9,510.51,0,Potential Loyalists
+13967,198,1,42.26,1,Lapsed / Dormant
+13968,1,18,2615.68,2,High-Value Loyalists
+13969,313,1,34.58,1,Lapsed / Dormant
+13970,2,5,59.46,3,New / Low-Engagement Customers
+13971,2,22,2970.78,2,High-Value Loyalists
+13972,9,2,74.63,3,New / Low-Engagement Customers
+13973,15,6,112.03999999999999,3,New / Low-Engagement Customers
+13974,255,1,21.31,1,Lapsed / Dormant
+13975,10,7,345.65999999999997,0,Potential Loyalists
+13976,334,1,36.32,1,Lapsed / Dormant
+13977,7,10,595.22,0,Potential Loyalists
+13978,3,14,820.4300000000001,0,Potential Loyalists
+13979,155,10,627.25,4,At-Risk / Churning
+13980,2,24,3310.23,2,High-Value Loyalists
+13981,13,12,654.18,0,Potential Loyalists
+13982,123,14,625.83,4,At-Risk / Churning
+13983,1,25,3304.81,2,High-Value Loyalists
+13984,14,2,70.49,3,New / Low-Engagement Customers
+13985,19,5,64.4,3,New / Low-Engagement Customers
+13986,172,8,402.72,4,At-Risk / Churning
+13987,12,11,595.85,0,Potential Loyalists
+13988,126,15,705.18,4,At-Risk / Churning
+13989,153,8,445.21,4,At-Risk / Churning
+13990,6,12,684.7,0,Potential Loyalists
+13991,164,14,767.25,4,At-Risk / Churning
+13992,193,1,58.2,1,Lapsed / Dormant
+13993,26,2,87.6,3,New / Low-Engagement Customers
+13994,16,2,70.49000000000001,3,New / Low-Engagement Customers
+13995,179,7,337.71,4,At-Risk / Churning
+13996,261,1,48.209999999999994,1,Lapsed / Dormant
+13997,8,10,587.89,0,Potential Loyalists
+13998,16,9,479.13,0,Potential Loyalists
+13999,9,1,30.5,3,New / Low-Engagement Customers
+14000,4,9,384.99,0,Potential Loyalists
+14001,4,14,857.58,0,Potential Loyalists
+14002,7,14,773.5,0,Potential Loyalists
+14003,1,28,3867.5,2,High-Value Loyalists
+14004,5,5,94.62,3,New / Low-Engagement Customers
+14005,2,14,767.3199999999999,0,Potential Loyalists
+14006,12,14,803.09,0,Potential Loyalists
+14007,165,6,378.75,4,At-Risk / Churning
+14008,1,3,107.37,3,New / Low-Engagement Customers
+14009,2,15,2027.78,2,High-Value Loyalists
+14010,303,1,22.7,1,Lapsed / Dormant
+14011,7,11,596.3100000000001,0,Potential Loyalists
+14012,163,14,668.91,4,At-Risk / Churning
+14013,30,1,42.379999999999995,3,New / Low-Engagement Customers
+14014,246,6,287.2,4,At-Risk / Churning
+14015,34,4,72.5,3,New / Low-Engagement Customers
+14016,140,12,606.52,4,At-Risk / Churning
+14017,158,10,483.63,4,At-Risk / Churning
+14018,2,25,3232.5,2,High-Value Loyalists
+14019,13,6,308.74,0,Potential Loyalists
+14020,178,10,469.33,4,At-Risk / Churning
+14021,197,1,17.77,1,Lapsed / Dormant
+14022,27,2,34.2,3,New / Low-Engagement Customers
+14023,163,5,221.14,4,At-Risk / Churning
+14024,5,12,714.11,0,Potential Loyalists
+14025,207,1,28.8,1,Lapsed / Dormant
+14026,14,7,119.41,0,Potential Loyalists
+14027,8,3,124.38,3,New / Low-Engagement Customers
+14028,312,1,40.21,1,Lapsed / Dormant
+14029,2,10,141.57999999999998,0,Potential Loyalists
+14030,11,3,73.33,3,New / Low-Engagement Customers
+14031,10,7,117.92,0,Potential Loyalists
+14032,243,1,29.52,1,Lapsed / Dormant
+14033,213,8,388.93,4,At-Risk / Churning
+14034,2,2,52.28,3,New / Low-Engagement Customers
+14035,7,7,428.05,0,Potential Loyalists
+14036,3,17,2261.8,2,High-Value Loyalists
+14037,130,12,676.2,4,At-Risk / Churning
+14038,1,23,3036.1,2,High-Value Loyalists
+14039,263,1,32.2,1,Lapsed / Dormant
+14040,20,6,341.82,0,Potential Loyalists
+14041,239,8,394.22,4,At-Risk / Churning
+14042,18,2,95.67,3,New / Low-Engagement Customers
+14043,211,1,25.28,1,Lapsed / Dormant
+14044,1,24,3593.71,2,High-Value Loyalists
+14045,1,3,106.53,3,New / Low-Engagement Customers
+14046,4,8,157.48,0,Potential Loyalists
+14047,140,10,458.71000000000004,4,At-Risk / Churning
+14048,9,14,865.38,0,Potential Loyalists
+14049,156,11,537.01,4,At-Risk / Churning
+14050,137,12,625.8,4,At-Risk / Churning
+14051,123,9,454.35,4,At-Risk / Churning
+14052,12,9,589.51,0,Potential Loyalists
+14053,206,1,36.31,1,Lapsed / Dormant
+14054,5,1,46.660000000000004,3,New / Low-Engagement Customers
+14055,3,20,2219.41,2,High-Value Loyalists
+14056,152,5,204.87,4,At-Risk / Churning
+14057,1,22,2694.39,2,High-Value Loyalists
+14058,230,5,247.38,4,At-Risk / Churning
+14059,7,2,61.44,3,New / Low-Engagement Customers
+14060,14,6,360.69,0,Potential Loyalists
+14061,165,9,442.74,4,At-Risk / Churning
+14062,10,1,16.84,3,New / Low-Engagement Customers
+14063,12,7,120.04,0,Potential Loyalists
+14064,14,2,53.39,3,New / Low-Engagement Customers
+14065,3,8,122.45,0,Potential Loyalists
+14066,11,12,629.85,0,Potential Loyalists
+14067,21,7,109.41,0,Potential Loyalists
+14068,140,12,535.95,4,At-Risk / Churning
+14069,3,10,205.93,0,Potential Loyalists
+14070,13,8,108.78,0,Potential Loyalists
+14071,15,3,145.15,3,New / Low-Engagement Customers
+14072,9,2,66.47,3,New / Low-Engagement Customers
+14073,182,1,57.34,1,Lapsed / Dormant
+14074,240,1,55.18,1,Lapsed / Dormant
+14075,8,8,145.29,0,Potential Loyalists
+14076,6,10,184.03,0,Potential Loyalists
+14077,16,7,408.46,0,Potential Loyalists
+14078,19,1,47.25,3,New / Low-Engagement Customers
+14079,253,1,44.92,1,Lapsed / Dormant
+14080,8,1,65.08,3,New / Low-Engagement Customers
+14081,2,10,158.05,0,Potential Loyalists
+14082,322,1,29.5,1,Lapsed / Dormant
+14083,2,8,120.96000000000001,0,Potential Loyalists
+14084,13,3,156.82999999999998,3,New / Low-Engagement Customers
+14085,188,8,391.14,4,At-Risk / Churning
+14086,1,1,48.769999999999996,3,New / Low-Engagement Customers
+14087,6,11,660.75,0,Potential Loyalists
+14088,9,8,123.44,0,Potential Loyalists
+14089,6,9,501.02,0,Potential Loyalists
+14090,135,13,607.8,4,At-Risk / Churning
+14091,345,1,53.8,1,Lapsed / Dormant
+14092,3,1,22.07,3,New / Low-Engagement Customers
+14093,4,13,789.97,0,Potential Loyalists
+14094,14,1,29.45,3,New / Low-Engagement Customers
+14095,128,13,742.78,4,At-Risk / Churning
+14096,187,10,475.51,4,At-Risk / Churning
+14097,8,3,128.08,3,New / Low-Engagement Customers
+14098,6,11,593.96,0,Potential Loyalists
+14099,1,13,761.16,0,Potential Loyalists
+14100,3,14,707.1,0,Potential Loyalists
+14101,3,11,662.58,0,Potential Loyalists
+14102,11,3,119.9,3,New / Low-Engagement Customers
+14103,126,9,345.03,4,At-Risk / Churning
+14104,5,1,67.83,3,New / Low-Engagement Customers
+14105,140,13,585.14,4,At-Risk / Churning
+14106,365,1,47.12,1,Lapsed / Dormant
+14107,3,22,3083.38,2,High-Value Loyalists
+14108,157,5,280.05,4,At-Risk / Churning
+14109,1,26,3812.53,2,High-Value Loyalists
+14110,326,1,54.459999999999994,1,Lapsed / Dormant
+14111,3,10,653.55,0,Potential Loyalists
+14112,3,11,612.17,0,Potential Loyalists
+14113,9,13,749.5,0,Potential Loyalists
+14114,2,1,36.96,3,New / Low-Engagement Customers
+14115,27,2,105.91000000000001,3,New / Low-Engagement Customers
+14116,357,1,36.67,1,Lapsed / Dormant
+14117,129,14,729.78,4,At-Risk / Churning
+14118,121,15,750.32,4,At-Risk / Churning
+14119,132,5,220.54999999999998,4,At-Risk / Churning
+14120,2,22,3130.77,2,High-Value Loyalists
+14121,299,1,36.91,1,Lapsed / Dormant
+14122,126,14,582.21,4,At-Risk / Churning
+14123,44,5,92.03,3,New / Low-Engagement Customers
+14124,12,5,64.08,3,New / Low-Engagement Customers
+14125,6,8,465.6,0,Potential Loyalists
+14126,365,1,50.629999999999995,1,Lapsed / Dormant
+14127,10,2,50.05,3,New / Low-Engagement Customers
+14128,11,13,713.9,0,Potential Loyalists
+14129,127,13,663.93,4,At-Risk / Churning
+14130,19,6,350.76,0,Potential Loyalists
+14131,9,2,85.5,3,New / Low-Engagement Customers
+14132,149,13,625.2,4,At-Risk / Churning
+14133,7,10,184.29,0,Potential Loyalists
+14134,1,7,458.28000000000003,0,Potential Loyalists
+14135,1,16,2087.29,2,High-Value Loyalists
+14136,152,10,529.6,4,At-Risk / Churning
+14137,4,13,666.92,0,Potential Loyalists
+14138,1,12,676.24,0,Potential Loyalists
+14139,1,14,664.62,0,Potential Loyalists
+14140,15,2,105.4,3,New / Low-Engagement Customers
+14141,2,28,3452.23,2,High-Value Loyalists
+14142,164,8,272.14,4,At-Risk / Churning
+14143,280,1,38.8,1,Lapsed / Dormant
+14144,10,3,135.36,3,New / Low-Engagement Customers
+14145,145,12,518.85,4,At-Risk / Churning
+14146,28,1,47.67,3,New / Low-Engagement Customers
+14147,3,3,123.85,3,New / Low-Engagement Customers
+14148,6,1,52.769999999999996,3,New / Low-Engagement Customers
+14149,157,6,297.52,4,At-Risk / Churning
+14150,16,1,36.55,3,New / Low-Engagement Customers
+14151,22,3,189.31,3,New / Low-Engagement Customers
+14152,3,8,382.05,0,Potential Loyalists
+14153,287,1,23.700000000000003,1,Lapsed / Dormant
+14154,350,1,21.3,1,Lapsed / Dormant
+14155,4,3,108.32000000000001,3,New / Low-Engagement Customers
+14156,2,4,57.39,3,New / Low-Engagement Customers
+14157,1,13,777.64,0,Potential Loyalists
+14158,2,16,2013.92,2,High-Value Loyalists
+14159,8,9,395.17,0,Potential Loyalists
+14160,26,1,33.0,3,New / Low-Engagement Customers
+14161,1,20,2786.41,2,High-Value Loyalists
+14162,9,1,43.599999999999994,3,New / Low-Engagement Customers
+14163,2,25,3528.25,2,High-Value Loyalists
+14164,5,9,159.94,0,Potential Loyalists
+14165,2,18,2325.96,2,High-Value Loyalists
+14166,1,5,77.55,3,New / Low-Engagement Customers
+14167,22,2,73.66,3,New / Low-Engagement Customers
+14168,3,1,22.0,3,New / Low-Engagement Customers
+14169,5,9,501.93,0,Potential Loyalists
+14170,7,7,356.15999999999997,0,Potential Loyalists
+14171,12,1,28.450000000000003,3,New / Low-Engagement Customers
+14172,8,8,131.53,0,Potential Loyalists
+14173,19,2,94.94,3,New / Low-Engagement Customers
+14174,31,1,24.16,3,New / Low-Engagement Customers
+14175,14,2,65.18,3,New / Low-Engagement Customers
+14176,136,12,574.33,4,At-Risk / Churning
+14177,1,24,3038.98,2,High-Value Loyalists
+14178,12,7,106.58,0,Potential Loyalists
+14179,8,4,88.47,3,New / Low-Engagement Customers
+14180,1,17,2559.2400000000002,2,High-Value Loyalists
+14181,2,17,2449.89,2,High-Value Loyalists
+14182,328,1,15.48,1,Lapsed / Dormant
+14183,1,4,57.86,3,New / Low-Engagement Customers
+14184,6,8,132.07,0,Potential Loyalists
+14185,6,10,184.55,0,Potential Loyalists
+14186,157,9,424.76,4,At-Risk / Churning
+14187,25,9,160.25,0,Potential Loyalists
+14188,2,25,3395.09,2,High-Value Loyalists
+14189,1,14,707.59,0,Potential Loyalists
+14190,3,8,401.11,0,Potential Loyalists
+14191,127,5,257.86,4,At-Risk / Churning
+14192,3,3,108.97,3,New / Low-Engagement Customers
+14193,2,16,2204.93,2,High-Value Loyalists
+14194,12,8,164.83,0,Potential Loyalists
+14195,8,9,476.8,0,Potential Loyalists
+14196,8,9,476.19,0,Potential Loyalists
+14197,14,9,520.95,0,Potential Loyalists
+14198,26,1,28.54,3,New / Low-Engagement Customers
+14199,3,2,39.099999999999994,3,New / Low-Engagement Customers
+14200,10,1,32.949999999999996,3,New / Low-Engagement Customers
+14201,1,6,112.92,0,Potential Loyalists
+14202,130,11,526.5,4,At-Risk / Churning
+14203,21,9,146.29,0,Potential Loyalists
+14204,16,13,746.63,0,Potential Loyalists
+14205,9,10,619.87,0,Potential Loyalists
+14206,10,11,634.04,0,Potential Loyalists
+14207,12,6,327.24,0,Potential Loyalists
+14208,1,9,174.57,0,Potential Loyalists
+14209,133,14,688.48,4,At-Risk / Churning
+14210,144,15,803.13,4,At-Risk / Churning
+14211,1,8,126.50999999999999,0,Potential Loyalists
+14212,5,1,56.22,3,New / Low-Engagement Customers
+14213,3,7,401.97,0,Potential Loyalists
+14214,122,13,777.56,4,At-Risk / Churning
+14215,121,5,264.1,4,At-Risk / Churning
+14216,3,9,140.16,0,Potential Loyalists
+14217,123,6,334.66999999999996,4,At-Risk / Churning
+14218,1,23,3316.4900000000002,2,High-Value Loyalists
+14219,1,9,416.06,0,Potential Loyalists
+14220,1,3,164.17,3,New / Low-Engagement Customers
+14221,130,5,325.89000000000004,4,At-Risk / Churning
+14222,27,1,25.16,3,New / Low-Engagement Customers
+14223,9,10,574.87,0,Potential Loyalists
+14224,4,9,138.11,0,Potential Loyalists
+14225,251,1,20.42,1,Lapsed / Dormant
+14226,128,15,741.29,4,At-Risk / Churning
+14227,122,11,528.55,4,At-Risk / Churning
+14228,6,10,164.8,0,Potential Loyalists
+14229,17,10,167.82,0,Potential Loyalists
+14230,1,26,3678.71,2,High-Value Loyalists
+14231,29,1,48.760000000000005,3,New / Low-Engagement Customers
+14232,343,1,24.310000000000002,1,Lapsed / Dormant
+14233,128,13,562.6,4,At-Risk / Churning
+14234,3,1,58.08,3,New / Low-Engagement Customers
+14235,1,11,684.91,0,Potential Loyalists
+14236,8,7,409.35,0,Potential Loyalists
+14237,1,23,3341.12,2,High-Value Loyalists
+14238,3,2,77.21000000000001,3,New / Low-Engagement Customers
+14239,132,10,360.31,4,At-Risk / Churning
+14240,11,10,146.48,0,Potential Loyalists
+14241,10,1,60.67,3,New / Low-Engagement Customers
+14242,1,6,130.65,0,Potential Loyalists
+14243,23,2,85.7,3,New / Low-Engagement Customers
+14244,17,7,386.06,0,Potential Loyalists
+14245,2,15,2110.66,2,High-Value Loyalists
+14246,5,8,126.24,0,Potential Loyalists
+14247,1,26,3565.24,2,High-Value Loyalists
+14248,15,4,69.28,3,New / Low-Engagement Customers
+14249,1,21,2883.75,2,High-Value Loyalists
+14250,13,3,115.36,3,New / Low-Engagement Customers
+14251,1,21,2288.91,2,High-Value Loyalists
+14252,23,1,39.25,3,New / Low-Engagement Customers
+14253,20,10,145.19,0,Potential Loyalists
+14254,125,7,330.15999999999997,4,At-Risk / Churning
+14255,284,1,15.92,1,Lapsed / Dormant
+14256,9,3,136.6,3,New / Low-Engagement Customers
+14257,3,9,564.16,0,Potential Loyalists
+14258,141,13,669.3100000000001,4,At-Risk / Churning
+14259,11,2,68.45,3,New / Low-Engagement Customers
+14260,15,1,68.97,3,New / Low-Engagement Customers
+14261,129,9,409.35,4,At-Risk / Churning
+14262,299,1,32.36,1,Lapsed / Dormant
+14263,28,7,135.48,0,Potential Loyalists
+14264,299,1,26.52,1,Lapsed / Dormant
+14265,6,8,378.0,0,Potential Loyalists
+14266,2,8,445.09,0,Potential Loyalists
+14267,5,12,685.03,0,Potential Loyalists
+14268,6,13,642.25,0,Potential Loyalists
+14269,6,8,428.09999999999997,0,Potential Loyalists
+14270,1,16,2280.02,2,High-Value Loyalists
+14271,1,24,3686.81,2,High-Value Loyalists
+14272,18,2,61.989999999999995,3,New / Low-Engagement Customers
+14273,17,8,121.13,0,Potential Loyalists
+14274,4,5,65.65,3,New / Low-Engagement Customers
+14275,3,13,750.79,0,Potential Loyalists
+14276,151,5,259.64,4,At-Risk / Churning
+14277,274,1,38.290000000000006,1,Lapsed / Dormant
+14278,7,14,886.92,0,Potential Loyalists
+14279,2,18,2370.92,2,High-Value Loyalists
+14280,29,4,66.26,3,New / Low-Engagement Customers
+14281,4,9,149.44,0,Potential Loyalists
+14282,1,26,3834.5299999999997,2,High-Value Loyalists
+14283,154,12,548.36,4,At-Risk / Churning
+14284,10,13,700.43,0,Potential Loyalists
+14285,2,8,468.27,0,Potential Loyalists
+14286,14,2,93.83,3,New / Low-Engagement Customers
+14287,55,4,53.599999999999994,3,New / Low-Engagement Customers
+14288,4,10,152.14,0,Potential Loyalists
+14289,14,2,71.46000000000001,3,New / Low-Engagement Customers
+14290,5,2,97.95,3,New / Low-Engagement Customers
+14291,5,11,747.79,0,Potential Loyalists
+14292,1,17,2189.57,2,High-Value Loyalists
+14293,2,21,2832.68,2,High-Value Loyalists
+14294,132,12,611.37,4,At-Risk / Churning
+14295,5,10,525.18,0,Potential Loyalists
+14296,1,22,2613.2599999999998,2,High-Value Loyalists
+14297,16,5,80.81,3,New / Low-Engagement Customers
+14298,134,9,435.95,4,At-Risk / Churning
+14299,213,1,48.7,1,Lapsed / Dormant
+14300,3,1,39.71,3,New / Low-Engagement Customers
+14301,203,1,44.5,1,Lapsed / Dormant
+14302,2,3,103.31,3,New / Low-Engagement Customers
+14303,8,8,133.17,0,Potential Loyalists
+14304,27,1,31.72,3,New / Low-Engagement Customers
+14305,3,3,136.12,3,New / Low-Engagement Customers
+14306,324,1,28.49,1,Lapsed / Dormant
+14307,237,1,44.800000000000004,1,Lapsed / Dormant
+14308,140,15,695.23,4,At-Risk / Churning
+14309,1,19,2458.67,2,High-Value Loyalists
+14310,2,7,429.65,0,Potential Loyalists
+14311,4,10,160.87,0,Potential Loyalists
+14312,6,5,98.52,3,New / Low-Engagement Customers
+14313,121,9,486.6,4,At-Risk / Churning
+14314,122,13,636.65,4,At-Risk / Churning
+14315,3,18,2686.9,2,High-Value Loyalists
+14316,31,1,50.28,3,New / Low-Engagement Customers
+14317,9,2,76.89,3,New / Low-Engagement Customers
+14318,152,13,636.79,4,At-Risk / Churning
+14319,210,8,288.27,4,At-Risk / Churning
+14320,26,7,328.36,0,Potential Loyalists
+14321,125,7,345.34,4,At-Risk / Churning
+14322,5,9,534.17,0,Potential Loyalists
+14323,1,21,2796.72,2,High-Value Loyalists
+14324,182,5,206.10999999999999,4,At-Risk / Churning
+14325,2,6,91.08,0,Potential Loyalists
+14326,10,1,53.58,3,New / Low-Engagement Customers
+14327,22,7,349.3,0,Potential Loyalists
+14328,34,5,88.59,3,New / Low-Engagement Customers
+14329,136,13,619.1,4,At-Risk / Churning
+14330,10,3,160.22,3,New / Low-Engagement Customers
+14331,25,3,59.81,3,New / Low-Engagement Customers
+14332,8,2,39.47,3,New / Low-Engagement Customers
+14333,152,15,833.22,4,At-Risk / Churning
+14334,33,5,76.94,3,New / Low-Engagement Customers
+14335,15,1,27.560000000000002,3,New / Low-Engagement Customers
+14336,3,7,78.82,0,Potential Loyalists
+14337,4,8,522.07,0,Potential Loyalists
+14338,2,3,161.69,3,New / Low-Engagement Customers
+14339,188,1,41.94,1,Lapsed / Dormant
+14340,9,10,138.9,0,Potential Loyalists
+14341,2,10,538.73,0,Potential Loyalists
+14342,142,9,504.3,4,At-Risk / Churning
+14343,15,4,88.15,3,New / Low-Engagement Customers
+14344,319,1,19.03,1,Lapsed / Dormant
+14345,8,5,70.24,3,New / Low-Engagement Customers
+14346,152,9,373.11,4,At-Risk / Churning
+14347,138,8,261.92,4,At-Risk / Churning
+14348,22,9,147.11,0,Potential Loyalists
+14349,127,15,790.25,4,At-Risk / Churning
+14350,130,13,700.97,4,At-Risk / Churning
+14351,2,26,3271.06,2,High-Value Loyalists
+14352,125,10,573.61,4,At-Risk / Churning
+14353,210,1,40.1,1,Lapsed / Dormant
+14354,9,1,56.120000000000005,3,New / Low-Engagement Customers
+14355,1,26,3840.66,2,High-Value Loyalists
+14356,5,2,114.35999999999999,3,New / Low-Engagement Customers
+14357,143,14,807.1800000000001,4,At-Risk / Churning
+14358,1,18,2376.61,2,High-Value Loyalists
+14359,17,9,147.49,0,Potential Loyalists
+14360,1,23,2858.78,2,High-Value Loyalists
+14361,1,2,106.56,3,New / Low-Engagement Customers
+14362,24,5,83.09,3,New / Low-Engagement Customers
+14363,30,1,26.97,3,New / Low-Engagement Customers
+14364,32,6,361.97,4,At-Risk / Churning
+14365,158,5,225.12,4,At-Risk / Churning
+14366,15,3,111.06,3,New / Low-Engagement Customers
+14367,18,7,424.23,0,Potential Loyalists
+14368,2,17,2506.23,2,High-Value Loyalists
+14369,14,10,177.53,0,Potential Loyalists
+14370,4,3,135.84,3,New / Low-Engagement Customers
+14371,228,1,27.15,1,Lapsed / Dormant
+14372,23,2,102.81,3,New / Low-Engagement Customers
+14373,18,1,63.5,3,New / Low-Engagement Customers
+14374,3,14,807.65,0,Potential Loyalists
+14375,262,1,55.44,1,Lapsed / Dormant
+14376,27,1,56.05,3,New / Low-Engagement Customers
+14377,1,12,678.18,0,Potential Loyalists
+14378,133,5,159.48000000000002,4,At-Risk / Churning
+14379,5,7,132.27,0,Potential Loyalists
+14380,136,10,468.88,4,At-Risk / Churning
+14381,4,3,157.4,3,New / Low-Engagement Customers
+14382,17,7,129.29,0,Potential Loyalists
+14383,8,4,66.27,3,New / Low-Engagement Customers
+14384,8,10,499.74,0,Potential Loyalists
+14385,126,15,674.34,4,At-Risk / Churning
+14386,123,15,622.12,4,At-Risk / Churning
+14387,17,4,85.67999999999999,3,New / Low-Engagement Customers
+14388,126,13,714.46,4,At-Risk / Churning
+14389,222,1,36.19,1,Lapsed / Dormant
+14390,3,6,389.86,0,Potential Loyalists
+14391,1,22,2654.02,2,High-Value Loyalists
+14392,15,9,483.52,0,Potential Loyalists
+14393,5,6,102.56,0,Potential Loyalists
+14394,6,9,195.26,0,Potential Loyalists
+14395,1,24,3211.12,2,High-Value Loyalists
+14396,18,6,108.47,3,New / Low-Engagement Customers
+14397,2,1,54.79,3,New / Low-Engagement Customers
+14398,8,6,116.07000000000001,0,Potential Loyalists
+14399,24,1,59.52,3,New / Low-Engagement Customers
+14400,10,1,55.19,3,New / Low-Engagement Customers
+14401,11,1,40.36,3,New / Low-Engagement Customers
+14402,304,1,47.89,1,Lapsed / Dormant
+14403,18,10,189.76,0,Potential Loyalists
+14404,12,3,115.42,3,New / Low-Engagement Customers
+14405,14,8,138.94,0,Potential Loyalists
+14406,8,4,113.21,3,New / Low-Engagement Customers
+14407,286,1,26.830000000000002,1,Lapsed / Dormant
+14408,5,10,151.65,0,Potential Loyalists
+14409,5,1,46.419999999999995,3,New / Low-Engagement Customers
+14410,2,3,87.34,3,New / Low-Engagement Customers
+14411,1,28,3932.4300000000003,2,High-Value Loyalists
+14412,238,7,396.0,4,At-Risk / Churning
+14413,194,1,30.0,1,Lapsed / Dormant
+14414,1,3,146.23000000000002,3,New / Low-Engagement Customers
+14415,329,1,55.349999999999994,1,Lapsed / Dormant
+14416,349,1,15.5,1,Lapsed / Dormant
+14417,4,15,1767.6299999999999,2,High-Value Loyalists
+14418,122,14,622.58,4,At-Risk / Churning
+14419,2,2,104.42,3,New / Low-Engagement Customers
+14420,11,5,262.95,0,Potential Loyalists
+14421,1,18,2520.24,2,High-Value Loyalists
+14422,196,1,19.5,1,Lapsed / Dormant
+14423,13,13,779.16,0,Potential Loyalists
+14424,2,18,2704.91,2,High-Value Loyalists
+14425,1,12,835.92,0,Potential Loyalists
+14426,133,9,442.07,4,At-Risk / Churning
+14427,253,1,57.53,1,Lapsed / Dormant
+14428,31,1,39.57,3,New / Low-Engagement Customers
+14429,303,1,54.58,1,Lapsed / Dormant
+14430,1,9,483.52,0,Potential Loyalists
+14431,158,14,726.84,4,At-Risk / Churning
+14432,1,26,3171.02,2,High-Value Loyalists
+14433,4,12,804.4,0,Potential Loyalists
+14434,128,6,268.19,4,At-Risk / Churning
+14435,154,14,668.16,4,At-Risk / Churning
+14436,1,12,638.21,0,Potential Loyalists
+14437,13,6,108.12,3,New / Low-Engagement Customers
+14438,250,1,21.88,1,Lapsed / Dormant
+14439,2,23,2776.66,2,High-Value Loyalists
+14440,29,10,135.55,0,Potential Loyalists
+14441,316,1,17.87,1,Lapsed / Dormant
+14442,3,6,361.74,0,Potential Loyalists
+14443,29,6,306.65,0,Potential Loyalists
+14444,147,9,521.55,4,At-Risk / Churning
+14445,11,7,423.46000000000004,0,Potential Loyalists
+14446,20,7,120.13,0,Potential Loyalists
+14447,1,7,109.14,0,Potential Loyalists
+14448,10,6,352.73,0,Potential Loyalists
+14449,137,15,667.84,4,At-Risk / Churning
+14450,185,1,17.56,1,Lapsed / Dormant
+14451,23,6,367.35,0,Potential Loyalists
+14452,10,5,63.4,3,New / Low-Engagement Customers
+14453,198,1,40.11,1,Lapsed / Dormant
+14454,2,28,3811.92,2,High-Value Loyalists
+14455,123,13,565.79,4,At-Risk / Churning
+14456,26,5,92.24,3,New / Low-Engagement Customers
+14457,1,25,2784.35,2,High-Value Loyalists
+14458,175,11,604.92,4,At-Risk / Churning
+14459,17,6,280.3,0,Potential Loyalists
+14460,238,1,49.370000000000005,1,Lapsed / Dormant
+14461,1,14,804.82,0,Potential Loyalists
+14462,13,3,136.29,3,New / Low-Engagement Customers
+14463,232,1,61.62,1,Lapsed / Dormant
+14464,19,1,58.959999999999994,3,New / Low-Engagement Customers
+14465,163,9,484.31,4,At-Risk / Churning
+14466,6,3,139.82,3,New / Low-Engagement Customers
+14467,209,7,288.98,4,At-Risk / Churning
+14468,16,3,117.79,3,New / Low-Engagement Customers
+14469,3,9,456.0,0,Potential Loyalists
+14470,8,3,103.8,3,New / Low-Engagement Customers
+14471,8,3,71.73,3,New / Low-Engagement Customers
+14472,5,6,345.89,0,Potential Loyalists
+14473,4,10,174.45,0,Potential Loyalists
+14474,2,20,2804.29,2,High-Value Loyalists
+14475,27,6,97.28,3,New / Low-Engagement Customers
+14476,165,6,331.65999999999997,4,At-Risk / Churning
+14477,11,2,102.3,3,New / Low-Engagement Customers
+14478,2,15,2081.97,2,High-Value Loyalists
+14479,125,12,650.66,4,At-Risk / Churning
+14480,276,1,20.58,1,Lapsed / Dormant
+14481,203,8,344.51,4,At-Risk / Churning
+14482,14,8,117.48,0,Potential Loyalists
+14483,25,6,107.51,3,New / Low-Engagement Customers
+14484,8,2,57.78,3,New / Low-Engagement Customers
+14485,198,1,24.21,1,Lapsed / Dormant
+14486,2,2,86.19,3,New / Low-Engagement Customers
+14487,6,8,155.42,0,Potential Loyalists
+14488,179,12,714.64,4,At-Risk / Churning
+14489,143,6,269.9,4,At-Risk / Churning
+14490,2,24,3342.72,2,High-Value Loyalists
+14491,1,16,2387.92,2,High-Value Loyalists
+14492,7,1,51.410000000000004,3,New / Low-Engagement Customers
+14493,1,10,610.38,0,Potential Loyalists
+14494,2,27,3581.32,2,High-Value Loyalists
+14495,1,30,3695.28,2,High-Value Loyalists
+14496,5,14,749.35,0,Potential Loyalists
+14497,2,28,3761.88,2,High-Value Loyalists
+14498,135,13,600.8100000000001,4,At-Risk / Churning
+14499,130,11,465.68,4,At-Risk / Churning
+14500,20,1,39.6,3,New / Low-Engagement Customers
+14501,1,28,3893.88,2,High-Value Loyalists
+14502,4,6,329.28,0,Potential Loyalists
+14503,159,11,632.84,4,At-Risk / Churning
+14504,5,9,446.3,0,Potential Loyalists
+14505,270,1,40.769999999999996,1,Lapsed / Dormant
+14506,325,1,25.060000000000002,1,Lapsed / Dormant
+14507,10,3,109.55,3,New / Low-Engagement Customers
+14508,5,6,395.97,0,Potential Loyalists
+14509,1,26,3621.33,2,High-Value Loyalists
+14510,6,3,191.21,3,New / Low-Engagement Customers
+14511,2,3,138.04,3,New / Low-Engagement Customers
+14512,329,1,40.57,1,Lapsed / Dormant
+14513,3,10,658.99,0,Potential Loyalists
+14514,16,1,64.78,3,New / Low-Engagement Customers
+14515,182,6,297.74,4,At-Risk / Churning
+14516,9,10,665.42,0,Potential Loyalists
+14517,128,15,697.14,4,At-Risk / Churning
+14518,133,13,615.66,4,At-Risk / Churning
+14519,14,5,75.1,3,New / Low-Engagement Customers
+14520,2,3,135.8,3,New / Low-Engagement Customers
+14521,126,7,384.4,4,At-Risk / Churning
+14522,195,6,315.36,4,At-Risk / Churning
+14523,131,14,782.54,4,At-Risk / Churning
+14524,21,2,66.8,3,New / Low-Engagement Customers
+14525,6,5,76.21000000000001,3,New / Low-Engagement Customers
+14526,3,14,701.15,0,Potential Loyalists
+14527,15,6,83.1,3,New / Low-Engagement Customers
+14528,9,3,96.69999999999999,3,New / Low-Engagement Customers
+14529,1,27,3904.0099999999998,2,High-Value Loyalists
+14530,6,1,62.870000000000005,3,New / Low-Engagement Customers
+14531,10,8,145.95,0,Potential Loyalists
+14532,12,1,20.75,3,New / Low-Engagement Customers
+14533,6,9,567.11,0,Potential Loyalists
+14534,1,12,738.97,0,Potential Loyalists
+14535,5,9,429.87,0,Potential Loyalists
+14536,3,3,156.69,3,New / Low-Engagement Customers
+14537,9,5,65.34,3,New / Low-Engagement Customers
+14538,4,3,59.290000000000006,3,New / Low-Engagement Customers
+14539,6,9,170.44,0,Potential Loyalists
+14540,349,1,51.06,1,Lapsed / Dormant
+14541,1,10,490.7,0,Potential Loyalists
+14542,8,8,503.78,0,Potential Loyalists
+14543,4,5,93.09,3,New / Low-Engagement Customers
+14544,21,7,109.86,0,Potential Loyalists
+14545,4,12,692.8299999999999,0,Potential Loyalists
+14546,2,22,2649.79,2,High-Value Loyalists
+14547,6,14,737.59,0,Potential Loyalists
+14548,275,1,20.47,1,Lapsed / Dormant
+14549,155,7,404.78999999999996,4,At-Risk / Churning
+14550,2,28,4129.03,2,High-Value Loyalists
+14551,20,2,59.8,3,New / Low-Engagement Customers
+14552,15,8,457.02,0,Potential Loyalists
+14553,1,26,3546.5,2,High-Value Loyalists
+14555,2,12,628.39,0,Potential Loyalists
+14556,12,10,609.4,0,Potential Loyalists
+14557,311,1,45.93,1,Lapsed / Dormant
+14558,1,9,134.76,0,Potential Loyalists
+14559,9,11,684.86,0,Potential Loyalists
+14560,18,2,96.2,3,New / Low-Engagement Customers
+14561,121,13,545.38,4,At-Risk / Churning
+14562,269,1,34.94,1,Lapsed / Dormant
+14563,2,7,301.01,0,Potential Loyalists
+14564,25,3,145.04,3,New / Low-Engagement Customers
+14565,7,8,160.97,0,Potential Loyalists
+14566,1,15,2296.32,2,High-Value Loyalists
+14567,10,9,172.54999999999998,0,Potential Loyalists
+14568,3,27,3644.87,2,High-Value Loyalists
+14569,21,7,103.21,3,New / Low-Engagement Customers
+14570,316,1,19.42,1,Lapsed / Dormant
+14571,1,22,2982.21,2,High-Value Loyalists
+14572,3,9,455.2,0,Potential Loyalists
+14573,4,5,80.48,3,New / Low-Engagement Customers
+14574,141,14,704.83,4,At-Risk / Churning
+14575,359,1,48.0,1,Lapsed / Dormant
+14576,12,8,131.21,0,Potential Loyalists
+14577,16,2,76.67,3,New / Low-Engagement Customers
+14578,18,6,367.0,0,Potential Loyalists
+14579,6,6,122.23,0,Potential Loyalists
+14580,23,1,50.519999999999996,3,New / Low-Engagement Customers
+14581,20,3,81.29,3,New / Low-Engagement Customers
+14582,4,8,98.3,0,Potential Loyalists
+14583,8,6,374.03,0,Potential Loyalists
+14584,139,6,311.84000000000003,4,At-Risk / Churning
+14585,6,13,777.86,0,Potential Loyalists
+14586,1,3,159.04,3,New / Low-Engagement Customers
+14587,12,7,445.2,0,Potential Loyalists
+14588,124,11,481.28,4,At-Risk / Churning
+14589,20,5,74.75,3,New / Low-Engagement Customers
+14590,20,10,161.07,0,Potential Loyalists
+14591,1,30,4240.65,2,High-Value Loyalists
+14592,309,1,18.38,1,Lapsed / Dormant
+14593,178,6,285.46,4,At-Risk / Churning
+14594,3,6,319.67,0,Potential Loyalists
+14595,8,3,117.36,3,New / Low-Engagement Customers
+14596,285,1,18.04,1,Lapsed / Dormant
+14597,4,9,502.92,0,Potential Loyalists
+14598,9,2,117.84,3,New / Low-Engagement Customers
+14599,25,8,476.53,0,Potential Loyalists
+14600,4,3,162.45,3,New / Low-Engagement Customers
+14601,1,14,781.37,0,Potential Loyalists
+14602,3,6,410.31,0,Potential Loyalists
+14603,149,5,170.98,4,At-Risk / Churning
+14604,29,1,34.48,3,New / Low-Engagement Customers
+14605,339,1,31.0,1,Lapsed / Dormant
+14606,154,5,236.91,4,At-Risk / Churning
+14607,47,5,56.44,3,New / Low-Engagement Customers
+14608,149,12,694.27,4,At-Risk / Churning
+14609,1,17,2344.71,2,High-Value Loyalists
+14610,145,10,494.17,4,At-Risk / Churning
+14611,11,7,360.11,0,Potential Loyalists
+14612,1,10,600.77,0,Potential Loyalists
+14613,2,10,163.82,0,Potential Loyalists
+14614,9,3,132.17,3,New / Low-Engagement Customers
+14615,7,5,98.52,3,New / Low-Engagement Customers
+14616,201,1,25.6,1,Lapsed / Dormant
+14617,10,12,722.72,0,Potential Loyalists
+14618,10,1,23.79,3,New / Low-Engagement Customers
+14619,5,2,81.53,3,New / Low-Engagement Customers
+14620,5,3,121.85,3,New / Low-Engagement Customers
+14621,4,14,783.9,0,Potential Loyalists
+14622,364,1,40.69,1,Lapsed / Dormant
+14623,307,1,18.08,1,Lapsed / Dormant
+14624,2,25,3106.72,2,High-Value Loyalists
+14625,9,6,107.91,3,New / Low-Engagement Customers
+14626,14,9,116.26,0,Potential Loyalists
+14627,251,1,52.66,1,Lapsed / Dormant
+14628,14,3,120.62,3,New / Low-Engagement Customers
+14629,7,8,169.35,0,Potential Loyalists
+14630,149,12,534.27,4,At-Risk / Churning
+14631,261,1,23.32,1,Lapsed / Dormant
+14632,16,2,75.49000000000001,3,New / Low-Engagement Customers
+14633,1,25,3985.4900000000002,2,High-Value Loyalists
+14634,1,8,137.39000000000001,0,Potential Loyalists
+14635,2,10,627.87,0,Potential Loyalists
+14636,180,5,176.62,4,At-Risk / Churning
+14637,13,7,367.22,0,Potential Loyalists
+14638,273,1,48.33,1,Lapsed / Dormant
+14639,133,6,237.02,4,At-Risk / Churning
+14640,7,8,129.7,0,Potential Loyalists
+14641,121,9,424.09,4,At-Risk / Churning
+14642,16,2,74.56,3,New / Low-Engagement Customers
+14643,188,1,23.94,1,Lapsed / Dormant
+14644,2,12,592.34,0,Potential Loyalists
+14645,310,1,56.42999999999999,1,Lapsed / Dormant
+14646,148,14,680.9,4,At-Risk / Churning
+14647,11,6,348.69,0,Potential Loyalists
+14648,349,1,39.010000000000005,1,Lapsed / Dormant
+14649,21,3,86.51,3,New / Low-Engagement Customers
+14650,3,10,185.49,0,Potential Loyalists
+14651,28,1,24.950000000000003,3,New / Low-Engagement Customers
+14652,236,1,34.199999999999996,1,Lapsed / Dormant
+14653,1,2,101.93,3,New / Low-Engagement Customers
+14654,2,26,2879.47,2,High-Value Loyalists
+14655,2,13,727.06,0,Potential Loyalists
+14656,21,1,33.25,3,New / Low-Engagement Customers
+14657,5,12,659.09,0,Potential Loyalists
+14658,1,23,3553.13,2,High-Value Loyalists
+14659,26,1,17.8,3,New / Low-Engagement Customers
+14660,143,12,596.95,4,At-Risk / Churning
+14661,1,28,3965.51,2,High-Value Loyalists
+14662,5,2,100.71000000000001,3,New / Low-Engagement Customers
+14663,7,7,98.66,0,Potential Loyalists
+14664,3,14,686.16,0,Potential Loyalists
+14665,121,6,285.23,4,At-Risk / Churning
+14666,20,2,115.28,3,New / Low-Engagement Customers
+14667,343,1,16.4,1,Lapsed / Dormant
+14668,3,22,3537.7400000000002,2,High-Value Loyalists
+14669,21,1,29.94,3,New / Low-Engagement Customers
+14670,2,14,746.6,0,Potential Loyalists
+14671,10,3,72.28,3,New / Low-Engagement Customers
+14672,31,1,23.28,3,New / Low-Engagement Customers
+14673,205,1,27.759999999999998,1,Lapsed / Dormant
+14674,6,11,695.08,0,Potential Loyalists
+14675,2,16,2199.96,2,High-Value Loyalists
+14676,1,3,135.81,3,New / Low-Engagement Customers
+14677,126,12,618.3199999999999,4,At-Risk / Churning
+14678,8,10,156.61,0,Potential Loyalists
+14679,191,10,406.91,4,At-Risk / Churning
+14680,3,12,688.94,0,Potential Loyalists
+14681,1,13,701.42,0,Potential Loyalists
+14682,3,12,592.1,0,Potential Loyalists
+14683,3,6,93.04,3,New / Low-Engagement Customers
+14684,13,1,45.650000000000006,3,New / Low-Engagement Customers
+14685,11,8,127.85000000000001,0,Potential Loyalists
+14686,121,9,397.38,4,At-Risk / Churning
+14687,8,2,59.21,3,New / Low-Engagement Customers
+14688,17,1,68.08,3,New / Low-Engagement Customers
+14689,4,6,126.34,0,Potential Loyalists
+14690,141,15,667.5699999999999,4,At-Risk / Churning
+14691,18,1,38.88,3,New / Low-Engagement Customers
+14692,4,8,450.66,0,Potential Loyalists
+14693,18,1,56.69,3,New / Low-Engagement Customers
+14694,234,1,44.14,1,Lapsed / Dormant
+14695,121,13,683.53,4,At-Risk / Churning
+14696,243,1,58.099999999999994,1,Lapsed / Dormant
+14697,8,10,148.1,0,Potential Loyalists
+14698,136,7,375.81,4,At-Risk / Churning
+14699,7,11,646.58,0,Potential Loyalists
+14700,363,1,31.36,1,Lapsed / Dormant
+14701,13,1,29.64,3,New / Low-Engagement Customers
+14702,11,10,173.1,0,Potential Loyalists
+14703,35,4,58.47,3,New / Low-Engagement Customers
+14704,1,26,3741.58,2,High-Value Loyalists
+14705,2,9,478.97,0,Potential Loyalists
+14706,142,8,332.23,4,At-Risk / Churning
+14707,131,5,318.09999999999997,4,At-Risk / Churning
+14708,5,10,460.13,0,Potential Loyalists
+14709,31,1,24.09,3,New / Low-Engagement Customers
+14710,19,7,376.03,0,Potential Loyalists
+14711,121,14,765.8,4,At-Risk / Churning
+14712,10,1,34.09,3,New / Low-Engagement Customers
+14713,14,7,109.39,0,Potential Loyalists
+14714,7,3,136.91,3,New / Low-Engagement Customers
+14715,18,1,27.22,3,New / Low-Engagement Customers
+14716,24,3,82.21000000000001,3,New / Low-Engagement Customers
+14717,6,8,466.49,0,Potential Loyalists
+14718,142,13,641.03,4,At-Risk / Churning
+14719,1,14,783.63,0,Potential Loyalists
+14720,121,10,435.35,4,At-Risk / Churning
+14721,7,10,533.34,0,Potential Loyalists
+14722,236,6,298.82,4,At-Risk / Churning
+14723,7,6,306.21,0,Potential Loyalists
+14724,1,2,60.26,3,New / Low-Engagement Customers
+14725,1,29,3928.99,2,High-Value Loyalists
+14726,188,5,235.17,4,At-Risk / Churning
+14727,14,8,112.91,0,Potential Loyalists
+14728,9,1,37.04,3,New / Low-Engagement Customers
+14729,184,5,240.46,4,At-Risk / Churning
+14730,1,15,2027.5,2,High-Value Loyalists
+14731,143,12,560.64,4,At-Risk / Churning
+14732,3,13,750.37,0,Potential Loyalists
+14733,15,9,426.59,0,Potential Loyalists
+14734,336,1,31.810000000000002,1,Lapsed / Dormant
+14735,157,4,204.52,4,At-Risk / Churning
+14736,149,13,541.38,4,At-Risk / Churning
+14737,3,9,154.8,0,Potential Loyalists
+14738,5,9,153.5,0,Potential Loyalists
+14739,25,1,58.71,3,New / Low-Engagement Customers
+14740,1,10,172.73,0,Potential Loyalists
+14741,1,12,698.51,0,Potential Loyalists
+14742,265,1,28.29,1,Lapsed / Dormant
+14743,128,12,551.96,4,At-Risk / Churning
+14744,304,1,42.03,1,Lapsed / Dormant
+14745,4,4,78.24,3,New / Low-Engagement Customers
+14746,1,17,2392.62,2,High-Value Loyalists
+14747,15,3,122.5,3,New / Low-Engagement Customers
+14748,321,1,40.81,1,Lapsed / Dormant
+14749,3,3,82.24,3,New / Low-Engagement Customers
+14750,176,5,312.33,4,At-Risk / Churning
+14751,309,1,14.100000000000001,1,Lapsed / Dormant
+14752,130,7,327.7,4,At-Risk / Churning
+14753,10,9,544.12,0,Potential Loyalists
+14754,1,26,3456.87,2,High-Value Loyalists
+14755,2,2,95.15,3,New / Low-Engagement Customers
+14756,30,1,40.230000000000004,3,New / Low-Engagement Customers
+14757,32,6,92.64,3,New / Low-Engagement Customers
+14758,149,6,304.2,4,At-Risk / Churning
+14759,1,18,2000.65,2,High-Value Loyalists
+14760,123,9,372.8,4,At-Risk / Churning
+14761,9,3,160.23,3,New / Low-Engagement Customers
+14762,2,24,3193.64,2,High-Value Loyalists
+14763,2,11,613.9,0,Potential Loyalists
+14764,1,9,154.46,0,Potential Loyalists
+14765,244,1,29.76,1,Lapsed / Dormant
+14766,2,20,2351.19,2,High-Value Loyalists
+14767,14,10,165.89000000000001,0,Potential Loyalists
+14768,1,22,3051.68,2,High-Value Loyalists
+14769,137,8,349.69,4,At-Risk / Churning
+14770,16,2,66.5,3,New / Low-Engagement Customers
+14771,137,8,358.03,4,At-Risk / Churning
+14772,170,8,388.5,4,At-Risk / Churning
+14773,4,3,91.58,3,New / Low-Engagement Customers
+14774,8,4,76.60000000000001,3,New / Low-Engagement Customers
+14775,3,9,487.85,0,Potential Loyalists
+14776,12,7,380.87,0,Potential Loyalists
+14777,1,26,3712.31,2,High-Value Loyalists
+14778,148,9,404.97,4,At-Risk / Churning
+14779,3,8,485.14,0,Potential Loyalists
+14780,11,3,119.0,3,New / Low-Engagement Customers
+14781,1,9,173.05,0,Potential Loyalists
+14782,30,1,31.67,3,New / Low-Engagement Customers
+14783,6,3,150.29,3,New / Low-Engagement Customers
+14784,1,29,4003.06,2,High-Value Loyalists
+14785,28,5,108.74,3,New / Low-Engagement Customers
+14786,188,1,42.92,1,Lapsed / Dormant
+14787,26,6,91.42999999999999,3,New / Low-Engagement Customers
+14788,153,11,598.39,4,At-Risk / Churning
+14789,4,13,722.44,0,Potential Loyalists
+14790,2,7,100.09,0,Potential Loyalists
+14791,35,5,80.47,3,New / Low-Engagement Customers
+14792,134,9,358.38,4,At-Risk / Churning
+14793,168,13,692.65,4,At-Risk / Churning
+14794,4,10,139.59,0,Potential Loyalists
+14795,9,14,827.74,0,Potential Loyalists
+14796,1,9,151.26000000000002,0,Potential Loyalists
+14797,196,1,16.19,1,Lapsed / Dormant
+14798,5,10,624.59,0,Potential Loyalists
+14799,145,13,620.14,4,At-Risk / Churning
+14800,1,26,3289.99,2,High-Value Loyalists
+14801,126,7,391.8,4,At-Risk / Churning
+14802,122,13,612.62,4,At-Risk / Churning
+14803,147,13,613.95,4,At-Risk / Churning
+14804,190,1,50.699999999999996,1,Lapsed / Dormant
+14805,2,17,2590.8,2,High-Value Loyalists
+14806,1,10,154.11,0,Potential Loyalists
+14807,2,11,596.89,0,Potential Loyalists
+14808,318,1,37.44,1,Lapsed / Dormant
+14809,5,5,108.93,3,New / Low-Engagement Customers
+14810,17,1,5.42,3,New / Low-Engagement Customers
+14811,2,9,135.77,0,Potential Loyalists
+14812,125,13,661.0600000000001,4,At-Risk / Churning
+14813,1,28,3555.0,2,High-Value Loyalists
+14814,13,2,120.86,3,New / Low-Engagement Customers
+14815,8,1,19.32,3,New / Low-Engagement Customers
+14816,161,9,439.96,4,At-Risk / Churning
+14817,24,1,17.24,3,New / Low-Engagement Customers
+14818,42,6,108.10000000000001,3,New / Low-Engagement Customers
+14819,35,5,90.46000000000001,3,New / Low-Engagement Customers
+14820,3,6,378.65999999999997,0,Potential Loyalists
+14821,141,5,243.95,4,At-Risk / Churning
+14822,17,3,135.42000000000002,3,New / Low-Engagement Customers
+14823,22,10,528.11,0,Potential Loyalists
+14824,22,2,63.480000000000004,3,New / Low-Engagement Customers
+14825,4,7,371.54,0,Potential Loyalists
+14826,2,7,120.92,0,Potential Loyalists
+14827,313,1,46.08,1,Lapsed / Dormant
+14828,195,1,45.12,1,Lapsed / Dormant
+14829,6,7,341.85,0,Potential Loyalists
+14830,2,25,3431.13,2,High-Value Loyalists
+14831,254,1,19.13,1,Lapsed / Dormant
+14832,2,10,503.73,0,Potential Loyalists
+14833,5,13,808.98,0,Potential Loyalists
+14834,61,7,107.13,4,At-Risk / Churning
+14835,5,7,122.92,0,Potential Loyalists
+14836,1,8,130.47,0,Potential Loyalists
+14837,121,6,331.90999999999997,4,At-Risk / Churning
+14838,1,26,3489.88,2,High-Value Loyalists
+14839,3,6,106.02,0,Potential Loyalists
+14840,6,10,636.54,0,Potential Loyalists
+14841,230,1,37.72,1,Lapsed / Dormant
+14842,136,8,385.67,4,At-Risk / Churning
+14843,127,14,674.55,4,At-Risk / Churning
+14844,156,8,371.09000000000003,4,At-Risk / Churning
+14845,1,9,566.29,0,Potential Loyalists
+14846,5,5,100.67,3,New / Low-Engagement Customers
+14847,1,22,3105.51,2,High-Value Loyalists
+14848,21,1,42.43,3,New / Low-Engagement Customers
+14849,14,14,750.4,0,Potential Loyalists
+14850,9,6,389.7,0,Potential Loyalists
+14851,4,9,590.8100000000001,0,Potential Loyalists
+14852,1,28,3538.4900000000002,2,High-Value Loyalists
+14853,9,6,457.81,0,Potential Loyalists
+14854,13,1,50.37,3,New / Low-Engagement Customers
+14855,136,15,695.92,4,At-Risk / Churning
+14856,168,7,369.39,4,At-Risk / Churning
+14857,4,10,162.82,0,Potential Loyalists
+14858,8,2,93.58,3,New / Low-Engagement Customers
+14859,2,15,2179.7200000000003,2,High-Value Loyalists
+14860,1,12,661.46,0,Potential Loyalists
+14861,1,27,3972.37,2,High-Value Loyalists
+14862,175,8,320.34,4,At-Risk / Churning
+14863,9,11,677.94,0,Potential Loyalists
+14864,17,10,570.58,0,Potential Loyalists
+14865,3,9,537.71,0,Potential Loyalists
+14866,1,16,2486.2,2,High-Value Loyalists
+14867,166,10,593.26,4,At-Risk / Churning
+14868,3,8,159.64000000000001,0,Potential Loyalists
+14869,207,1,21.700000000000003,1,Lapsed / Dormant
+14870,122,13,624.01,4,At-Risk / Churning
+14871,1,9,544.05,0,Potential Loyalists
+14872,1,24,2647.54,2,High-Value Loyalists
+14873,130,12,538.4,4,At-Risk / Churning
+14874,1,30,4020.88,2,High-Value Loyalists
+14875,128,11,579.25,4,At-Risk / Churning
+14876,128,8,420.41,4,At-Risk / Churning
+14877,2,4,76.41,3,New / Low-Engagement Customers
+14878,2,3,97.15,3,New / Low-Engagement Customers
+14879,212,1,29.240000000000002,1,Lapsed / Dormant
+14880,10,12,741.23,0,Potential Loyalists
+14881,7,3,77.22,3,New / Low-Engagement Customers
+14882,9,2,102.79,3,New / Low-Engagement Customers
+14883,3,9,176.6,0,Potential Loyalists
+14884,169,8,319.68,4,At-Risk / Churning
+14885,8,10,615.49,0,Potential Loyalists
+14886,329,1,31.18,1,Lapsed / Dormant
+14887,329,1,55.580000000000005,1,Lapsed / Dormant
+14888,8,6,101.75,3,New / Low-Engagement Customers
+14889,1,3,112.1,3,New / Low-Engagement Customers
+14890,178,10,537.75,4,At-Risk / Churning
+14891,10,10,511.92,0,Potential Loyalists
+14892,11,4,83.61,3,New / Low-Engagement Customers
+14893,1,18,2356.06,2,High-Value Loyalists
+14894,220,1,25.36,1,Lapsed / Dormant
+14895,138,11,535.21,4,At-Risk / Churning
+14896,5,8,331.09000000000003,0,Potential Loyalists
+14897,4,7,382.66,0,Potential Loyalists
+14898,1,17,2461.25,2,High-Value Loyalists
+14899,147,6,274.41,4,At-Risk / Churning
+14900,157,8,408.34000000000003,4,At-Risk / Churning
+14901,138,12,522.11,4,At-Risk / Churning
+14902,1,18,2619.83,2,High-Value Loyalists
+14903,28,1,69.78999999999999,3,New / Low-Engagement Customers
+14904,14,1,17.5,3,New / Low-Engagement Customers
+14905,1,23,3125.81,2,High-Value Loyalists
+14906,1,24,3333.01,2,High-Value Loyalists
+14907,7,2,109.46000000000001,3,New / Low-Engagement Customers
+14908,5,11,701.29,0,Potential Loyalists
+14909,3,26,3342.61,2,High-Value Loyalists
+14910,32,7,412.3,4,At-Risk / Churning
+14911,27,1,47.519999999999996,3,New / Low-Engagement Customers
+14912,4,2,65.08,3,New / Low-Engagement Customers
+14913,3,2,55.08,3,New / Low-Engagement Customers
+14914,30,1,65.52,3,New / Low-Engagement Customers
+14915,5,14,698.48,0,Potential Loyalists
+14916,121,8,446.99,4,At-Risk / Churning
+14917,2,20,2776.82,2,High-Value Loyalists
+14918,2,25,3353.16,2,High-Value Loyalists
+14919,7,9,159.25,0,Potential Loyalists
+14920,122,11,503.11,4,At-Risk / Churning
+14921,18,9,107.99000000000001,0,Potential Loyalists
+14922,160,9,450.74,4,At-Risk / Churning
+14923,5,14,985.3199999999999,0,Potential Loyalists
+14924,2,4,40.68,3,New / Low-Engagement Customers
+14925,2,23,3271.92,2,High-Value Loyalists
+14926,1,20,3036.46,2,High-Value Loyalists
+14927,12,6,391.78000000000003,0,Potential Loyalists
+14928,13,6,337.95,0,Potential Loyalists
+14929,9,8,154.66,0,Potential Loyalists
+14930,38,6,107.41,3,New / Low-Engagement Customers
+14931,2,15,1921.67,2,High-Value Loyalists
+14932,9,9,568.59,0,Potential Loyalists
+14933,10,10,168.7,0,Potential Loyalists
+14934,15,1,63.800000000000004,3,New / Low-Engagement Customers
+14935,1,14,767.85,0,Potential Loyalists
+14936,3,8,434.05,0,Potential Loyalists
+14937,15,8,439.82,0,Potential Loyalists
+14938,1,26,3439.81,2,High-Value Loyalists
+14939,3,9,485.26,0,Potential Loyalists
+14940,149,14,628.84,4,At-Risk / Churning
+14941,125,14,729.34,4,At-Risk / Churning
+14942,165,14,721.4399999999999,4,At-Risk / Churning
+14943,6,10,557.03,0,Potential Loyalists
+14944,4,1,53.76,3,New / Low-Engagement Customers
+14945,12,8,438.76,0,Potential Loyalists
+14946,345,1,25.11,1,Lapsed / Dormant
+14947,4,6,326.04,0,Potential Loyalists
+14948,129,15,739.8399999999999,4,At-Risk / Churning
+14949,131,11,595.06,4,At-Risk / Churning
+14950,3,14,801.72,0,Potential Loyalists
+14951,350,1,56.81,1,Lapsed / Dormant
+14952,6,8,453.29,0,Potential Loyalists
+14953,5,10,660.22,0,Potential Loyalists
+14954,11,10,467.26,0,Potential Loyalists
+14955,339,1,36.78,1,Lapsed / Dormant
+14956,5,11,594.1,0,Potential Loyalists
+14957,3,10,648.68,0,Potential Loyalists
+14958,320,1,17.65,1,Lapsed / Dormant
+14959,138,11,447.12,4,At-Risk / Churning
+14960,30,1,16.29,1,Lapsed / Dormant
+14961,2,6,373.58,0,Potential Loyalists
+14962,315,1,44.65,1,Lapsed / Dormant
+14963,1,2,68.53,3,New / Low-Engagement Customers
+14964,276,1,45.93,1,Lapsed / Dormant
+14965,137,8,342.28,4,At-Risk / Churning
+14966,121,15,672.71,4,At-Risk / Churning
+14967,8,6,128.12,0,Potential Loyalists
+14968,12,2,130.93,3,New / Low-Engagement Customers
+14969,122,11,618.03,4,At-Risk / Churning
+14970,6,6,93.58,3,New / Low-Engagement Customers
+14971,3,14,780.55,0,Potential Loyalists
+14972,7,6,362.95,0,Potential Loyalists
+14973,162,7,360.48,4,At-Risk / Churning
+14974,8,7,111.53,0,Potential Loyalists
+14975,6,7,366.65,0,Potential Loyalists
+14976,8,13,751.97,0,Potential Loyalists
+14977,1,16,2200.07,2,High-Value Loyalists
+14978,1,16,1803.53,2,High-Value Loyalists
+14979,22,1,46.65,3,New / Low-Engagement Customers
+14980,1,2,53.61,3,New / Low-Engagement Customers
+14981,7,10,152.73,0,Potential Loyalists
+14982,144,11,516.57,4,At-Risk / Churning
+14983,1,3,110.26,3,New / Low-Engagement Customers
+14984,37,9,160.43,4,At-Risk / Churning
+14985,12,8,374.31,0,Potential Loyalists
+14986,138,14,645.45,4,At-Risk / Churning
+14987,7,9,132.5,0,Potential Loyalists
+14988,14,10,158.09,0,Potential Loyalists
+14989,44,7,102.85,4,At-Risk / Churning
+14990,1,13,681.03,0,Potential Loyalists
+14991,222,1,21.240000000000002,1,Lapsed / Dormant
+14992,2,6,300.6,0,Potential Loyalists
+14993,131,13,718.56,4,At-Risk / Churning
+14994,1,22,3060.62,2,High-Value Loyalists
+14995,310,1,21.22,1,Lapsed / Dormant
+14996,14,11,614.83,0,Potential Loyalists
+14997,11,5,59.8,3,New / Low-Engagement Customers
+14998,121,7,286.73,4,At-Risk / Churning
+14999,2,11,515.06,0,Potential Loyalists
+15000,13,3,159.82,3,New / Low-Engagement Customers
+15001,1,14,632.3000000000001,0,Potential Loyalists
+15002,17,3,124.09,3,New / Low-Engagement Customers
+15003,2,11,649.03,0,Potential Loyalists
+15004,4,2,90.64,3,New / Low-Engagement Customers
+15005,4,4,46.49,3,New / Low-Engagement Customers
+15006,14,6,332.91,0,Potential Loyalists
+15007,9,8,111.66,0,Potential Loyalists
+15008,1,30,4173.09,2,High-Value Loyalists
+15009,4,2,86.18,3,New / Low-Engagement Customers
+15010,48,5,78.07,3,New / Low-Engagement Customers
+15011,133,14,731.96,4,At-Risk / Churning
+15012,141,13,525.95,4,At-Risk / Churning
+15013,145,7,240.28,4,At-Risk / Churning
+15014,8,8,133.42,0,Potential Loyalists
+15015,6,7,361.35,0,Potential Loyalists
+15016,12,3,139.2,3,New / Low-Engagement Customers
+15017,4,6,320.85,0,Potential Loyalists
+15018,1,20,2554.0,2,High-Value Loyalists
+15019,5,7,368.33,0,Potential Loyalists
+15020,1,10,611.73,0,Potential Loyalists
+15021,4,11,611.85,0,Potential Loyalists
+15022,129,12,619.33,4,At-Risk / Churning
+15023,4,9,169.51,0,Potential Loyalists
+15024,7,3,98.38,3,New / Low-Engagement Customers
+15025,6,7,122.14,0,Potential Loyalists
+15026,18,1,55.41,3,New / Low-Engagement Customers
+15027,2,8,119.43,0,Potential Loyalists
+15028,165,5,222.88,4,At-Risk / Churning
+15029,2,9,481.55,0,Potential Loyalists
+15030,173,12,688.67,4,At-Risk / Churning
+15031,135,4,184.75,4,At-Risk / Churning
+15032,20,10,145.82,0,Potential Loyalists
+15033,4,7,428.05,0,Potential Loyalists
+15034,2,3,125.1,3,New / Low-Engagement Customers
+15035,315,1,14.299999999999999,1,Lapsed / Dormant
+15036,31,6,80.84,3,New / Low-Engagement Customers
+15037,12,2,74.98,3,New / Low-Engagement Customers
+15038,280,1,39.0,1,Lapsed / Dormant
+15039,1,3,143.94,3,New / Low-Engagement Customers
+15040,2,3,158.0,3,New / Low-Engagement Customers
+15041,1,25,3036.49,2,High-Value Loyalists
+15042,26,2,89.02,3,New / Low-Engagement Customers
+15043,335,1,22.62,1,Lapsed / Dormant
+15044,1,29,3702.72,2,High-Value Loyalists
+15045,4,3,101.11,3,New / Low-Engagement Customers
+15046,133,14,767.56,4,At-Risk / Churning
+15047,351,1,14.02,1,Lapsed / Dormant
+15048,3,15,2120.36,2,High-Value Loyalists
+15049,1,3,86.59,3,New / Low-Engagement Customers
+15050,124,5,200.7,4,At-Risk / Churning
+15051,260,1,57.02,1,Lapsed / Dormant
+15052,156,5,189.47,4,At-Risk / Churning
+15053,13,3,84.73,3,New / Low-Engagement Customers
+15054,3,23,3048.28,2,High-Value Loyalists
+15055,139,5,232.13,4,At-Risk / Churning
+15056,300,1,16.229999999999997,1,Lapsed / Dormant
+15057,131,10,388.93,4,At-Risk / Churning
+15058,130,14,649.32,4,At-Risk / Churning
+15059,7,10,648.1700000000001,0,Potential Loyalists
+15060,28,4,78.94,3,New / Low-Engagement Customers
+15061,1,23,2983.03,2,High-Value Loyalists
+15062,8,10,581.42,0,Potential Loyalists
+15063,125,14,538.7,4,At-Risk / Churning
+15064,158,7,342.08,4,At-Risk / Churning
+15065,159,9,447.45,4,At-Risk / Churning
+15066,1,28,3409.1,2,High-Value Loyalists
+15067,2,13,727.52,0,Potential Loyalists
+15068,2,5,84.78999999999999,3,New / Low-Engagement Customers
+15069,1,2,83.24,3,New / Low-Engagement Customers
+15070,11,2,114.37,3,New / Low-Engagement Customers
+15071,6,10,142.96,0,Potential Loyalists
+15072,41,6,103.59,3,New / Low-Engagement Customers
+15073,3,13,717.78,0,Potential Loyalists
+15074,1,30,4221.91,2,High-Value Loyalists
+15075,142,13,630.85,4,At-Risk / Churning
+15076,25,8,140.65,0,Potential Loyalists
+15077,2,8,463.36,0,Potential Loyalists
+15078,4,10,537.75,0,Potential Loyalists
+15079,360,1,42.41,1,Lapsed / Dormant
+15080,5,9,165.6,0,Potential Loyalists
+15081,304,1,24.06,1,Lapsed / Dormant
+15082,126,12,500.06,4,At-Risk / Churning
+15083,154,9,374.11,4,At-Risk / Churning
+15084,8,8,469.46,0,Potential Loyalists
+15085,5,3,137.11,3,New / Low-Engagement Customers
+15086,8,11,596.73,0,Potential Loyalists
+15087,137,9,452.42,4,At-Risk / Churning
+15088,336,1,58.02,1,Lapsed / Dormant
+15089,1,12,697.94,0,Potential Loyalists
+15090,148,7,281.39,4,At-Risk / Churning
+15091,2,27,3797.08,2,High-Value Loyalists
+15092,132,11,556.41,4,At-Risk / Churning
+15093,1,3,99.56,3,New / Low-Engagement Customers
+15094,13,6,362.48,0,Potential Loyalists
+15095,284,1,15.76,1,Lapsed / Dormant
+15096,24,6,363.93,0,Potential Loyalists
+15097,290,1,29.17,1,Lapsed / Dormant
+15098,1,22,2896.9700000000003,2,High-Value Loyalists
+15099,3,6,343.15999999999997,0,Potential Loyalists
+15100,259,1,18.75,1,Lapsed / Dormant
+15101,1,25,3037.39,2,High-Value Loyalists
+15102,49,4,67.14,3,New / Low-Engagement Customers
+15103,1,25,3588.0,2,High-Value Loyalists
+15104,146,8,444.44,4,At-Risk / Churning
+15105,187,1,26.52,1,Lapsed / Dormant
+15106,123,14,701.69,4,At-Risk / Churning
+15107,3,10,503.09000000000003,0,Potential Loyalists
+15108,5,2,105.62,3,New / Low-Engagement Customers
+15109,1,17,1800.06,2,High-Value Loyalists
+15110,266,1,30.889999999999997,1,Lapsed / Dormant
+15111,6,4,60.089999999999996,3,New / Low-Engagement Customers
+15112,357,1,29.02,1,Lapsed / Dormant
+15113,8,3,128.0,3,New / Low-Engagement Customers
+15114,250,1,45.5,1,Lapsed / Dormant
+15115,6,6,303.27,0,Potential Loyalists
+15116,11,2,78.28999999999999,3,New / Low-Engagement Customers
+15117,14,4,52.85,3,New / Low-Engagement Customers
+15118,228,1,28.46,1,Lapsed / Dormant
+15119,2,9,131.09,0,Potential Loyalists
+15120,4,8,144.19,0,Potential Loyalists
+15121,21,2,109.61,3,New / Low-Engagement Customers
+15122,3,7,304.38,0,Potential Loyalists
+15123,3,2,63.63999999999999,3,New / Low-Engagement Customers
+15124,15,12,656.98,0,Potential Loyalists
+15125,10,8,541.19,0,Potential Loyalists
+15126,13,10,205.79,0,Potential Loyalists
+15127,9,12,725.95,0,Potential Loyalists
+15128,7,7,85.41,0,Potential Loyalists
+15129,24,7,314.11,0,Potential Loyalists
+15130,7,3,104.61,3,New / Low-Engagement Customers
+15131,1,10,643.66,0,Potential Loyalists
+15132,3,3,83.3,3,New / Low-Engagement Customers
+15133,142,10,537.69,4,At-Risk / Churning
+15134,3,27,3443.12,2,High-Value Loyalists
+15135,1,17,2257.92,2,High-Value Loyalists
+15136,141,7,321.7,4,At-Risk / Churning
+15137,139,8,402.89,4,At-Risk / Churning
+15138,156,11,482.87,4,At-Risk / Churning
+15139,10,2,76.46000000000001,3,New / Low-Engagement Customers
+15140,2,15,2184.11,2,High-Value Loyalists
+15141,239,1,56.019999999999996,1,Lapsed / Dormant
+15142,136,10,525.3100000000001,4,At-Risk / Churning
+15143,22,4,47.88,3,New / Low-Engagement Customers
+15144,10,3,174.38,3,New / Low-Engagement Customers
+15145,234,1,32.18,1,Lapsed / Dormant
+15146,4,8,129.15,0,Potential Loyalists
+15147,1,3,123.6,3,New / Low-Engagement Customers
+15148,125,15,698.13,4,At-Risk / Churning
+15149,177,8,315.2,4,At-Risk / Churning
+15150,20,2,94.0,3,New / Low-Engagement Customers
+15151,9,1,30.660000000000004,3,New / Low-Engagement Customers
+15152,1,20,2808.95,2,High-Value Loyalists
+15153,316,1,20.12,1,Lapsed / Dormant
+15154,3,3,146.24,3,New / Low-Engagement Customers
+15155,2,12,747.79,0,Potential Loyalists
+15156,243,1,40.910000000000004,1,Lapsed / Dormant
+15157,21,1,64.09,3,New / Low-Engagement Customers
+15158,10,14,722.4,0,Potential Loyalists
+15159,150,10,449.37,4,At-Risk / Churning
+15160,137,7,372.38,4,At-Risk / Churning
+15161,20,4,53.16,3,New / Low-Engagement Customers
+15162,3,8,109.62,0,Potential Loyalists
+15163,143,12,589.64,4,At-Risk / Churning
+15164,21,2,104.3,3,New / Low-Engagement Customers
+15165,11,3,90.28,3,New / Low-Engagement Customers
+15166,354,1,23.3,1,Lapsed / Dormant
+15167,2,8,385.53,0,Potential Loyalists
+15168,11,3,117.72,3,New / Low-Engagement Customers
+15169,3,15,2141.94,2,High-Value Loyalists
+15170,12,2,102.41999999999999,3,New / Low-Engagement Customers
+15171,12,1,49.790000000000006,3,New / Low-Engagement Customers
+15172,128,15,740.71,4,At-Risk / Churning
+15173,6,6,99.41,3,New / Low-Engagement Customers
+15174,1,22,2702.34,2,High-Value Loyalists
+15175,122,11,565.04,4,At-Risk / Churning
+15176,279,1,17.11,1,Lapsed / Dormant
+15177,11,7,109.75,0,Potential Loyalists
+15178,15,2,78.84,3,New / Low-Engagement Customers
+15179,2,2,87.27,3,New / Low-Engagement Customers
+15180,12,14,827.9399999999999,0,Potential Loyalists
+15181,1,20,2871.15,2,High-Value Loyalists
+15182,31,2,93.17,3,New / Low-Engagement Customers
+15183,17,2,64.06,3,New / Low-Engagement Customers
+15184,124,8,382.15,4,At-Risk / Churning
+15185,5,14,775.07,0,Potential Loyalists
+15186,13,3,135.84,3,New / Low-Engagement Customers
+15187,19,1,20.169999999999998,3,New / Low-Engagement Customers
+15188,3,22,3023.92,2,High-Value Loyalists
+15189,3,13,680.15,0,Potential Loyalists
+15190,10,9,173.83,0,Potential Loyalists
+15191,11,6,373.93,0,Potential Loyalists
+15192,136,10,448.06,4,At-Risk / Churning
+15193,7,3,166.21,3,New / Low-Engagement Customers
+15194,4,8,375.38,0,Potential Loyalists
+15195,1,9,588.9,0,Potential Loyalists
+15196,320,1,25.26,1,Lapsed / Dormant
+15197,1,16,2255.61,2,High-Value Loyalists
+15198,126,10,570.65,4,At-Risk / Churning
+15199,8,9,412.29,0,Potential Loyalists
+15200,5,3,125.46,3,New / Low-Engagement Customers
+15201,9,6,338.59999999999997,0,Potential Loyalists
+15202,8,9,418.76,0,Potential Loyalists
+15203,15,12,655.37,0,Potential Loyalists
+15204,6,5,70.71000000000001,3,New / Low-Engagement Customers
+15205,2,17,1969.8,2,High-Value Loyalists
+15206,7,2,96.49000000000001,3,New / Low-Engagement Customers
+15207,4,10,510.17,0,Potential Loyalists
+15208,6,12,655.91,0,Potential Loyalists
+15209,135,9,367.58,4,At-Risk / Churning
+15210,30,3,150.92000000000002,3,New / Low-Engagement Customers
+15211,135,13,691.84,4,At-Risk / Churning
+15212,7,7,126.32,0,Potential Loyalists
+15213,293,1,37.67,1,Lapsed / Dormant
+15214,5,6,306.93,0,Potential Loyalists
+15215,142,12,605.52,4,At-Risk / Churning
+15216,1,9,483.7,0,Potential Loyalists
+15217,317,1,43.73,1,Lapsed / Dormant
+15218,2,12,746.7,0,Potential Loyalists
+15219,3,2,103.96000000000001,3,New / Low-Engagement Customers
+15220,2,3,105.61000000000001,3,New / Low-Engagement Customers
+15221,7,4,70.44,3,New / Low-Engagement Customers
+15222,2,12,656.85,0,Potential Loyalists
+15223,2,3,127.19999999999999,3,New / Low-Engagement Customers
+15224,1,8,151.05,0,Potential Loyalists
+15225,8,1,52.629999999999995,3,New / Low-Engagement Customers
+15226,9,3,152.76,3,New / Low-Engagement Customers
+15227,3,9,121.85000000000001,0,Potential Loyalists
+15228,127,8,349.72,4,At-Risk / Churning
+15229,16,3,111.25999999999999,3,New / Low-Engagement Customers
+15230,224,1,47.21,1,Lapsed / Dormant
+15231,2,10,672.56,0,Potential Loyalists
+15232,137,14,641.08,4,At-Risk / Churning
+15233,122,10,479.62,4,At-Risk / Churning
+15234,185,1,21.11,1,Lapsed / Dormant
+15235,122,14,696.12,4,At-Risk / Churning
+15236,5,2,64.28,3,New / Low-Engagement Customers
+15237,5,8,490.36,0,Potential Loyalists
+15238,9,2,86.28999999999999,3,New / Low-Engagement Customers
+15239,2,9,472.76,0,Potential Loyalists
+15240,2,11,638.36,0,Potential Loyalists
+15241,174,13,618.72,4,At-Risk / Churning
+15242,320,1,26.099999999999998,1,Lapsed / Dormant
+15243,17,2,110.31,3,New / Low-Engagement Customers
+15244,121,13,744.19,4,At-Risk / Churning
+15245,134,10,443.02000000000004,4,At-Risk / Churning
+15246,12,8,471.2,0,Potential Loyalists
+15247,8,11,592.98,0,Potential Loyalists
+15248,9,2,97.33,3,New / Low-Engagement Customers
+15249,12,9,148.82,0,Potential Loyalists
+15250,1,21,2639.76,2,High-Value Loyalists
+15251,3,8,150.83,0,Potential Loyalists
+15252,213,1,50.07,1,Lapsed / Dormant
+15253,2,18,2220.77,2,High-Value Loyalists
+15254,130,12,650.99,4,At-Risk / Churning
+15255,253,7,398.83,4,At-Risk / Churning
+15256,3,9,458.18,0,Potential Loyalists
+15257,3,6,321.53000000000003,0,Potential Loyalists
+15258,11,2,76.28,3,New / Low-Engagement Customers
+15259,26,2,80.78,3,New / Low-Engagement Customers
+15260,8,2,48.24,3,New / Low-Engagement Customers
+15261,162,8,319.53000000000003,4,At-Risk / Churning
+15262,217,1,33.46,1,Lapsed / Dormant
+15263,18,6,359.78000000000003,0,Potential Loyalists
+15264,231,5,217.82999999999998,4,At-Risk / Churning
+15265,129,10,483.93,4,At-Risk / Churning
+15266,1,3,200.42000000000002,3,New / Low-Engagement Customers
+15267,8,1,40.6,3,New / Low-Engagement Customers
+15268,1,29,3791.18,2,High-Value Loyalists
+15269,334,1,34.480000000000004,1,Lapsed / Dormant
+15270,129,14,562.52,4,At-Risk / Churning
+15271,339,1,57.34,1,Lapsed / Dormant
+15272,231,1,45.4,1,Lapsed / Dormant
+15273,1,21,2784.96,2,High-Value Loyalists
+15274,1,28,4076.06,2,High-Value Loyalists
+15275,23,7,332.73,0,Potential Loyalists
+15276,2,7,418.48,0,Potential Loyalists
+15277,335,1,37.21,1,Lapsed / Dormant
+15278,4,8,416.97,0,Potential Loyalists
+15279,152,13,768.64,4,At-Risk / Churning
+15280,13,12,629.44,0,Potential Loyalists
+15281,6,5,68.19,3,New / Low-Engagement Customers
+15282,191,1,51.06,1,Lapsed / Dormant
+15283,9,3,123.24,3,New / Low-Engagement Customers
+15284,325,1,32.7,1,Lapsed / Dormant
+15285,151,7,301.90000000000003,4,At-Risk / Churning
+15286,134,13,695.91,4,At-Risk / Churning
+15287,145,15,722.66,4,At-Risk / Churning
+15288,5,12,806.78,0,Potential Loyalists
+15289,1,16,2542.28,2,High-Value Loyalists
+15290,149,13,669.09,4,At-Risk / Churning
+15291,10,10,587.79,0,Potential Loyalists
+15292,1,8,126.03999999999999,0,Potential Loyalists
+15293,8,8,127.46,0,Potential Loyalists
+15294,17,10,151.02,0,Potential Loyalists
+15295,7,3,140.07999999999998,3,New / Low-Engagement Customers
+15296,159,10,426.56,4,At-Risk / Churning
+15297,335,1,37.72,1,Lapsed / Dormant
+15298,129,8,375.14,4,At-Risk / Churning
+15299,1,2,85.32,3,New / Low-Engagement Customers
+15300,35,10,156.6,4,At-Risk / Churning
+15301,25,1,15.809999999999999,3,New / Low-Engagement Customers
+15302,5,11,576.72,0,Potential Loyalists
+15303,123,11,514.04,4,At-Risk / Churning
+15304,210,1,24.58,1,Lapsed / Dormant
+15305,161,14,689.4300000000001,4,At-Risk / Churning
+15306,3,6,119.82,0,Potential Loyalists
+15307,68,4,78.07,3,New / Low-Engagement Customers
+15308,4,10,167.82,0,Potential Loyalists
+15309,22,9,487.7,0,Potential Loyalists
+15310,14,13,720.64,0,Potential Loyalists
+15311,1,19,2552.43,2,High-Value Loyalists
+15312,121,6,309.15,4,At-Risk / Churning
+15313,2,2,88.76,3,New / Low-Engagement Customers
+15314,16,8,563.88,0,Potential Loyalists
+15315,193,6,377.71,4,At-Risk / Churning
+15316,151,11,466.14,4,At-Risk / Churning
+15317,1,9,621.9,0,Potential Loyalists
+15318,23,5,84.73,3,New / Low-Engagement Customers
+15319,121,15,675.75,4,At-Risk / Churning
+15320,200,1,22.88,1,Lapsed / Dormant
+15321,164,5,285.02,4,At-Risk / Churning
+15322,12,1,63.18,3,New / Low-Engagement Customers
+15323,8,8,477.18,0,Potential Loyalists
+15324,9,12,650.47,0,Potential Loyalists
+15325,144,13,638.89,4,At-Risk / Churning
+15326,5,6,349.51,0,Potential Loyalists
+15327,126,15,773.16,4,At-Risk / Churning
+15328,25,1,28.590000000000003,3,New / Low-Engagement Customers
+15329,5,10,585.38,0,Potential Loyalists
+15330,16,2,127.50999999999999,3,New / Low-Engagement Customers
+15331,16,4,63.410000000000004,3,New / Low-Engagement Customers
+15332,3,6,315.69,0,Potential Loyalists
+15333,17,1,11.04,3,New / Low-Engagement Customers
+15334,7,10,627.79,0,Potential Loyalists
+15335,6,10,199.72,0,Potential Loyalists
+15336,25,6,346.44,0,Potential Loyalists
+15337,20,10,167.62,0,Potential Loyalists
+15338,7,7,424.57,0,Potential Loyalists
+15339,132,9,470.76,4,At-Risk / Churning
+15340,8,12,749.75,0,Potential Loyalists
+15341,142,14,606.96,4,At-Risk / Churning
+15342,1,19,2606.86,2,High-Value Loyalists
+15344,11,1,31.1,3,New / Low-Engagement Customers
+15345,5,10,485.43,0,Potential Loyalists
+15346,130,6,288.04,4,At-Risk / Churning
+15347,2,9,127.76,0,Potential Loyalists
+15348,40,4,63.82,3,New / Low-Engagement Customers
+15349,12,7,132.22,0,Potential Loyalists
+15350,124,11,564.05,4,At-Risk / Churning
+15351,155,13,648.05,4,At-Risk / Churning
+15352,2,8,139.48,0,Potential Loyalists
+15353,129,13,595.33,4,At-Risk / Churning
+15354,3,17,2034.45,2,High-Value Loyalists
+15355,8,3,122.78999999999999,3,New / Low-Engagement Customers
+15356,3,6,110.6,0,Potential Loyalists
+15357,1,19,2375.14,2,High-Value Loyalists
+15358,7,10,530.59,0,Potential Loyalists
+15359,9,6,251.0,0,Potential Loyalists
+15360,187,13,600.83,4,At-Risk / Churning
+15361,4,3,163.0,3,New / Low-Engagement Customers
+15362,1,22,2741.89,2,High-Value Loyalists
+15363,213,5,297.53999999999996,4,At-Risk / Churning
+15364,154,6,314.39,4,At-Risk / Churning
+15365,30,1,58.449999999999996,3,New / Low-Engagement Customers
+15366,222,1,46.1,1,Lapsed / Dormant
+15367,2,9,132.47,0,Potential Loyalists
+15368,14,6,72.86,3,New / Low-Engagement Customers
+15369,12,2,53.19,3,New / Low-Engagement Customers
+15370,8,2,60.86,3,New / Low-Engagement Customers
+15371,163,5,195.83,4,At-Risk / Churning
+15372,1,27,3437.16,2,High-Value Loyalists
+15373,1,22,2975.55,2,High-Value Loyalists
+15374,253,1,29.5,1,Lapsed / Dormant
+15375,158,14,646.75,4,At-Risk / Churning
+15376,238,1,38.56,1,Lapsed / Dormant
+15377,11,8,373.95,0,Potential Loyalists
+15378,16,6,136.42000000000002,0,Potential Loyalists
+15379,2,23,2870.83,2,High-Value Loyalists
+15380,3,10,562.75,0,Potential Loyalists
+15381,324,1,45.400000000000006,1,Lapsed / Dormant
+15382,122,13,471.33,4,At-Risk / Churning
+15383,11,2,63.3,3,New / Low-Engagement Customers
+15384,169,11,562.64,4,At-Risk / Churning
+15385,125,12,557.5,4,At-Risk / Churning
+15386,15,1,18.6,3,New / Low-Engagement Customers
+15387,16,6,299.74,0,Potential Loyalists
+15388,31,4,72.96000000000001,3,New / Low-Engagement Customers
+15389,247,1,29.56,1,Lapsed / Dormant
+15390,6,11,588.82,0,Potential Loyalists
+15391,3,10,603.26,0,Potential Loyalists
+15392,1,2,45.089999999999996,3,New / Low-Engagement Customers
+15393,13,10,576.34,0,Potential Loyalists
+15394,155,13,592.73,4,At-Risk / Churning
+15395,1,25,3648.8,2,High-Value Loyalists
+15396,14,6,378.77,0,Potential Loyalists
+15397,20,14,819.65,0,Potential Loyalists
+15398,18,10,170.5,0,Potential Loyalists
+15399,13,10,168.35,0,Potential Loyalists
+15400,5,8,501.65999999999997,0,Potential Loyalists
+15401,5,3,90.31,3,New / Low-Engagement Customers
+15402,20,1,69.42,3,New / Low-Engagement Customers
+15403,5,5,82.48,3,New / Low-Engagement Customers
+15404,1,14,714.16,0,Potential Loyalists
+15405,3,13,652.74,0,Potential Loyalists
+15406,7,2,97.6,3,New / Low-Engagement Customers
+15407,2,22,2618.7599999999998,2,High-Value Loyalists
+15408,10,1,70.38,3,New / Low-Engagement Customers
+15409,2,26,3786.56,2,High-Value Loyalists
+15410,263,1,16.64,1,Lapsed / Dormant
+15411,9,7,126.85,0,Potential Loyalists
+15412,12,11,495.62,0,Potential Loyalists
+15413,349,1,63.449999999999996,1,Lapsed / Dormant
+15414,13,10,474.9,0,Potential Loyalists
+15415,29,5,104.39,3,New / Low-Engagement Customers
+15416,10,7,90.6,0,Potential Loyalists
+15417,285,1,14.35,1,Lapsed / Dormant
+15418,3,9,150.79,0,Potential Loyalists
+15419,2,1,40.67999999999999,3,New / Low-Engagement Customers
+15420,4,9,174.48,0,Potential Loyalists
+15421,18,2,86.55,3,New / Low-Engagement Customers
+15422,356,1,21.36,1,Lapsed / Dormant
+15423,2,8,516.02,0,Potential Loyalists
+15424,1,29,4038.81,2,High-Value Loyalists
+15425,7,3,79.96,3,New / Low-Engagement Customers
+15426,5,11,714.3199999999999,0,Potential Loyalists
+15427,12,5,89.13,3,New / Low-Engagement Customers
+15428,19,9,121.67,0,Potential Loyalists
+15429,2,13,782.71,0,Potential Loyalists
+15430,8,9,696.84,0,Potential Loyalists
+15431,8,7,289.22,0,Potential Loyalists
+15432,9,6,78.51,3,New / Low-Engagement Customers
+15433,146,7,300.94,4,At-Risk / Churning
+15434,280,1,43.7,1,Lapsed / Dormant
+15435,178,8,307.06,4,At-Risk / Churning
+15436,25,7,125.56,0,Potential Loyalists
+15437,24,1,28.03,3,New / Low-Engagement Customers
+15438,1,27,3606.83,2,High-Value Loyalists
+15439,158,9,397.97,4,At-Risk / Churning
+15440,4,7,333.51,0,Potential Loyalists
+15441,151,15,706.74,4,At-Risk / Churning
+15442,1,11,583.73,0,Potential Loyalists
+15443,1,3,108.33,3,New / Low-Engagement Customers
+15444,5,19,2459.7799999999997,2,High-Value Loyalists
+15445,18,5,95.42,3,New / Low-Engagement Customers
+15446,2,2,90.33,3,New / Low-Engagement Customers
+15447,11,14,734.14,0,Potential Loyalists
+15448,1,29,4133.06,2,High-Value Loyalists
+15449,5,8,525.88,0,Potential Loyalists
+15450,9,2,97.00999999999999,3,New / Low-Engagement Customers
+15451,7,8,421.23,0,Potential Loyalists
+15452,157,13,670.38,4,At-Risk / Churning
+15453,154,14,745.97,4,At-Risk / Churning
+15454,10,3,97.26,3,New / Low-Engagement Customers
+15455,11,7,86.44,3,New / Low-Engagement Customers
+15456,1,15,2335.52,2,High-Value Loyalists
+15457,126,12,671.5699999999999,4,At-Risk / Churning
+15458,1,11,734.0,0,Potential Loyalists
+15459,142,5,218.62,4,At-Risk / Churning
+15460,315,1,34.85,1,Lapsed / Dormant
+15461,333,1,15.12,1,Lapsed / Dormant
+15462,1,20,2434.71,2,High-Value Loyalists
+15463,134,11,499.05,4,At-Risk / Churning
+15464,16,2,38.87,3,New / Low-Engagement Customers
+15465,20,7,102.68,3,New / Low-Engagement Customers
+15466,137,6,277.9,4,At-Risk / Churning
+15467,1,3,98.36,3,New / Low-Engagement Customers
+15468,38,4,72.88,3,New / Low-Engagement Customers
+15469,257,1,37.57,1,Lapsed / Dormant
+15470,17,10,485.26,0,Potential Loyalists
+15471,146,11,483.81,4,At-Risk / Churning
+15472,4,10,656.84,0,Potential Loyalists
+15473,3,8,97.69,0,Potential Loyalists
+15474,16,1,16.189999999999998,3,New / Low-Engagement Customers
+15475,3,25,3454.1,2,High-Value Loyalists
+15476,1,27,3669.71,2,High-Value Loyalists
+15477,30,7,498.91,4,At-Risk / Churning
+15478,359,1,13.95,1,Lapsed / Dormant
+15479,332,1,27.71,1,Lapsed / Dormant
+15480,151,15,841.84,4,At-Risk / Churning
+15481,1,20,2690.2,2,High-Value Loyalists
+15482,1,20,2696.32,2,High-Value Loyalists
+15483,6,8,157.6,0,Potential Loyalists
+15484,3,14,700.01,0,Potential Loyalists
+15485,258,1,17.63,1,Lapsed / Dormant
+15486,27,1,16.46,3,New / Low-Engagement Customers
+15487,21,7,373.28,0,Potential Loyalists
+15488,156,6,266.7,4,At-Risk / Churning
+15489,129,15,735.24,4,At-Risk / Churning
+15490,10,7,419.63,0,Potential Loyalists
+15491,23,2,47.35,3,New / Low-Engagement Customers
+15492,3,8,138.03,0,Potential Loyalists
+15493,2,14,687.94,0,Potential Loyalists
+15494,128,12,559.32,4,At-Risk / Churning
+15495,5,11,562.1,0,Potential Loyalists
+15496,4,14,762.04,0,Potential Loyalists
+15497,234,1,37.989999999999995,1,Lapsed / Dormant
+15498,197,1,53.49,1,Lapsed / Dormant
+15499,5,9,148.88,0,Potential Loyalists
+15500,1,20,2899.35,2,High-Value Loyalists
+15501,3,15,1851.06,2,High-Value Loyalists
+15502,276,1,54.4,1,Lapsed / Dormant
+15503,7,12,686.12,0,Potential Loyalists
+15504,3,30,3507.78,2,High-Value Loyalists
+15505,142,10,510.91,4,At-Risk / Churning
+15506,3,12,638.59,0,Potential Loyalists
+15507,130,7,346.93,4,At-Risk / Churning
+15508,24,4,87.83,3,New / Low-Engagement Customers
+15509,155,5,242.66,4,At-Risk / Churning
+15510,1,22,2828.34,2,High-Value Loyalists
+15511,172,13,682.75,4,At-Risk / Churning
+15512,136,13,722.27,4,At-Risk / Churning
+15514,130,14,671.04,4,At-Risk / Churning
+15515,14,11,674.57,0,Potential Loyalists
+15516,20,5,76.49,3,New / Low-Engagement Customers
+15517,184,8,496.04,4,At-Risk / Churning
+15518,25,8,153.73,0,Potential Loyalists
+15519,232,1,55.41,1,Lapsed / Dormant
+15520,1,11,626.63,0,Potential Loyalists
+15521,12,6,421.65,0,Potential Loyalists
+15522,15,3,113.5,3,New / Low-Engagement Customers
+15523,9,5,224.76,0,Potential Loyalists
+15524,2,20,2632.61,2,High-Value Loyalists
+15525,6,2,105.91,3,New / Low-Engagement Customers
+15526,2,7,399.18,0,Potential Loyalists
+15527,321,1,59.1,1,Lapsed / Dormant
+15528,30,1,32.83,3,New / Low-Engagement Customers
+15529,2,9,482.90000000000003,0,Potential Loyalists
+15530,132,13,705.7,4,At-Risk / Churning
+15531,2,27,3434.31,2,High-Value Loyalists
+15532,1,27,3817.73,2,High-Value Loyalists
+15533,148,7,283.06,4,At-Risk / Churning
+15534,136,5,207.54,4,At-Risk / Churning
+15535,8,1,65.28,3,New / Low-Engagement Customers
+15536,1,30,4118.75,2,High-Value Loyalists
+15537,1,16,2067.08,2,High-Value Loyalists
+15538,10,7,124.4,0,Potential Loyalists
+15539,308,1,58.22,1,Lapsed / Dormant
+15540,24,2,72.53999999999999,3,New / Low-Engagement Customers
+15541,3,10,575.36,0,Potential Loyalists
+15542,207,8,315.25,4,At-Risk / Churning
+15543,345,1,21.810000000000002,1,Lapsed / Dormant
+15544,1,14,840.27,0,Potential Loyalists
+15545,19,1,31.68,3,New / Low-Engagement Customers
+15546,7,12,597.86,0,Potential Loyalists
+15547,2,13,786.3,0,Potential Loyalists
+15548,4,12,803.64,0,Potential Loyalists
+15549,2,10,171.97,0,Potential Loyalists
+15550,134,5,230.53,4,At-Risk / Churning
+15551,2,10,608.12,0,Potential Loyalists
+15552,19,8,480.44,0,Potential Loyalists
+15553,13,11,615.79,0,Potential Loyalists
+15554,155,6,352.66,4,At-Risk / Churning
+15555,139,10,482.12,4,At-Risk / Churning
+15556,268,1,51.78,1,Lapsed / Dormant
+15557,189,9,402.57,4,At-Risk / Churning
+15558,11,2,50.050000000000004,3,New / Low-Engagement Customers
+15559,1,17,2279.56,2,High-Value Loyalists
+15560,153,11,612.4,4,At-Risk / Churning
+15561,2,25,2983.91,2,High-Value Loyalists
+15562,153,8,278.17,4,At-Risk / Churning
+15563,135,14,637.38,4,At-Risk / Churning
+15564,6,6,329.3,0,Potential Loyalists
+15565,124,14,602.08,4,At-Risk / Churning
+15566,2,11,642.1800000000001,0,Potential Loyalists
+15567,5,2,69.23,3,New / Low-Engagement Customers
+15568,1,13,808.25,0,Potential Loyalists
+15569,347,1,55.410000000000004,1,Lapsed / Dormant
+15570,130,14,639.35,4,At-Risk / Churning
+15571,3,20,2895.68,2,High-Value Loyalists
+15572,121,13,658.65,4,At-Risk / Churning
+15573,3,26,3524.0,2,High-Value Loyalists
+15574,5,9,520.33,0,Potential Loyalists
+15575,64,4,52.18,3,New / Low-Engagement Customers
+15576,2,23,3398.3,2,High-Value Loyalists
+15577,163,6,379.17,4,At-Risk / Churning
+15578,1,27,3146.42,2,High-Value Loyalists
+15579,1,12,691.98,0,Potential Loyalists
+15580,136,7,368.46000000000004,4,At-Risk / Churning
+15581,4,8,130.26999999999998,0,Potential Loyalists
+15582,19,1,49.58,3,New / Low-Engagement Customers
+15583,8,3,136.26,3,New / Low-Engagement Customers
+15584,165,9,342.77,4,At-Risk / Churning
+15585,1,26,3565.3,2,High-Value Loyalists
+15586,1,20,2611.25,2,High-Value Loyalists
+15587,4,12,609.53,0,Potential Loyalists
+15588,12,9,140.19,0,Potential Loyalists
+15589,3,17,2244.21,2,High-Value Loyalists
+15590,122,11,569.38,4,At-Risk / Churning
+15591,24,5,110.05,3,New / Low-Engagement Customers
+15592,158,5,245.78,4,At-Risk / Churning
+15593,1,25,3469.45,2,High-Value Loyalists
+15594,1,13,875.79,0,Potential Loyalists
+15595,10,7,256.77,0,Potential Loyalists
+15596,5,7,331.22,0,Potential Loyalists
+15597,9,6,265.21999999999997,0,Potential Loyalists
+15598,22,1,36.55,3,New / Low-Engagement Customers
+15599,16,8,140.91,0,Potential Loyalists
+15600,148,9,546.3,4,At-Risk / Churning
+15601,123,8,342.16,4,At-Risk / Churning
+15602,7,9,159.61,0,Potential Loyalists
+15603,7,7,109.62,0,Potential Loyalists
+15604,215,6,282.27,4,At-Risk / Churning
+15605,8,2,79.81,3,New / Low-Engagement Customers
+15606,6,12,690.13,0,Potential Loyalists
+15607,15,1,18.88,3,New / Low-Engagement Customers
+15608,1,6,123.0,0,Potential Loyalists
+15609,7,9,162.96,0,Potential Loyalists
+15610,15,7,377.46000000000004,0,Potential Loyalists
+15611,17,2,111.02,3,New / Low-Engagement Customers
+15612,1,18,2483.4,2,High-Value Loyalists
+15613,4,1,37.44,3,New / Low-Engagement Customers
+15614,3,13,729.99,0,Potential Loyalists
+15615,1,17,2054.58,2,High-Value Loyalists
+15616,14,1,37.98,3,New / Low-Engagement Customers
+15617,195,1,57.9,1,Lapsed / Dormant
+15618,24,6,318.36,0,Potential Loyalists
+15619,9,3,160.37,3,New / Low-Engagement Customers
+15620,15,1,39.769999999999996,3,New / Low-Engagement Customers
+15621,16,3,107.91,3,New / Low-Engagement Customers
+15622,1,11,696.32,0,Potential Loyalists
+15623,2,8,511.9,0,Potential Loyalists
+15624,1,7,106.4,0,Potential Loyalists
+15625,25,5,76.32,3,New / Low-Engagement Customers
+15626,3,19,2960.91,2,High-Value Loyalists
+15627,1,21,2874.42,2,High-Value Loyalists
+15628,14,10,170.14000000000001,0,Potential Loyalists
+15629,132,13,648.57,4,At-Risk / Churning
+15630,143,6,348.48,4,At-Risk / Churning
+15631,1,29,4018.09,2,High-Value Loyalists
+15632,1,19,2632.24,2,High-Value Loyalists
+15633,122,8,396.53,4,At-Risk / Churning
+15634,2,8,157.7,0,Potential Loyalists
+15635,187,1,58.199999999999996,1,Lapsed / Dormant
+15636,17,4,65.58,3,New / Low-Engagement Customers
+15637,1,2,137.04,3,New / Low-Engagement Customers
+15638,1,16,2359.16,2,High-Value Loyalists
+15639,221,1,21.79,1,Lapsed / Dormant
+15640,11,9,531.46,0,Potential Loyalists
+15641,2,1,29.76,3,New / Low-Engagement Customers
+15642,209,1,44.24,1,Lapsed / Dormant
+15643,15,9,387.96,0,Potential Loyalists
+15644,251,1,60.0,1,Lapsed / Dormant
+15645,2,9,412.14,0,Potential Loyalists
+15646,1,2,33.08,3,New / Low-Engagement Customers
+15647,300,1,49.199999999999996,1,Lapsed / Dormant
+15648,294,1,40.64,1,Lapsed / Dormant
+15649,1,7,464.07,0,Potential Loyalists
+15650,13,14,600.9200000000001,0,Potential Loyalists
+15651,1,21,2907.58,2,High-Value Loyalists
+15652,311,1,26.77,1,Lapsed / Dormant
+15653,10,4,66.95,3,New / Low-Engagement Customers
+15654,12,1,19.68,3,New / Low-Engagement Customers
+15655,10,7,118.78999999999999,0,Potential Loyalists
+15656,28,1,40.790000000000006,3,New / Low-Engagement Customers
+15657,3,21,2788.61,2,High-Value Loyalists
+15658,3,15,1995.42,2,High-Value Loyalists
+15659,129,12,622.5,4,At-Risk / Churning
+15660,153,13,615.01,4,At-Risk / Churning
+15661,145,9,496.02,4,At-Risk / Churning
+15662,1,19,2902.91,2,High-Value Loyalists
+15663,211,1,38.35,1,Lapsed / Dormant
+15664,347,1,48.06,1,Lapsed / Dormant
+15665,20,3,93.28,3,New / Low-Engagement Customers
+15666,3,2,90.10000000000001,3,New / Low-Engagement Customers
+15667,1,2,112.25,3,New / Low-Engagement Customers
+15668,8,3,88.64,3,New / Low-Engagement Customers
+15669,6,3,106.8,3,New / Low-Engagement Customers
+15670,132,8,409.18,4,At-Risk / Churning
+15671,1,24,3678.09,2,High-Value Loyalists
+15672,1,17,2215.7400000000002,2,High-Value Loyalists
+15673,17,7,419.86,0,Potential Loyalists
+15674,14,1,31.71,3,New / Low-Engagement Customers
+15675,2,6,85.47,3,New / Low-Engagement Customers
+15676,24,1,30.57,3,New / Low-Engagement Customers
+15677,2,10,157.72,0,Potential Loyalists
+15678,2,12,613.64,0,Potential Loyalists
+15679,24,1,16.5,3,New / Low-Engagement Customers
+15680,147,10,522.5,4,At-Risk / Churning
+15681,130,15,701.04,4,At-Risk / Churning
+15682,241,1,32.92,1,Lapsed / Dormant
+15683,13,10,163.60999999999999,0,Potential Loyalists
+15684,7,9,477.2,0,Potential Loyalists
+15685,290,1,26.68,1,Lapsed / Dormant
+15686,19,6,285.58,0,Potential Loyalists
+15687,18,1,29.79,3,New / Low-Engagement Customers
+15688,144,9,508.08,4,At-Risk / Churning
+15689,14,7,329.5,0,Potential Loyalists
+15690,15,6,215.82,0,Potential Loyalists
+15691,171,5,210.16,4,At-Risk / Churning
+15692,288,1,28.48,1,Lapsed / Dormant
+15693,2,12,567.97,0,Potential Loyalists
+15694,209,1,29.82,1,Lapsed / Dormant
+15695,1,22,2985.96,2,High-Value Loyalists
+15696,2,26,3505.28,2,High-Value Loyalists
+15697,3,13,760.6,0,Potential Loyalists
+15698,3,25,3274.37,2,High-Value Loyalists
+15699,156,9,312.23,4,At-Risk / Churning
+15700,12,7,99.89,0,Potential Loyalists
+15701,1,24,2819.87,2,High-Value Loyalists
+15702,1,28,3952.18,2,High-Value Loyalists
+15703,293,1,56.89,1,Lapsed / Dormant
+15704,172,7,357.65,4,At-Risk / Churning
+15705,2,13,801.63,0,Potential Loyalists
+15706,199,11,504.7,4,At-Risk / Churning
+15707,253,9,501.97,4,At-Risk / Churning
+15708,1,24,3185.86,2,High-Value Loyalists
+15709,15,3,135.63,3,New / Low-Engagement Customers
+15710,4,15,2457.01,2,High-Value Loyalists
+15711,2,14,748.62,0,Potential Loyalists
+15712,6,8,534.41,0,Potential Loyalists
+15713,12,7,379.12,0,Potential Loyalists
+15714,5,2,105.44,3,New / Low-Engagement Customers
+15715,149,12,557.59,4,At-Risk / Churning
+15716,208,1,46.879999999999995,1,Lapsed / Dormant
+15717,6,1,60.18,3,New / Low-Engagement Customers
+15718,21,2,86.62,3,New / Low-Engagement Customers
+15719,184,1,44.269999999999996,1,Lapsed / Dormant
+15720,143,14,754.6899999999999,4,At-Risk / Churning
+15721,26,2,97.88,3,New / Low-Engagement Customers
+15722,2,6,379.09000000000003,0,Potential Loyalists
+15723,31,9,148.38,0,Potential Loyalists
+15724,3,11,638.49,0,Potential Loyalists
+15725,138,12,654.32,4,At-Risk / Churning
+15726,6,7,116.79,0,Potential Loyalists
+15727,10,5,80.69,3,New / Low-Engagement Customers
+15728,178,5,255.32,4,At-Risk / Churning
+15729,7,14,727.73,0,Potential Loyalists
+15730,11,3,163.51,3,New / Low-Engagement Customers
+15731,142,13,751.63,4,At-Risk / Churning
+15732,218,1,40.16,1,Lapsed / Dormant
+15733,149,11,580.05,4,At-Risk / Churning
+15734,1,8,545.6999999999999,0,Potential Loyalists
+15735,7,11,578.32,0,Potential Loyalists
+15736,181,10,443.75,4,At-Risk / Churning
+15737,4,3,140.35,3,New / Low-Engagement Customers
+15738,130,13,689.62,4,At-Risk / Churning
+15739,19,7,513.08,0,Potential Loyalists
+15740,5,10,572.1,0,Potential Loyalists
+15741,10,8,119.5,0,Potential Loyalists
+15742,130,13,746.28,4,At-Risk / Churning
+15743,2,9,133.44,0,Potential Loyalists
+15744,1,26,3265.83,2,High-Value Loyalists
+15745,9,6,103.99,3,New / Low-Engagement Customers
+15746,3,1,38.49,3,New / Low-Engagement Customers
+15747,17,4,64.87,3,New / Low-Engagement Customers
+15748,1,22,2957.08,2,High-Value Loyalists
+15749,259,1,57.599999999999994,1,Lapsed / Dormant
+15750,295,1,47.31,1,Lapsed / Dormant
+15751,273,1,30.799999999999997,1,Lapsed / Dormant
+15752,4,13,659.72,0,Potential Loyalists
+15753,2,23,3364.05,2,High-Value Loyalists
+15754,3,10,531.0,0,Potential Loyalists
+15755,6,11,541.62,0,Potential Loyalists
+15756,25,7,138.62,0,Potential Loyalists
+15757,39,4,62.46,3,New / Low-Engagement Customers
+15758,351,1,56.56,1,Lapsed / Dormant
+15759,23,1,47.33,3,New / Low-Engagement Customers
+15760,3,15,2153.89,2,High-Value Loyalists
+15761,2,30,3914.22,2,High-Value Loyalists
+15762,9,3,149.51,3,New / Low-Engagement Customers
+15763,15,6,345.96,0,Potential Loyalists
+15764,165,6,279.37,4,At-Risk / Churning
+15765,4,25,3187.05,2,High-Value Loyalists
+15766,294,1,31.939999999999998,1,Lapsed / Dormant
+15767,122,7,389.07,4,At-Risk / Churning
+15768,7,5,71.58,3,New / Low-Engagement Customers
+15769,149,5,180.14,4,At-Risk / Churning
+15770,9,8,462.44,0,Potential Loyalists
+15771,18,8,111.75,0,Potential Loyalists
+15772,11,1,49.230000000000004,3,New / Low-Engagement Customers
+15773,232,1,56.95,1,Lapsed / Dormant
+15774,261,1,34.49,1,Lapsed / Dormant
+15775,125,12,621.09,4,At-Risk / Churning
+15776,236,1,19.46,1,Lapsed / Dormant
+15777,164,7,374.64,4,At-Risk / Churning
+15778,14,5,88.79,3,New / Low-Engagement Customers
+15779,8,6,332.82,0,Potential Loyalists
+15780,130,15,733.07,4,At-Risk / Churning
+15781,269,1,23.5,1,Lapsed / Dormant
+15782,1,17,2562.83,2,High-Value Loyalists
+15783,200,1,37.71,1,Lapsed / Dormant
+15784,4,3,121.46,3,New / Low-Engagement Customers
+15785,15,13,794.85,0,Potential Loyalists
+15786,28,7,131.39,0,Potential Loyalists
+15787,6,2,52.25,3,New / Low-Engagement Customers
+15788,15,6,333.39,0,Potential Loyalists
+15789,4,9,153.59,0,Potential Loyalists
+15790,272,1,32.19,1,Lapsed / Dormant
+15791,37,6,85.15,3,New / Low-Engagement Customers
+15792,1,22,2934.42,2,High-Value Loyalists
+15793,9,3,101.15,3,New / Low-Engagement Customers
+15794,5,14,844.33,0,Potential Loyalists
+15795,7,3,132.82,3,New / Low-Engagement Customers
+15796,4,13,675.63,0,Potential Loyalists
+15797,349,1,41.76,1,Lapsed / Dormant
+15798,250,1,36.099999999999994,1,Lapsed / Dormant
+15799,155,5,218.43,4,At-Risk / Churning
+15800,9,8,137.18,0,Potential Loyalists
+15801,3,7,342.28999999999996,0,Potential Loyalists
+15802,17,8,115.17,0,Potential Loyalists
+15803,135,11,490.03,4,At-Risk / Churning
+15804,266,1,16.91,1,Lapsed / Dormant
+15805,121,10,489.12,4,At-Risk / Churning
+15806,2,28,3606.33,2,High-Value Loyalists
+15807,2,4,63.03,3,New / Low-Engagement Customers
+15808,131,9,354.27,4,At-Risk / Churning
+15809,1,15,1977.92,2,High-Value Loyalists
+15810,203,1,55.830000000000005,1,Lapsed / Dormant
+15811,123,11,493.39,4,At-Risk / Churning
+15812,9,12,707.96,0,Potential Loyalists
+15813,128,14,658.1,4,At-Risk / Churning
+15814,5,3,100.03999999999999,3,New / Low-Engagement Customers
+15815,145,11,476.6,4,At-Risk / Churning
+15816,1,3,170.17,3,New / Low-Engagement Customers
+15817,2,3,105.89999999999999,3,New / Low-Engagement Customers
+15818,2,22,3044.39,2,High-Value Loyalists
+15819,173,7,395.1,4,At-Risk / Churning
+15820,6,3,118.2,3,New / Low-Engagement Customers
+15821,139,14,631.52,4,At-Risk / Churning
+15822,3,5,97.95,3,New / Low-Engagement Customers
+15823,1,14,818.45,0,Potential Loyalists
+15824,141,12,764.81,4,At-Risk / Churning
+15825,2,8,446.64,0,Potential Loyalists
+15826,2,28,4071.4,2,High-Value Loyalists
+15827,290,1,58.7,1,Lapsed / Dormant
+15828,1,30,3973.4,2,High-Value Loyalists
+15829,16,9,160.47,0,Potential Loyalists
+15830,1,17,2209.26,2,High-Value Loyalists
+15831,4,1,43.0,3,New / Low-Engagement Customers
+15832,128,6,317.71,4,At-Risk / Churning
+15833,6,10,545.39,0,Potential Loyalists
+15834,17,8,383.56,0,Potential Loyalists
+15835,11,1,34.68,3,New / Low-Engagement Customers
+15836,23,1,24.2,3,New / Low-Engagement Customers
+15837,161,7,334.76,4,At-Risk / Churning
+15838,366,1,42.599999999999994,1,Lapsed / Dormant
+15839,29,1,37.97,3,New / Low-Engagement Customers
+15840,149,12,671.4,4,At-Risk / Churning
+15841,15,4,72.48,3,New / Low-Engagement Customers
+15842,12,7,318.11,0,Potential Loyalists
+15843,138,12,610.03,4,At-Risk / Churning
+15844,133,14,632.75,4,At-Risk / Churning
+15845,2,7,107.78,0,Potential Loyalists
+15846,7,9,551.9100000000001,0,Potential Loyalists
+15847,226,1,39.43,1,Lapsed / Dormant
+15848,7,6,285.42,0,Potential Loyalists
+15849,1,6,319.72,0,Potential Loyalists
+15850,12,2,102.58,3,New / Low-Engagement Customers
+15851,211,15,799.36,4,At-Risk / Churning
+15852,323,1,55.74,1,Lapsed / Dormant
+15853,305,1,57.06,1,Lapsed / Dormant
+15854,7,1,45.44,3,New / Low-Engagement Customers
+15855,3,3,113.88000000000001,3,New / Low-Engagement Customers
+15856,125,6,251.53,4,At-Risk / Churning
+15857,21,6,317.13,0,Potential Loyalists
+15858,3,13,802.61,0,Potential Loyalists
+15859,13,7,141.2,0,Potential Loyalists
+15860,365,1,40.69,1,Lapsed / Dormant
+15861,126,14,709.18,4,At-Risk / Churning
+15862,328,1,25.450000000000003,1,Lapsed / Dormant
+15863,1,14,832.01,0,Potential Loyalists
+15864,1,29,4203.11,2,High-Value Loyalists
+15865,24,7,401.44,0,Potential Loyalists
+15866,22,3,87.89,3,New / Low-Engagement Customers
+15867,1,7,434.03,0,Potential Loyalists
+15868,11,7,110.99,0,Potential Loyalists
+15869,1,22,3117.7799999999997,2,High-Value Loyalists
+15870,6,8,151.11,0,Potential Loyalists
+15871,4,12,651.0,0,Potential Loyalists
+15872,1,27,3941.2999999999997,2,High-Value Loyalists
+15873,3,7,130.15,0,Potential Loyalists
+15874,3,6,127.50999999999999,0,Potential Loyalists
+15875,21,7,128.76,0,Potential Loyalists
+15876,4,11,546.11,0,Potential Loyalists
+15877,149,7,381.82,4,At-Risk / Churning
+15878,4,9,511.61,0,Potential Loyalists
+15879,131,7,295.51,4,At-Risk / Churning
+15880,122,15,738.98,4,At-Risk / Churning
+15881,122,8,325.44,4,At-Risk / Churning
+15882,246,1,53.87,1,Lapsed / Dormant
+15883,2,13,731.65,0,Potential Loyalists
+15884,6,3,140.07,3,New / Low-Engagement Customers
+15885,20,1,39.629999999999995,3,New / Low-Engagement Customers
+15886,22,8,537.16,0,Potential Loyalists
+15887,6,6,314.24,0,Potential Loyalists
+15888,22,8,128.27,0,Potential Loyalists
+15889,153,11,535.19,4,At-Risk / Churning
+15890,1,13,676.7,0,Potential Loyalists
+15891,127,5,264.49,4,At-Risk / Churning
+15892,122,14,684.64,4,At-Risk / Churning
+15893,1,18,2316.16,2,High-Value Loyalists
+15894,179,11,422.84000000000003,4,At-Risk / Churning
+15895,150,10,421.72,4,At-Risk / Churning
+15896,185,1,14.68,1,Lapsed / Dormant
+15897,183,10,414.86,4,At-Risk / Churning
+15898,2,10,555.8,0,Potential Loyalists
+15899,121,11,561.4,4,At-Risk / Churning
+15900,5,9,551.09,0,Potential Loyalists
+15901,4,1,34.41,3,New / Low-Engagement Customers
+15902,14,2,86.64999999999999,3,New / Low-Engagement Customers
+15903,14,8,474.81000000000006,0,Potential Loyalists
+15904,17,1,36.89,3,New / Low-Engagement Customers
+15905,13,4,69.26,3,New / Low-Engagement Customers
+15906,122,14,751.82,4,At-Risk / Churning
+15907,13,3,110.56,3,New / Low-Engagement Customers
+15908,336,1,18.54,1,Lapsed / Dormant
+15909,183,1,65.66,1,Lapsed / Dormant
+15910,1,24,3218.04,2,High-Value Loyalists
+15911,323,1,41.54,1,Lapsed / Dormant
+15912,5,11,661.98,0,Potential Loyalists
+15913,6,8,134.93,0,Potential Loyalists
+15914,1,16,2316.92,2,High-Value Loyalists
+15915,14,10,562.83,0,Potential Loyalists
+15916,8,10,145.08,0,Potential Loyalists
+15917,1,10,614.1800000000001,0,Potential Loyalists
+15918,162,11,436.59000000000003,4,At-Risk / Churning
+15919,1,29,4302.38,2,High-Value Loyalists
+15920,1,23,3127.61,2,High-Value Loyalists
+15921,1,9,140.07,0,Potential Loyalists
+15922,5,6,355.3,0,Potential Loyalists
+15923,140,8,484.89,4,At-Risk / Churning
+15924,2,3,107.45,3,New / Low-Engagement Customers
+15925,227,1,12.82,1,Lapsed / Dormant
+15926,349,1,27.2,1,Lapsed / Dormant
+15927,124,13,620.88,4,At-Risk / Churning
+15928,214,6,317.74,4,At-Risk / Churning
+15929,9,9,189.78,0,Potential Loyalists
+15930,1,12,674.88,0,Potential Loyalists
+15931,158,8,399.35,4,At-Risk / Churning
+15932,1,28,3772.4700000000003,2,High-Value Loyalists
+15933,17,3,165.55,3,New / Low-Engagement Customers
+15934,262,1,37.61,1,Lapsed / Dormant
+15935,1,6,414.76,0,Potential Loyalists
+15936,132,14,756.08,4,At-Risk / Churning
+15937,19,3,120.75999999999999,3,New / Low-Engagement Customers
+15938,23,9,101.65,0,Potential Loyalists
+15939,1,28,3924.08,2,High-Value Loyalists
+15940,1,8,113.42,0,Potential Loyalists
+15941,5,11,517.75,0,Potential Loyalists
+15942,139,6,410.73,4,At-Risk / Churning
+15943,5,2,125.02000000000001,3,New / Low-Engagement Customers
+15944,15,7,87.93,3,New / Low-Engagement Customers
+15945,21,1,62.49,3,New / Low-Engagement Customers
+15946,1,19,3239.39,2,High-Value Loyalists
+15947,16,1,34.33,3,New / Low-Engagement Customers
+15948,1,17,2387.21,2,High-Value Loyalists
+15949,1,22,2914.61,2,High-Value Loyalists
+15950,10,3,90.8,3,New / Low-Engagement Customers
+15951,1,5,90.74,3,New / Low-Engagement Customers
+15952,338,1,39.5,1,Lapsed / Dormant
+15953,4,10,590.84,0,Potential Loyalists
+15954,3,12,651.77,0,Potential Loyalists
+15955,8,9,551.17,0,Potential Loyalists
+15956,5,3,147.08,3,New / Low-Engagement Customers
+15957,5,2,62.879999999999995,3,New / Low-Engagement Customers
+15958,136,13,649.96,4,At-Risk / Churning
+15959,6,14,895.3100000000001,0,Potential Loyalists
+15960,23,7,145.28,0,Potential Loyalists
+15961,5,9,122.28,0,Potential Loyalists
+15962,1,24,3366.3,2,High-Value Loyalists
+15963,244,1,58.71,1,Lapsed / Dormant
+15964,3,8,135.15,0,Potential Loyalists
+15965,6,14,740.4,0,Potential Loyalists
+15966,123,14,699.18,4,At-Risk / Churning
+15967,3,2,52.660000000000004,3,New / Low-Engagement Customers
+15968,2,14,684.99,0,Potential Loyalists
+15969,1,1,67.8,3,New / Low-Engagement Customers
+15970,129,5,300.90000000000003,4,At-Risk / Churning
+15971,145,13,494.71,4,At-Risk / Churning
+15972,145,6,300.39,4,At-Risk / Churning
+15973,11,6,108.38,3,New / Low-Engagement Customers
+15974,1,9,498.82,0,Potential Loyalists
+15975,122,10,403.23,4,At-Risk / Churning
+15976,1,24,3198.6,2,High-Value Loyalists
+15977,136,15,623.96,4,At-Risk / Churning
+15978,2,3,88.27,3,New / Low-Engagement Customers
+15979,3,14,756.02,0,Potential Loyalists
+15980,3,6,336.12,0,Potential Loyalists
+15981,1,15,1867.73,2,High-Value Loyalists
+15982,1,27,3680.2,2,High-Value Loyalists
+15983,1,17,2330.3,2,High-Value Loyalists
+15984,21,2,81.91,3,New / Low-Engagement Customers
+15985,156,7,352.13,4,At-Risk / Churning
+15986,1,27,3661.08,2,High-Value Loyalists
+15987,121,15,748.86,4,At-Risk / Churning
+15988,211,1,33.0,1,Lapsed / Dormant
+15989,4,6,104.21000000000001,0,Potential Loyalists
+15990,128,12,656.44,4,At-Risk / Churning
+15991,3,27,4126.58,2,High-Value Loyalists
+15992,40,6,78.56,3,New / Low-Engagement Customers
+15993,5,13,694.17,0,Potential Loyalists
+15994,16,11,577.39,0,Potential Loyalists
+15995,3,11,563.17,0,Potential Loyalists
+15996,3,9,552.4300000000001,0,Potential Loyalists
+15997,7,5,106.81,3,New / Low-Engagement Customers
+15998,2,21,2848.0299999999997,2,High-Value Loyalists
+15999,1,15,1854.58,2,High-Value Loyalists
+16000,144,11,443.08,4,At-Risk / Churning

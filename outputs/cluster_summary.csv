@@ -1,0 +1,6 @@
+KMeans_Cluster,Recency,Frequency,Monetary,Count,Segment,Recommended_Action
+0,7.2,9.4,424.7,1268,Potential Loyalists,"Loyalty program invite, cross-sell recommendations"
+1,274.7,1.0,34.4,480,Lapsed / Dormant,Reactivation campaign or sunset from active marketing spend
+2,1.5,22.3,3025.1,482,High-Value Loyalists,"VIP loyalty perks, early access to new products, referral incentives"
+3,13.6,2.7,82.4,949,New / Low-Engagement Customers,"Onboarding series, first-purchase follow-up, welcome discount"
+4,144.2,9.9,480.4,815,At-Risk / Churning,"Win-back email campaign, personalized discount, satisfaction survey"

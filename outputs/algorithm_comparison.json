@@ -1,0 +1,7 @@
+{
+  "kmeans_k": 5,
+  "kmeans_silhouette": 0.543,
+  "dbscan_clusters_found": 2,
+  "dbscan_noise_points": 0,
+  "dbscan_silhouette": 0.411
+}

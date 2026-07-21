@@ -1,0 +1,10 @@
+{
+  "total_customers": 3994,
+  "total_historical_revenue": 2482889.14,
+  "at_risk_customer_count": 815,
+  "at_risk_pct_of_base": 20.4,
+  "at_risk_historical_value": 391526.0,
+  "estimated_recoverable_revenue_low": 58728.9,
+  "estimated_recoverable_revenue_high": 78305.2,
+  "assumption": "15-20% win-back conversion rate on at-risk segment's historical spend"
+}
